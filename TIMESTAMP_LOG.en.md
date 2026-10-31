@@ -11,4 +11,5 @@
 - The provisional index contains 470 dish and preparation keywords and 1,680 video references, mainly based on original titles.
 - Completed five recipes from one video; the other 1,221 videos have not been individually reviewed at the content level.
 - This stage delivers the catalogue, index recommendations, exclusions, review queue, Excel and Word downloads, and synchronized Chinese and English documentation.
-- Publication events and commit IDs will be appended after remote verification.
+- 2026-10-31 14:17 (Asia/Shanghai): created the private repository and pushed initial commit `b2bcbcb66a14aad4bcbe24c57f565dab144a3b37`. Remote `main` matched the local commit, and Git object hashes matched for all 31 files.
+- This record was appended after initial publication; the follow-up log commit is available in Git history.
