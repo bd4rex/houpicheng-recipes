@@ -1,0 +1,3321 @@
+[
+  {
+    "dish": "白切鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "白切鸡"
+    ]
+  },
+  {
+    "dish": "豉油鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "豉油鸡"
+    ]
+  },
+  {
+    "dish": "盐焗鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "盐焗鸡"
+    ]
+  },
+  {
+    "dish": "电饭锅盐焗鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "电饭锅盐焗鸡"
+    ]
+  },
+  {
+    "dish": "电饭锅焗鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "电饭锅焗鸡"
+    ]
+  },
+  {
+    "dish": "隔水蒸鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "隔水蒸鸡"
+    ]
+  },
+  {
+    "dish": "桑拿鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "桑拿鸡"
+    ]
+  },
+  {
+    "dish": "沙姜鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "沙姜鸡"
+    ]
+  },
+  {
+    "dish": "沙姜焗鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "沙姜焗鸡"
+    ]
+  },
+  {
+    "dish": "沙姜炒鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "沙姜炒鸡"
+    ]
+  },
+  {
+    "dish": "姜葱炒鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "姜葱炒鸡"
+    ]
+  },
+  {
+    "dish": "冬菇蒸鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "冬菇蒸鸡"
+    ]
+  },
+  {
+    "dish": "冬菇滑鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "冬菇滑鸡"
+    ]
+  },
+  {
+    "dish": "虫草花蒸鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "虫草花蒸鸡"
+    ]
+  },
+  {
+    "dish": "荷叶蒸鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "荷叶蒸鸡"
+    ]
+  },
+  {
+    "dish": "五指毛桃盐焗鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "五指毛桃盐焗鸡"
+    ]
+  },
+  {
+    "dish": "五指毛桃焗鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "五指毛桃焗鸡"
+    ]
+  },
+  {
+    "dish": "板栗焖鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "板栗焖鸡"
+    ]
+  },
+  {
+    "dish": "啫啫鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "啫啫鸡"
+    ]
+  },
+  {
+    "dish": "滑鸡啫啫煲",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "滑鸡啫啫煲"
+    ]
+  },
+  {
+    "dish": "鲍鱼焖鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "鲍鱼焖鸡"
+    ]
+  },
+  {
+    "dish": "鲍鱼鸡煲",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "鲍鱼鸡煲"
+    ]
+  },
+  {
+    "dish": "鸡煲",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "鸡煲"
+    ]
+  },
+  {
+    "dish": "鸡腿扒",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "鸡腿扒"
+    ]
+  },
+  {
+    "dish": "煎鸡扒",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "煎鸡扒"
+    ]
+  },
+  {
+    "dish": "照烧鸡腿",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "照烧鸡腿"
+    ]
+  },
+  {
+    "dish": "咖喱鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "咖喱鸡"
+    ]
+  },
+  {
+    "dish": "咖喱鸡扒",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "咖喱鸡扒"
+    ]
+  },
+  {
+    "dish": "咖喱鸡腿",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "咖喱鸡腿"
+    ]
+  },
+  {
+    "dish": "奶油蘑菇鸡腿扒",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "奶油蘑菇鸡腿扒"
+    ]
+  },
+  {
+    "dish": "盐焗鸡翅",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "盐焗鸡翅"
+    ]
+  },
+  {
+    "dish": "蒜香鸡翅",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "蒜香鸡翅",
+      "蒜香鸡翼"
+    ]
+  },
+  {
+    "dish": "烤鸡翅",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "烤鸡翅"
+    ]
+  },
+  {
+    "dish": "奥尔良烤翅",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "奥尔良烤翅"
+    ]
+  },
+  {
+    "dish": "可乐鸡翅",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "可乐鸡翅"
+    ]
+  },
+  {
+    "dish": "沙茶酱鸡翅",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "沙茶酱鸡翅"
+    ]
+  },
+  {
+    "dish": "蜜汁叉烧鸡翅",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "蜜汁叉烧鸡翅"
+    ]
+  },
+  {
+    "dish": "脆皮鸡翅",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "脆皮鸡翅"
+    ]
+  },
+  {
+    "dish": "蒜香鸡腿肉",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "蒜香鸡腿肉"
+    ]
+  },
+  {
+    "dish": "鸡胸肉炒豆角",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "鸡胸肉炒豆角"
+    ]
+  },
+  {
+    "dish": "鸡胸肉杂蔬丁",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "鸡胸肉杂蔬丁"
+    ]
+  },
+  {
+    "dish": "姜母鸭",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "姜母鸭"
+    ]
+  },
+  {
+    "dish": "陈皮鸭",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "陈皮鸭"
+    ]
+  },
+  {
+    "dish": "胡椒鸭",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "胡椒鸭"
+    ]
+  },
+  {
+    "dish": "焖鹅掌翼",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "焖鹅掌翼"
+    ]
+  },
+  {
+    "dish": "鹅掌煲",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "鹅掌煲"
+    ]
+  },
+  {
+    "dish": "手撕鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "手撕鸡"
+    ]
+  },
+  {
+    "dish": "红葱头淋鸡",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "红葱头淋鸡"
+    ]
+  },
+  {
+    "dish": "炸鸡柳",
+    "category": "鸡鸭禽肉",
+    "aliases": [
+      "炸鸡柳"
+    ]
+  },
+  {
+    "dish": "红烧肉",
+    "category": "猪肉",
+    "aliases": [
+      "红烧肉"
+    ]
+  },
+  {
+    "dish": "可乐红烧肉",
+    "category": "猪肉",
+    "aliases": [
+      "可乐红烧肉"
+    ]
+  },
+  {
+    "dish": "蒸排骨",
+    "category": "猪肉",
+    "aliases": [
+      "蒸排骨"
+    ]
+  },
+  {
+    "dish": "豉汁蒸排骨",
+    "category": "猪肉",
+    "aliases": [
+      "豉汁蒸排骨"
+    ]
+  },
+  {
+    "dish": "豉汁排骨焗南瓜",
+    "category": "猪肉",
+    "aliases": [
+      "豉汁排骨焗南瓜"
+    ]
+  },
+  {
+    "dish": "南瓜焖排骨",
+    "category": "猪肉",
+    "aliases": [
+      "南瓜焖排骨"
+    ]
+  },
+  {
+    "dish": "生炒排骨",
+    "category": "猪肉",
+    "aliases": [
+      "生炒排骨"
+    ]
+  },
+  {
+    "dish": "椒盐排骨",
+    "category": "猪肉",
+    "aliases": [
+      "椒盐排骨"
+    ]
+  },
+  {
+    "dish": "盐焗排骨",
+    "category": "猪肉",
+    "aliases": [
+      "盐焗排骨"
+    ]
+  },
+  {
+    "dish": "水煎排骨",
+    "category": "猪肉",
+    "aliases": [
+      "水煎排骨"
+    ]
+  },
+  {
+    "dish": "烤排骨",
+    "category": "猪肉",
+    "aliases": [
+      "烤排骨"
+    ]
+  },
+  {
+    "dish": "糖醋排骨",
+    "category": "猪肉",
+    "aliases": [
+      "糖醋排骨"
+    ]
+  },
+  {
+    "dish": "话梅菠萝排骨",
+    "category": "猪肉",
+    "aliases": [
+      "话梅菠萝排骨"
+    ]
+  },
+  {
+    "dish": "白切猪肉",
+    "category": "猪肉",
+    "aliases": [
+      "白切猪肉",
+      "白切肉"
+    ]
+  },
+  {
+    "dish": "水煎五花肉",
+    "category": "猪肉",
+    "aliases": [
+      "水煎五花肉"
+    ]
+  },
+  {
+    "dish": "水煎肉",
+    "category": "猪肉",
+    "aliases": [
+      "水煎肉"
+    ]
+  },
+  {
+    "dish": "香煎贵妃肉",
+    "category": "猪肉",
+    "aliases": [
+      "香煎贵妃肉"
+    ]
+  },
+  {
+    "dish": "洋葱猪扒",
+    "category": "猪肉",
+    "aliases": [
+      "洋葱猪扒"
+    ]
+  },
+  {
+    "dish": "黑椒猪扒",
+    "category": "猪肉",
+    "aliases": [
+      "黑椒猪扒"
+    ]
+  },
+  {
+    "dish": "苹果肉桂猪扒",
+    "category": "猪肉",
+    "aliases": [
+      "苹果肉桂猪扒",
+      "肉桂苹果猪扒",
+      "苹果猪扒"
+    ]
+  },
+  {
+    "dish": "脆皮猪扒",
+    "category": "猪肉",
+    "aliases": [
+      "脆皮猪扒"
+    ]
+  },
+  {
+    "dish": "吉列猪扒",
+    "category": "猪肉",
+    "aliases": [
+      "吉列猪扒"
+    ]
+  },
+  {
+    "dish": "煎猪扒",
+    "category": "猪肉",
+    "aliases": [
+      "煎猪扒"
+    ]
+  },
+  {
+    "dish": "盐焗猪扒",
+    "category": "猪肉",
+    "aliases": [
+      "盐焗猪扒"
+    ]
+  },
+  {
+    "dish": "盐焗猪手",
+    "category": "猪肉",
+    "aliases": [
+      "盐焗猪手"
+    ]
+  },
+  {
+    "dish": "猪脚姜",
+    "category": "猪肉",
+    "aliases": [
+      "猪脚姜"
+    ]
+  },
+  {
+    "dish": "猪肉饼",
+    "category": "猪肉",
+    "aliases": [
+      "猪肉饼"
+    ]
+  },
+  {
+    "dish": "肉饼",
+    "category": "猪肉",
+    "aliases": [
+      "肉饼"
+    ]
+  },
+  {
+    "dish": "蒸肉饼",
+    "category": "猪肉",
+    "aliases": [
+      "蒸肉饼"
+    ]
+  },
+  {
+    "dish": "马蹄蒸肉饼",
+    "category": "猪肉",
+    "aliases": [
+      "马蹄蒸肉饼"
+    ]
+  },
+  {
+    "dish": "榨菜蒸肉饼",
+    "category": "猪肉",
+    "aliases": [
+      "榨菜蒸肉饼"
+    ]
+  },
+  {
+    "dish": "淮山蒸肉饼",
+    "category": "猪肉",
+    "aliases": [
+      "淮山蒸肉饼"
+    ]
+  },
+  {
+    "dish": "台式卤肉",
+    "category": "猪肉",
+    "aliases": [
+      "台式卤肉"
+    ]
+  },
+  {
+    "dish": "叉烧",
+    "category": "猪肉",
+    "aliases": [
+      "叉烧"
+    ]
+  },
+  {
+    "dish": "广式牛腩",
+    "category": "牛羊肉",
+    "aliases": [
+      "广式牛腩",
+      "港式牛腩"
+    ]
+  },
+  {
+    "dish": "咖喱牛腩",
+    "category": "牛羊肉",
+    "aliases": [
+      "咖喱牛腩"
+    ]
+  },
+  {
+    "dish": "番茄牛腩",
+    "category": "牛羊肉",
+    "aliases": [
+      "番茄牛腩"
+    ]
+  },
+  {
+    "dish": "萝卜牛腩",
+    "category": "牛羊肉",
+    "aliases": [
+      "萝卜牛腩"
+    ]
+  },
+  {
+    "dish": "清汤腩",
+    "category": "牛羊肉",
+    "aliases": [
+      "清汤腩",
+      "港式清汤腩",
+      "粤式清汤腩"
+    ]
+  },
+  {
+    "dish": "清炖牛肋条",
+    "category": "牛羊肉",
+    "aliases": [
+      "清炖牛肋条"
+    ]
+  },
+  {
+    "dish": "卤牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "卤牛肉"
+    ]
+  },
+  {
+    "dish": "白切牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "白切牛肉"
+    ]
+  },
+  {
+    "dish": "凉拌牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "凉拌牛肉"
+    ]
+  },
+  {
+    "dish": "凉拌牛肋条",
+    "category": "牛羊肉",
+    "aliases": [
+      "凉拌牛肋条"
+    ]
+  },
+  {
+    "dish": "啫啫牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "啫啫牛肉"
+    ]
+  },
+  {
+    "dish": "番茄牛肉煲",
+    "category": "牛羊肉",
+    "aliases": [
+      "番茄牛肉煲"
+    ]
+  },
+  {
+    "dish": "黑椒牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "黑椒牛肉"
+    ]
+  },
+  {
+    "dish": "黑椒牛肉粒",
+    "category": "牛羊肉",
+    "aliases": [
+      "黑椒牛肉粒"
+    ]
+  },
+  {
+    "dish": "黑椒牛柳",
+    "category": "牛羊肉",
+    "aliases": [
+      "黑椒牛柳"
+    ]
+  },
+  {
+    "dish": "黑椒牛仔骨",
+    "category": "牛羊肉",
+    "aliases": [
+      "黑椒牛仔骨"
+    ]
+  },
+  {
+    "dish": "黑椒牛排",
+    "category": "牛羊肉",
+    "aliases": [
+      "黑椒牛排"
+    ]
+  },
+  {
+    "dish": "孜然牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "孜然牛肉"
+    ]
+  },
+  {
+    "dish": "紫苏雪花牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "紫苏雪花牛肉"
+    ]
+  },
+  {
+    "dish": "菠萝牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "菠萝牛肉"
+    ]
+  },
+  {
+    "dish": "芒果牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "芒果牛肉"
+    ]
+  },
+  {
+    "dish": "草菇炒牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "草菇炒牛肉"
+    ]
+  },
+  {
+    "dish": "番茄炒牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "番茄炒牛肉"
+    ]
+  },
+  {
+    "dish": "苦瓜炒牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "苦瓜炒牛肉"
+    ]
+  },
+  {
+    "dish": "芥蓝牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "芥蓝牛肉"
+    ]
+  },
+  {
+    "dish": "炒牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "炒牛肉"
+    ]
+  },
+  {
+    "dish": "香煎牛小排",
+    "category": "牛羊肉",
+    "aliases": [
+      "香煎牛小排"
+    ]
+  },
+  {
+    "dish": "煎牛排",
+    "category": "牛羊肉",
+    "aliases": [
+      "煎牛排"
+    ]
+  },
+  {
+    "dish": "煎牛肋条",
+    "category": "牛羊肉",
+    "aliases": [
+      "煎牛肋条"
+    ]
+  },
+  {
+    "dish": "牛肉饼",
+    "category": "牛羊肉",
+    "aliases": [
+      "牛肉饼"
+    ]
+  },
+  {
+    "dish": "牛肉丸",
+    "category": "牛羊肉",
+    "aliases": [
+      "牛肉丸"
+    ]
+  },
+  {
+    "dish": "瑞典肉丸",
+    "category": "牛羊肉",
+    "aliases": [
+      "瑞典肉丸"
+    ]
+  },
+  {
+    "dish": "泉水牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "泉水牛肉"
+    ]
+  },
+  {
+    "dish": "沙茶酱牛肉",
+    "category": "牛羊肉",
+    "aliases": [
+      "沙茶酱牛肉"
+    ]
+  },
+  {
+    "dish": "牛肉火锅",
+    "category": "牛羊肉",
+    "aliases": [
+      "牛肉火锅"
+    ]
+  },
+  {
+    "dish": "烤青花鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "烤青花鱼"
+    ]
+  },
+  {
+    "dish": "烤三文鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "烤三文鱼"
+    ]
+  },
+  {
+    "dish": "烤三文鱼头",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "烤三文鱼头"
+    ]
+  },
+  {
+    "dish": "柠汁黄油三文鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "柠汁黄油三文鱼"
+    ]
+  },
+  {
+    "dish": "黄油蒜香三文鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "黄油蒜香三文鱼"
+    ]
+  },
+  {
+    "dish": "奶油三文鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "奶油三文鱼"
+    ]
+  },
+  {
+    "dish": "椒盐三文鱼骨",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "椒盐三文鱼骨"
+    ]
+  },
+  {
+    "dish": "盐水浸鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "盐水浸鱼"
+    ]
+  },
+  {
+    "dish": "盐水煮鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "盐水煮鱼"
+    ]
+  },
+  {
+    "dish": "盐焗鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "盐焗鱼"
+    ]
+  },
+  {
+    "dish": "豉汁蒸鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "豉汁蒸鱼"
+    ]
+  },
+  {
+    "dish": "陈皮蒸鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "陈皮蒸鱼"
+    ]
+  },
+  {
+    "dish": "清蒸鲷鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "清蒸鲷鱼"
+    ]
+  },
+  {
+    "dish": "黄豆酱焖鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "黄豆酱焖鱼"
+    ]
+  },
+  {
+    "dish": "香煎龙利鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "香煎龙利鱼"
+    ]
+  },
+  {
+    "dish": "香煎巴浪鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "香煎巴浪鱼"
+    ]
+  },
+  {
+    "dish": "香煎秋刀鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "香煎秋刀鱼"
+    ]
+  },
+  {
+    "dish": "烤秋刀鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "烤秋刀鱼"
+    ]
+  },
+  {
+    "dish": "肉饼蒸鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "肉饼蒸鱼"
+    ]
+  },
+  {
+    "dish": "豆豉鲮鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "豆豉鲮鱼"
+    ]
+  },
+  {
+    "dish": "盐焗虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "盐焗虾"
+    ]
+  },
+  {
+    "dish": "盐水焗虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "盐水焗虾"
+    ]
+  },
+  {
+    "dish": "白灼虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "白灼虾"
+    ]
+  },
+  {
+    "dish": "芝士焗虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "芝士焗虾"
+    ]
+  },
+  {
+    "dish": "蒜香黄油焗虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "蒜香黄油焗虾"
+    ]
+  },
+  {
+    "dish": "蒜香黄油虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "蒜香黄油虾"
+    ]
+  },
+  {
+    "dish": "蒜香虾仁",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "蒜香虾仁"
+    ]
+  },
+  {
+    "dish": "芥末虾球",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "芥末虾球"
+    ]
+  },
+  {
+    "dish": "葱香虾球",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "葱香虾球"
+    ]
+  },
+  {
+    "dish": "芝士虾球",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "芝士虾球"
+    ]
+  },
+  {
+    "dish": "柠檬虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "柠檬虾"
+    ]
+  },
+  {
+    "dish": "酸辣柠檬虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "酸辣柠檬虾"
+    ]
+  },
+  {
+    "dish": "百香果柠檬虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "百香果柠檬虾"
+    ]
+  },
+  {
+    "dish": "咖喱虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "咖喱虾"
+    ]
+  },
+  {
+    "dish": "醉虾",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "醉虾"
+    ]
+  },
+  {
+    "dish": "虾仁炒丝瓜",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "虾仁炒丝瓜"
+    ]
+  },
+  {
+    "dish": "芦笋虾仁",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "芦笋虾仁"
+    ]
+  },
+  {
+    "dish": "虾仁豆腐煲",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "虾仁豆腐煲"
+    ]
+  },
+  {
+    "dish": "蒜蓉虾滑煲",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "蒜蓉虾滑煲"
+    ]
+  },
+  {
+    "dish": "羊肚菌酿虾滑",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "羊肚菌酿虾滑"
+    ]
+  },
+  {
+    "dish": "紫菜虾滑煎饼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "紫菜虾滑煎饼",
+      "紫菜虾滑饼",
+      "紫菜虾饼"
+    ]
+  },
+  {
+    "dish": "虾饼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "虾饼"
+    ]
+  },
+  {
+    "dish": "紫菜虾滑",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "紫菜虾滑"
+    ]
+  },
+  {
+    "dish": "紫菜卷",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "紫菜卷"
+    ]
+  },
+  {
+    "dish": "咖喱鱼蛋",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "咖喱鱼蛋"
+    ]
+  },
+  {
+    "dish": "蒲烧鳗鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "蒲烧鳗鱼"
+    ]
+  },
+  {
+    "dish": "爆炒鱿鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "爆炒鱿鱼"
+    ]
+  },
+  {
+    "dish": "炒鱿鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "炒鱿鱼"
+    ]
+  },
+  {
+    "dish": "豉汁炒鱿鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "豉汁炒鱿鱼"
+    ]
+  },
+  {
+    "dish": "豉油炒鲜鱿",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "豉油炒鲜鱿"
+    ]
+  },
+  {
+    "dish": "芥末鱿鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "芥末鱿鱼"
+    ]
+  },
+  {
+    "dish": "白灼鱿鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "白灼鱿鱼"
+    ]
+  },
+  {
+    "dish": "清蒸生蚝",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "清蒸生蚝"
+    ]
+  },
+  {
+    "dish": "蒸鲍鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "蒸鲍鱼"
+    ]
+  },
+  {
+    "dish": "焖鲍鱼",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "焖鲍鱼"
+    ]
+  },
+  {
+    "dish": "盐焗海鲜",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "盐焗海鲜"
+    ]
+  },
+  {
+    "dish": "无水焗海鲜",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "无水焗海鲜"
+    ]
+  },
+  {
+    "dish": "花甲粉丝煲",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "花甲粉丝煲"
+    ]
+  },
+  {
+    "dish": "扇贝粉丝煲",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "扇贝粉丝煲"
+    ]
+  },
+  {
+    "dish": "花腩鱿鱼啫啫煲",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "花腩鱿鱼啫啫煲"
+    ]
+  },
+  {
+    "dish": "泰式海鲜沙拉",
+    "category": "鱼虾海鲜",
+    "aliases": [
+      "泰式海鲜沙拉"
+    ]
+  },
+  {
+    "dish": "蒸水蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蒸水蛋"
+    ]
+  },
+  {
+    "dish": "滑蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "滑蛋"
+    ]
+  },
+  {
+    "dish": "溏心蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "溏心蛋",
+      "糖心蛋"
+    ]
+  },
+  {
+    "dish": "水波蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "水波蛋"
+    ]
+  },
+  {
+    "dish": "水煎蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "水煎蛋"
+    ]
+  },
+  {
+    "dish": "炖蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "炖蛋"
+    ]
+  },
+  {
+    "dish": "芝士焗蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "芝士焗蛋"
+    ]
+  },
+  {
+    "dish": "茄汁煎蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "茄汁煎蛋"
+    ]
+  },
+  {
+    "dish": "五柳炸蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "五柳炸蛋"
+    ]
+  },
+  {
+    "dish": "北非蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "北非蛋"
+    ]
+  },
+  {
+    "dish": "蟹柳滑蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蟹柳滑蛋"
+    ]
+  },
+  {
+    "dish": "虾仁滑蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "虾仁滑蛋",
+      "滑蛋虾仁"
+    ]
+  },
+  {
+    "dish": "滑蛋牛肉",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "滑蛋牛肉"
+    ]
+  },
+  {
+    "dish": "紫菜煎蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "紫菜煎蛋"
+    ]
+  },
+  {
+    "dish": "叉烧炒蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "叉烧炒蛋"
+    ]
+  },
+  {
+    "dish": "肉末蒸水蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "肉末蒸水蛋"
+    ]
+  },
+  {
+    "dish": "肉末蒸蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "肉末蒸蛋"
+    ]
+  },
+  {
+    "dish": "白贝蒸水蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "白贝蒸水蛋"
+    ]
+  },
+  {
+    "dish": "醪糟鸡蛋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "醪糟鸡蛋"
+    ]
+  },
+  {
+    "dish": "茄汁黄豆",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "茄汁黄豆"
+    ]
+  },
+  {
+    "dish": "红烧豆腐",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "红烧豆腐"
+    ]
+  },
+  {
+    "dish": "肉末豆腐",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "肉末豆腐"
+    ]
+  },
+  {
+    "dish": "蒸嫩豆腐",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蒸嫩豆腐"
+    ]
+  },
+  {
+    "dish": "蟹黄豆腐",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蟹黄豆腐"
+    ]
+  },
+  {
+    "dish": "金针菇豆腐煲",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "金针菇豆腐煲"
+    ]
+  },
+  {
+    "dish": "蒜蓉蒸丝瓜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蒜蓉蒸丝瓜",
+      "蒜茸蒸丝瓜"
+    ]
+  },
+  {
+    "dish": "蒜蓉炒丝瓜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蒜蓉炒丝瓜"
+    ]
+  },
+  {
+    "dish": "蒜蓉粉丝娃娃菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蒜蓉粉丝娃娃菜"
+    ]
+  },
+  {
+    "dish": "蚝油生菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蚝油生菜"
+    ]
+  },
+  {
+    "dish": "盐水菜心",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "盐水菜心"
+    ]
+  },
+  {
+    "dish": "上汤苋菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "上汤苋菜"
+    ]
+  },
+  {
+    "dish": "椒丝腐乳空心菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "椒丝腐乳空心菜",
+      "椒丝腐乳炒通菜"
+    ]
+  },
+  {
+    "dish": "瑶柱冬菇焖节瓜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "瑶柱冬菇焖节瓜"
+    ]
+  },
+  {
+    "dish": "凉拌莴笋",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "凉拌莴笋"
+    ]
+  },
+  {
+    "dish": "凉拌毛豆",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "凉拌毛豆"
+    ]
+  },
+  {
+    "dish": "凉拌莲藕",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "凉拌莲藕"
+    ]
+  },
+  {
+    "dish": "凉拌包菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "凉拌包菜"
+    ]
+  },
+  {
+    "dish": "酸辣包菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "酸辣包菜"
+    ]
+  },
+  {
+    "dish": "手撕包菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "手撕包菜"
+    ]
+  },
+  {
+    "dish": "蒜香干辣椒炒包菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蒜香干辣椒炒包菜"
+    ]
+  },
+  {
+    "dish": "蒜蓉淋汁青菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "蒜蓉淋汁青菜"
+    ]
+  },
+  {
+    "dish": "肉末包菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "肉末包菜"
+    ]
+  },
+  {
+    "dish": "肉末土豆炒包菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "肉末土豆炒包菜"
+    ]
+  },
+  {
+    "dish": "干煸菜花",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "干煸菜花"
+    ]
+  },
+  {
+    "dish": "干锅花菜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "干锅花菜"
+    ]
+  },
+  {
+    "dish": "烤土豆",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "烤土豆"
+    ]
+  },
+  {
+    "dish": "烤南瓜",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "烤南瓜"
+    ]
+  },
+  {
+    "dish": "烤玉米",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "烤玉米"
+    ]
+  },
+  {
+    "dish": "烤杏鲍菇",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "烤杏鲍菇"
+    ]
+  },
+  {
+    "dish": "黄油杏鲍菇",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "黄油杏鲍菇"
+    ]
+  },
+  {
+    "dish": "黄油炒杂蔬",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "黄油炒杂蔬"
+    ]
+  },
+  {
+    "dish": "黄油煎菌菇",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "黄油煎菌菇"
+    ]
+  },
+  {
+    "dish": "焗西兰花",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "焗西兰花"
+    ]
+  },
+  {
+    "dish": "黑椒西兰花",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "黑椒西兰花"
+    ]
+  },
+  {
+    "dish": "酿辣椒",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "酿辣椒"
+    ]
+  },
+  {
+    "dish": "酿蘑菇",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "酿蘑菇"
+    ]
+  },
+  {
+    "dish": "土豆泥沙拉",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "土豆泥沙拉"
+    ]
+  },
+  {
+    "dish": "土豆鸡蛋沙拉",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "土豆鸡蛋沙拉"
+    ]
+  },
+  {
+    "dish": "藜麦沙拉",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "藜麦沙拉"
+    ]
+  },
+  {
+    "dish": "油浸小番茄",
+    "category": "蛋豆蔬菜",
+    "aliases": [
+      "油浸小番茄",
+      "油浸番茄"
+    ]
+  },
+  {
+    "dish": "煲仔饭",
+    "category": "米饭面点",
+    "aliases": [
+      "煲仔饭",
+      "广式煲仔饭",
+      "广东煲仔饭",
+      "砂锅煲仔饭"
+    ]
+  },
+  {
+    "dish": "腊味煲仔饭",
+    "category": "米饭面点",
+    "aliases": [
+      "腊味煲仔饭"
+    ]
+  },
+  {
+    "dish": "排骨煲仔饭",
+    "category": "米饭面点",
+    "aliases": [
+      "排骨煲仔饭"
+    ]
+  },
+  {
+    "dish": "腊味饭",
+    "category": "米饭面点",
+    "aliases": [
+      "腊味饭"
+    ]
+  },
+  {
+    "dish": "糙米饭",
+    "category": "米饭面点",
+    "aliases": [
+      "糙米饭"
+    ]
+  },
+  {
+    "dish": "杂粮饭",
+    "category": "米饭面点",
+    "aliases": [
+      "杂粮饭"
+    ]
+  },
+  {
+    "dish": "藜麦饭",
+    "category": "米饭面点",
+    "aliases": [
+      "藜麦饭"
+    ]
+  },
+  {
+    "dish": "糯米饭",
+    "category": "米饭面点",
+    "aliases": [
+      "糯米饭"
+    ]
+  },
+  {
+    "dish": "菌菇焖饭",
+    "category": "米饭面点",
+    "aliases": [
+      "菌菇焖饭"
+    ]
+  },
+  {
+    "dish": "三文鱼焖饭",
+    "category": "米饭面点",
+    "aliases": [
+      "三文鱼焖饭"
+    ]
+  },
+  {
+    "dish": "鸡油饭",
+    "category": "米饭面点",
+    "aliases": [
+      "鸡油饭"
+    ]
+  },
+  {
+    "dish": "台式卤肉饭",
+    "category": "米饭面点",
+    "aliases": [
+      "台式卤肉饭"
+    ]
+  },
+  {
+    "dish": "洋葱肥牛饭",
+    "category": "米饭面点",
+    "aliases": [
+      "洋葱肥牛饭"
+    ]
+  },
+  {
+    "dish": "猪扒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "猪扒饭"
+    ]
+  },
+  {
+    "dish": "鸡腿扒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "鸡腿扒饭"
+    ]
+  },
+  {
+    "dish": "咖喱鸡腿扒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "咖喱鸡腿扒饭"
+    ]
+  },
+  {
+    "dish": "咖喱牛腩饭",
+    "category": "米饭面点",
+    "aliases": [
+      "咖喱牛腩饭"
+    ]
+  },
+  {
+    "dish": "鳗鱼饭",
+    "category": "米饭面点",
+    "aliases": [
+      "鳗鱼饭"
+    ]
+  },
+  {
+    "dish": "杂扒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "杂扒饭"
+    ]
+  },
+  {
+    "dish": "波奇饭",
+    "category": "米饭面点",
+    "aliases": [
+      "波奇饭"
+    ]
+  },
+  {
+    "dish": "牛肉饭",
+    "category": "米饭面点",
+    "aliases": [
+      "牛肉饭"
+    ]
+  },
+  {
+    "dish": "牛肉饼饭",
+    "category": "米饭面点",
+    "aliases": [
+      "牛肉饼饭"
+    ]
+  },
+  {
+    "dish": "黑椒牛肉饭",
+    "category": "米饭面点",
+    "aliases": [
+      "黑椒牛肉饭"
+    ]
+  },
+  {
+    "dish": "黑椒牛扒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "黑椒牛扒饭"
+    ]
+  },
+  {
+    "dish": "黑椒鸡腿饭",
+    "category": "米饭面点",
+    "aliases": [
+      "黑椒鸡腿饭"
+    ]
+  },
+  {
+    "dish": "叉烧滑蛋饭",
+    "category": "米饭面点",
+    "aliases": [
+      "叉烧滑蛋饭"
+    ]
+  },
+  {
+    "dish": "手撕鸡饭",
+    "category": "米饭面点",
+    "aliases": [
+      "手撕鸡饭"
+    ]
+  },
+  {
+    "dish": "鲍汁捞饭",
+    "category": "米饭面点",
+    "aliases": [
+      "鲍汁捞饭"
+    ]
+  },
+  {
+    "dish": "黯然销魂饭",
+    "category": "米饭面点",
+    "aliases": [
+      "黯然销魂饭"
+    ]
+  },
+  {
+    "dish": "吞拿鱼拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "吞拿鱼拌饭",
+      "金枪鱼拌饭"
+    ]
+  },
+  {
+    "dish": "三文鱼拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "三文鱼拌饭"
+    ]
+  },
+  {
+    "dish": "牛肉拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "牛肉拌饭"
+    ]
+  },
+  {
+    "dish": "肉末饭",
+    "category": "米饭面点",
+    "aliases": [
+      "肉末饭",
+      "肉沫饭",
+      "肉沫拌饭"
+    ]
+  },
+  {
+    "dish": "藜麦拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "藜麦拌饭"
+    ]
+  },
+  {
+    "dish": "儿童拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "儿童拌饭"
+    ]
+  },
+  {
+    "dish": "蔬菜拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "蔬菜拌饭"
+    ]
+  },
+  {
+    "dish": "鸡腿扒拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "鸡腿扒拌饭"
+    ]
+  },
+  {
+    "dish": "鸡蛋拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "鸡蛋拌饭"
+    ]
+  },
+  {
+    "dish": "紫菜包饭",
+    "category": "米饭面点",
+    "aliases": [
+      "紫菜包饭"
+    ]
+  },
+  {
+    "dish": "寿司饭团",
+    "category": "米饭面点",
+    "aliases": [
+      "寿司饭团"
+    ]
+  },
+  {
+    "dish": "海苔拌饭",
+    "category": "米饭面点",
+    "aliases": [
+      "海苔拌饭"
+    ]
+  },
+  {
+    "dish": "金包银炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "金包银炒饭",
+      "金包银蛋炒饭"
+    ]
+  },
+  {
+    "dish": "虾仁炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "虾仁炒饭"
+    ]
+  },
+  {
+    "dish": "咖喱炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "咖喱炒饭"
+    ]
+  },
+  {
+    "dish": "菠萝炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "菠萝炒饭"
+    ]
+  },
+  {
+    "dish": "牛肉菠萝炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "牛肉菠萝炒饭"
+    ]
+  },
+  {
+    "dish": "叉烧炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "叉烧炒饭"
+    ]
+  },
+  {
+    "dish": "三文鱼炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "三文鱼炒饭"
+    ]
+  },
+  {
+    "dish": "蛋包饭",
+    "category": "米饭面点",
+    "aliases": [
+      "蛋包饭"
+    ]
+  },
+  {
+    "dish": "包菜炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "包菜炒饭"
+    ]
+  },
+  {
+    "dish": "蟹黄炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "蟹黄炒饭"
+    ]
+  },
+  {
+    "dish": "菜心牛肉炒饭",
+    "category": "米饭面点",
+    "aliases": [
+      "菜心牛肉炒饭"
+    ]
+  },
+  {
+    "dish": "芝士焗饭",
+    "category": "米饭面点",
+    "aliases": [
+      "芝士焗饭"
+    ]
+  },
+  {
+    "dish": "白汁焗饭",
+    "category": "米饭面点",
+    "aliases": [
+      "白汁焗饭"
+    ]
+  },
+  {
+    "dish": "芝士牛肉焗饭",
+    "category": "米饭面点",
+    "aliases": [
+      "芝士牛肉焗饭"
+    ]
+  },
+  {
+    "dish": "肉酱意面",
+    "category": "米饭面点",
+    "aliases": [
+      "肉酱意面"
+    ]
+  },
+  {
+    "dish": "奶油意面",
+    "category": "米饭面点",
+    "aliases": [
+      "奶油意面"
+    ]
+  },
+  {
+    "dish": "白汁意面",
+    "category": "米饭面点",
+    "aliases": [
+      "白汁意面"
+    ]
+  },
+  {
+    "dish": "白汁虾仁意面",
+    "category": "米饭面点",
+    "aliases": [
+      "白汁虾仁意面"
+    ]
+  },
+  {
+    "dish": "虾仁意面",
+    "category": "米饭面点",
+    "aliases": [
+      "虾仁意面"
+    ]
+  },
+  {
+    "dish": "芝士三文鱼意面",
+    "category": "米饭面点",
+    "aliases": [
+      "芝士三文鱼意面"
+    ]
+  },
+  {
+    "dish": "芝士牛肉烤意面",
+    "category": "米饭面点",
+    "aliases": [
+      "芝士牛肉烤意面"
+    ]
+  },
+  {
+    "dish": "蘑菇虾仁面",
+    "category": "米饭面点",
+    "aliases": [
+      "蘑菇虾仁面"
+    ]
+  },
+  {
+    "dish": "广式云吞面",
+    "category": "米饭面点",
+    "aliases": [
+      "广式云吞面"
+    ]
+  },
+  {
+    "dish": "云吞面",
+    "category": "米饭面点",
+    "aliases": [
+      "云吞面"
+    ]
+  },
+  {
+    "dish": "竹升面",
+    "category": "米饭面点",
+    "aliases": [
+      "竹升面"
+    ]
+  },
+  {
+    "dish": "车仔面",
+    "category": "米饭面点",
+    "aliases": [
+      "车仔面"
+    ]
+  },
+  {
+    "dish": "乌冬面",
+    "category": "米饭面点",
+    "aliases": [
+      "乌冬面"
+    ]
+  },
+  {
+    "dish": "炒乌冬",
+    "category": "米饭面点",
+    "aliases": [
+      "炒乌冬"
+    ]
+  },
+  {
+    "dish": "餐蛋面",
+    "category": "米饭面点",
+    "aliases": [
+      "餐蛋面"
+    ]
+  },
+  {
+    "dish": "猪油捞面",
+    "category": "米饭面点",
+    "aliases": [
+      "猪油捞面"
+    ]
+  },
+  {
+    "dish": "虾籽捞面",
+    "category": "米饭面点",
+    "aliases": [
+      "虾籽捞面"
+    ]
+  },
+  {
+    "dish": "沙茶牛肉面",
+    "category": "米饭面点",
+    "aliases": [
+      "沙茶牛肉面"
+    ]
+  },
+  {
+    "dish": "牛肉河粉",
+    "category": "米饭面点",
+    "aliases": [
+      "牛肉河粉"
+    ]
+  },
+  {
+    "dish": "牛腩面",
+    "category": "米饭面点",
+    "aliases": [
+      "牛腩面"
+    ]
+  },
+  {
+    "dish": "牛腩粉",
+    "category": "米饭面点",
+    "aliases": [
+      "牛腩粉"
+    ]
+  },
+  {
+    "dish": "牛腩米粉",
+    "category": "米饭面点",
+    "aliases": [
+      "牛腩米粉"
+    ]
+  },
+  {
+    "dish": "牛腩猪肠粉",
+    "category": "米饭面点",
+    "aliases": [
+      "牛腩猪肠粉"
+    ]
+  },
+  {
+    "dish": "牛腩啫啫肠粉",
+    "category": "米饭面点",
+    "aliases": [
+      "牛腩啫啫肠粉"
+    ]
+  },
+  {
+    "dish": "猪杂汤粉",
+    "category": "米饭面点",
+    "aliases": [
+      "猪杂汤粉"
+    ]
+  },
+  {
+    "dish": "潮汕牛肉粿条",
+    "category": "米饭面点",
+    "aliases": [
+      "潮汕牛肉粿条"
+    ]
+  },
+  {
+    "dish": "炒牛河",
+    "category": "米饭面点",
+    "aliases": [
+      "炒牛河"
+    ]
+  },
+  {
+    "dish": "炒米粉",
+    "category": "米饭面点",
+    "aliases": [
+      "炒米粉"
+    ]
+  },
+  {
+    "dish": "炒河粉",
+    "category": "米饭面点",
+    "aliases": [
+      "炒河粉"
+    ]
+  },
+  {
+    "dish": "煎饺",
+    "category": "米饭面点",
+    "aliases": [
+      "煎饺"
+    ]
+  },
+  {
+    "dish": "冰花煎饺",
+    "category": "米饭面点",
+    "aliases": [
+      "冰花煎饺"
+    ]
+  },
+  {
+    "dish": "蒸饺",
+    "category": "米饭面点",
+    "aliases": [
+      "蒸饺"
+    ]
+  },
+  {
+    "dish": "鱼皮饺",
+    "category": "米饭面点",
+    "aliases": [
+      "鱼皮饺"
+    ]
+  },
+  {
+    "dish": "鱼肉烧卖",
+    "category": "米饭面点",
+    "aliases": [
+      "鱼肉烧卖"
+    ]
+  },
+  {
+    "dish": "西多士",
+    "category": "米饭面点",
+    "aliases": [
+      "西多士"
+    ]
+  },
+  {
+    "dish": "奶油猪",
+    "category": "米饭面点",
+    "aliases": [
+      "奶油猪"
+    ]
+  },
+  {
+    "dish": "汉堡",
+    "category": "米饭面点",
+    "aliases": [
+      "汉堡"
+    ]
+  },
+  {
+    "dish": "猪柳蛋麦满分",
+    "category": "米饭面点",
+    "aliases": [
+      "猪柳蛋麦满分"
+    ]
+  },
+  {
+    "dish": "牛肉汉堡",
+    "category": "米饭面点",
+    "aliases": [
+      "牛肉汉堡"
+    ]
+  },
+  {
+    "dish": "牛油果三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "牛油果三明治"
+    ]
+  },
+  {
+    "dish": "吞拿鱼三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "吞拿鱼三明治"
+    ]
+  },
+  {
+    "dish": "金枪鱼三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "金枪鱼三明治"
+    ]
+  },
+  {
+    "dish": "牛肉三文治",
+    "category": "米饭面点",
+    "aliases": [
+      "牛肉三文治",
+      "牛肉三明治"
+    ]
+  },
+  {
+    "dish": "牛角包三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "牛角包三明治"
+    ]
+  },
+  {
+    "dish": "虾滑三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "虾滑三明治"
+    ]
+  },
+  {
+    "dish": "菠萝牛肉三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "菠萝牛肉三明治"
+    ]
+  },
+  {
+    "dish": "花生酱三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "花生酱三明治"
+    ]
+  },
+  {
+    "dish": "芝士火腿蛋三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "芝士火腿蛋三明治"
+    ]
+  },
+  {
+    "dish": "蟹柳滑蛋三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "蟹柳滑蛋三明治"
+    ]
+  },
+  {
+    "dish": "滑蛋贝果",
+    "category": "米饭面点",
+    "aliases": [
+      "滑蛋贝果"
+    ]
+  },
+  {
+    "dish": "牛肉芝士贝果",
+    "category": "米饭面点",
+    "aliases": [
+      "牛肉芝士贝果"
+    ]
+  },
+  {
+    "dish": "芝士牛肉吐司",
+    "category": "米饭面点",
+    "aliases": [
+      "芝士牛肉吐司"
+    ]
+  },
+  {
+    "dish": "烤芝士三明治",
+    "category": "米饭面点",
+    "aliases": [
+      "烤芝士三明治"
+    ]
+  },
+  {
+    "dish": "芝士牛肉卷",
+    "category": "米饭面点",
+    "aliases": [
+      "芝士牛肉卷"
+    ]
+  },
+  {
+    "dish": "肠仔包",
+    "category": "米饭面点",
+    "aliases": [
+      "肠仔包"
+    ]
+  },
+  {
+    "dish": "蔬菜饼",
+    "category": "米饭面点",
+    "aliases": [
+      "蔬菜饼"
+    ]
+  },
+  {
+    "dish": "鸡蛋韭菜小饼",
+    "category": "米饭面点",
+    "aliases": [
+      "鸡蛋韭菜小饼"
+    ]
+  },
+  {
+    "dish": "香蕉芝士春饼",
+    "category": "米饭面点",
+    "aliases": [
+      "香蕉芝士春饼"
+    ]
+  },
+  {
+    "dish": "爆浆芝士饼",
+    "category": "米饭面点",
+    "aliases": [
+      "爆浆芝士饼"
+    ]
+  },
+  {
+    "dish": "麦片鸡蛋",
+    "category": "米饭面点",
+    "aliases": [
+      "麦片鸡蛋",
+      "鸡蛋麦片"
+    ]
+  },
+  {
+    "dish": "微波炉麦片鸡蛋",
+    "category": "米饭面点",
+    "aliases": [
+      "微波炉麦片鸡蛋"
+    ]
+  },
+  {
+    "dish": "鸡蛋煎粽",
+    "category": "米饭面点",
+    "aliases": [
+      "鸡蛋煎粽"
+    ]
+  },
+  {
+    "dish": "煎汤圆",
+    "category": "米饭面点",
+    "aliases": [
+      "煎汤圆"
+    ]
+  },
+  {
+    "dish": "胡椒牛肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "胡椒牛肉汤"
+    ]
+  },
+  {
+    "dish": "牛肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "牛肉汤"
+    ]
+  },
+  {
+    "dish": "牛肉豆芽汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "牛肉豆芽汤"
+    ]
+  },
+  {
+    "dish": "牛肉汤羹",
+    "category": "汤羹粥",
+    "aliases": [
+      "牛肉汤羹"
+    ]
+  },
+  {
+    "dish": "猪杂汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "猪杂汤"
+    ]
+  },
+  {
+    "dish": "猪红汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "猪红汤"
+    ]
+  },
+  {
+    "dish": "咸蛋瘦肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "咸蛋瘦肉汤"
+    ]
+  },
+  {
+    "dish": "枸杞叶瘦肉猪肝汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "枸杞叶瘦肉猪肝汤"
+    ]
+  },
+  {
+    "dish": "菜心瘦肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "菜心瘦肉汤"
+    ]
+  },
+  {
+    "dish": "滑肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "滑肉汤"
+    ]
+  },
+  {
+    "dish": "瘦肉水",
+    "category": "汤羹粥",
+    "aliases": [
+      "瘦肉水"
+    ]
+  },
+  {
+    "dish": "苹果瘦肉水",
+    "category": "汤羹粥",
+    "aliases": [
+      "苹果瘦肉水"
+    ]
+  },
+  {
+    "dish": "羊肚菌瘦肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "羊肚菌瘦肉汤"
+    ]
+  },
+  {
+    "dish": "苹果雪梨汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "苹果雪梨汤"
+    ]
+  },
+  {
+    "dish": "无花果苹果瘦肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "无花果苹果瘦肉汤"
+    ]
+  },
+  {
+    "dish": "橄榄瘦肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "橄榄瘦肉汤"
+    ]
+  },
+  {
+    "dish": "橄榄石斛汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "橄榄石斛汤"
+    ]
+  },
+  {
+    "dish": "太子参麦冬无花果瘦肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "太子参麦冬无花果瘦肉汤"
+    ]
+  },
+  {
+    "dish": "无花果南北杏瘦肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "无花果南北杏瘦肉汤"
+    ]
+  },
+  {
+    "dish": "无花果川贝瘦肉汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "无花果川贝瘦肉汤"
+    ]
+  },
+  {
+    "dish": "猪肚鸡",
+    "category": "汤羹粥",
+    "aliases": [
+      "猪肚鸡"
+    ]
+  },
+  {
+    "dish": "胡椒猪肚鸡",
+    "category": "汤羹粥",
+    "aliases": [
+      "胡椒猪肚鸡"
+    ]
+  },
+  {
+    "dish": "胡椒鸡",
+    "category": "汤羹粥",
+    "aliases": [
+      "胡椒鸡"
+    ]
+  },
+  {
+    "dish": "花胶鸡",
+    "category": "汤羹粥",
+    "aliases": [
+      "花胶鸡"
+    ]
+  },
+  {
+    "dish": "花胶猪肚鸡",
+    "category": "汤羹粥",
+    "aliases": [
+      "花胶猪肚鸡"
+    ]
+  },
+  {
+    "dish": "花旗参乌鸡汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "花旗参乌鸡汤"
+    ]
+  },
+  {
+    "dish": "虫草花鸡汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "虫草花鸡汤"
+    ]
+  },
+  {
+    "dish": "药膳鸡汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "药膳鸡汤"
+    ]
+  },
+  {
+    "dish": "土鸡汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "土鸡汤"
+    ]
+  },
+  {
+    "dish": "椰子鸡",
+    "category": "汤羹粥",
+    "aliases": [
+      "椰子鸡"
+    ]
+  },
+  {
+    "dish": "排骨玉米香菇汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "排骨玉米香菇汤"
+    ]
+  },
+  {
+    "dish": "香菇排骨汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "香菇排骨汤"
+    ]
+  },
+  {
+    "dish": "萝卜排骨汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "萝卜排骨汤"
+    ]
+  },
+  {
+    "dish": "冬瓜薏米排骨汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "冬瓜薏米排骨汤"
+    ]
+  },
+  {
+    "dish": "绿豆海带炖排骨",
+    "category": "汤羹粥",
+    "aliases": [
+      "绿豆海带炖排骨"
+    ]
+  },
+  {
+    "dish": "粉葛猪骨汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "粉葛猪骨汤"
+    ]
+  },
+  {
+    "dish": "五指毛桃猪骨汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "五指毛桃猪骨汤"
+    ]
+  },
+  {
+    "dish": "冬瓜薏米老鸭汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "冬瓜薏米老鸭汤"
+    ]
+  },
+  {
+    "dish": "花生眉豆鸡脚汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "花生眉豆鸡脚汤"
+    ]
+  },
+  {
+    "dish": "粉葛鲮鱼汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "粉葛鲮鱼汤"
+    ]
+  },
+  {
+    "dish": "鱼骨豆腐汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "鱼骨豆腐汤"
+    ]
+  },
+  {
+    "dish": "杂鱼汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "杂鱼汤"
+    ]
+  },
+  {
+    "dish": "生蚝滚汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "生蚝滚汤"
+    ]
+  },
+  {
+    "dish": "鲮鱼滑西洋菜汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "鲮鱼滑西洋菜汤"
+    ]
+  },
+  {
+    "dish": "西洋菜汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "西洋菜汤"
+    ]
+  },
+  {
+    "dish": "裙带菜豆腐汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "裙带菜豆腐汤"
+    ]
+  },
+  {
+    "dish": "裙带菜汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "裙带菜汤"
+    ]
+  },
+  {
+    "dish": "花甲裙带菜汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "花甲裙带菜汤"
+    ]
+  },
+  {
+    "dish": "味噌汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "味噌汤"
+    ]
+  },
+  {
+    "dish": "冬瓜海带汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "冬瓜海带汤"
+    ]
+  },
+  {
+    "dish": "淮山肉饼鸡蛋汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "淮山肉饼鸡蛋汤"
+    ]
+  },
+  {
+    "dish": "山药肉饼汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "山药肉饼汤"
+    ]
+  },
+  {
+    "dish": "哈佛蔬菜汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "哈佛蔬菜汤",
+      "哈弗蔬菜汤"
+    ]
+  },
+  {
+    "dish": "罗宋汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "罗宋汤"
+    ]
+  },
+  {
+    "dish": "奶油蘑菇海鲜汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "奶油蘑菇海鲜汤"
+    ]
+  },
+  {
+    "dish": "白汁蘑菇汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "白汁蘑菇汤"
+    ]
+  },
+  {
+    "dish": "冬阴功汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "冬阴功汤"
+    ]
+  },
+  {
+    "dish": "蟹黄豆腐羹",
+    "category": "汤羹粥",
+    "aliases": [
+      "蟹黄豆腐羹"
+    ]
+  },
+  {
+    "dish": "章鱼莲藕汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "章鱼莲藕汤"
+    ]
+  },
+  {
+    "dish": "沙虫炖汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "沙虫炖汤"
+    ]
+  },
+  {
+    "dish": "羊肚菌汤",
+    "category": "汤羹粥",
+    "aliases": [
+      "羊肚菌汤"
+    ]
+  },
+  {
+    "dish": "皮蛋瘦肉粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "皮蛋瘦肉粥"
+    ]
+  },
+  {
+    "dish": "窝蛋牛肉粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "窝蛋牛肉粥"
+    ]
+  },
+  {
+    "dish": "牛肉生菜粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "牛肉生菜粥"
+    ]
+  },
+  {
+    "dish": "牛肉粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "牛肉粥"
+    ]
+  },
+  {
+    "dish": "猪杂粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "猪杂粥"
+    ]
+  },
+  {
+    "dish": "猪杂猪红粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "猪杂猪红粥"
+    ]
+  },
+  {
+    "dish": "猪红粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "猪红粥"
+    ]
+  },
+  {
+    "dish": "咸骨粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "咸骨粥"
+    ]
+  },
+  {
+    "dish": "烧骨粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "烧骨粥"
+    ]
+  },
+  {
+    "dish": "海鲜砂锅粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "海鲜砂锅粥"
+    ]
+  },
+  {
+    "dish": "海参粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "海参粥"
+    ]
+  },
+  {
+    "dish": "生滚粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "生滚粥"
+    ]
+  },
+  {
+    "dish": "小米南瓜粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "小米南瓜粥"
+    ]
+  },
+  {
+    "dish": "麦片粥",
+    "category": "汤羹粥",
+    "aliases": [
+      "麦片粥"
+    ]
+  },
+  {
+    "dish": "酸奶碗",
+    "category": "甜品饮品",
+    "aliases": [
+      "酸奶碗"
+    ]
+  },
+  {
+    "dish": "抹茶酸奶碗",
+    "category": "甜品饮品",
+    "aliases": [
+      "抹茶酸奶碗"
+    ]
+  },
+  {
+    "dish": "杨枝甘露",
+    "category": "甜品饮品",
+    "aliases": [
+      "杨枝甘露"
+    ]
+  },
+  {
+    "dish": "芒果西米露",
+    "category": "甜品饮品",
+    "aliases": [
+      "芒果西米露"
+    ]
+  },
+  {
+    "dish": "椰汁西米露",
+    "category": "甜品饮品",
+    "aliases": [
+      "椰汁西米露"
+    ]
+  },
+  {
+    "dish": "西米露",
+    "category": "甜品饮品",
+    "aliases": [
+      "西米露"
+    ]
+  },
+  {
+    "dish": "陈皮红豆沙",
+    "category": "甜品饮品",
+    "aliases": [
+      "陈皮红豆沙"
+    ]
+  },
+  {
+    "dish": "红糖糯米莲藕",
+    "category": "甜品饮品",
+    "aliases": [
+      "红糖糯米莲藕"
+    ]
+  },
+  {
+    "dish": "牛奶炖蛋",
+    "category": "甜品饮品",
+    "aliases": [
+      "牛奶炖蛋"
+    ]
+  },
+  {
+    "dish": "花胶炖牛奶",
+    "category": "甜品饮品",
+    "aliases": [
+      "花胶炖牛奶"
+    ]
+  },
+  {
+    "dish": "姜撞奶",
+    "category": "甜品饮品",
+    "aliases": [
+      "姜撞奶",
+      "自制姜撞奶"
+    ]
+  },
+  {
+    "dish": "蓝莓奶昔",
+    "category": "甜品饮品",
+    "aliases": [
+      "蓝莓奶昔"
+    ]
+  },
+  {
+    "dish": "牛油果奶昔",
+    "category": "甜品饮品",
+    "aliases": [
+      "牛油果奶昔"
+    ]
+  },
+  {
+    "dish": "芒果奶昔",
+    "category": "甜品饮品",
+    "aliases": [
+      "芒果奶昔"
+    ]
+  },
+  {
+    "dish": "香蕉奶昔",
+    "category": "甜品饮品",
+    "aliases": [
+      "香蕉奶昔"
+    ]
+  },
+  {
+    "dish": "火龙果香蕉奶昔",
+    "category": "甜品饮品",
+    "aliases": [
+      "火龙果香蕉奶昔"
+    ]
+  },
+  {
+    "dish": "无糖莓果奶昔",
+    "category": "甜品饮品",
+    "aliases": [
+      "无糖莓果奶昔"
+    ]
+  },
+  {
+    "dish": "冷冻莓果奶昔",
+    "category": "甜品饮品",
+    "aliases": [
+      "冷冻莓果奶昔"
+    ]
+  },
+  {
+    "dish": "奇亚籽牛奶",
+    "category": "甜品饮品",
+    "aliases": [
+      "奇亚籽牛奶"
+    ]
+  },
+  {
+    "dish": "冷泡茶",
+    "category": "甜品饮品",
+    "aliases": [
+      "冷泡茶"
+    ]
+  },
+  {
+    "dish": "手打百香果柠檬茶",
+    "category": "甜品饮品",
+    "aliases": [
+      "手打百香果柠檬茶",
+      "手打柠檬茶"
+    ]
+  },
+  {
+    "dish": "玉米须茶",
+    "category": "甜品饮品",
+    "aliases": [
+      "玉米须茶"
+    ]
+  },
+  {
+    "dish": "红豆薏仁水",
+    "category": "甜品饮品",
+    "aliases": [
+      "红豆薏仁水"
+    ]
+  },
+  {
+    "dish": "赤小豆薏仁茶",
+    "category": "甜品饮品",
+    "aliases": [
+      "赤小豆薏仁茶",
+      "赤小豆薏米茶"
+    ]
+  },
+  {
+    "dish": "罗汉果桂圆茶",
+    "category": "甜品饮品",
+    "aliases": [
+      "罗汉果桂圆茶"
+    ]
+  },
+  {
+    "dish": "抹茶拿铁",
+    "category": "甜品饮品",
+    "aliases": [
+      "抹茶拿铁"
+    ]
+  },
+  {
+    "dish": "海盐苏打水",
+    "category": "甜品饮品",
+    "aliases": [
+      "海盐苏打水"
+    ]
+  },
+  {
+    "dish": "蓝莓酱",
+    "category": "调味与备餐",
+    "aliases": [
+      "蓝莓酱",
+      "自制蓝莓酱"
+    ]
+  },
+  {
+    "dish": "苹果酱",
+    "category": "调味与备餐",
+    "aliases": [
+      "苹果酱"
+    ]
+  },
+  {
+    "dish": "肉桂苹果酱",
+    "category": "调味与备餐",
+    "aliases": [
+      "肉桂苹果酱"
+    ]
+  },
+  {
+    "dish": "番茄肉酱",
+    "category": "调味与备餐",
+    "aliases": [
+      "番茄肉酱"
+    ]
+  },
+  {
+    "dish": "姜葱酱",
+    "category": "调味与备餐",
+    "aliases": [
+      "姜葱酱"
+    ]
+  },
+  {
+    "dish": "蒜蓉酱",
+    "category": "调味与备餐",
+    "aliases": [
+      "蒜蓉酱",
+      "蒜蓉酱熬制"
+    ]
+  },
+  {
+    "dish": "蒜香酱",
+    "category": "调味与备餐",
+    "aliases": [
+      "蒜香酱"
+    ]
+  },
+  {
+    "dish": "汉堡酱",
+    "category": "调味与备餐",
+    "aliases": [
+      "汉堡酱"
+    ]
+  },
+  {
+    "dish": "广式牛腩酱料",
+    "category": "调味与备餐",
+    "aliases": [
+      "广式牛腩酱料"
+    ]
+  },
+  {
+    "dish": "凉拌汁",
+    "category": "调味与备餐",
+    "aliases": [
+      "凉拌汁"
+    ]
+  },
+  {
+    "dish": "虾滑",
+    "category": "调味与备餐",
+    "aliases": [
+      "虾滑"
+    ]
+  }
+]

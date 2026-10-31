@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+work/
+sources/
+*.mp4
+*.m4a
+*.webm
+*.srt
+*player*.json
+*cookies*
+.env
+.env.*
