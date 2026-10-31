@@ -25,12 +25,12 @@ write('README.md',f'''[English](README.en.md)
 
 ## 当前进度
 
-截至 {M['as_of']}，已穷尽当前可访问的视频目录分页，按 BV 号去重得到 **{M['catalogue_unique_count']:,} 条**，与主页投稿数一致。接口总数曾返回 1,227，实际取得 1,226 个不同 BV 号。
+目录快照采集于 {M.get('catalogue_as_of',M['as_of'])}，当时已穷尽可访问的视频目录分页，按 BV 号去重得到 **{M['catalogue_unique_count']:,} 条**，与主页投稿数一致。接口总数曾返回 1,227，实际取得 1,226 个不同 BV 号。菜谱内容核对更新至 {M['as_of']}。
 
 | 项目 | 数量 | 含义 |
 |---|---:|---|
 | 主清单 | {M['main_list_count']:,} | 已剔除本轮核对的非做菜视频，其他内容仍待逐条核验 |
-| 已剔除 | {M['excluded_count']} | 旅行、酒店、购物或外出用餐记录 |
+| 已剔除 | {M['excluded_count']} | 旅行、酒店、外出用餐、聊天或清洁等无做菜内容 |
 | 菜名与备餐索引词 | {M['indexed_dish_count']} | 主要来自原标题，不是已完成菜谱数量 |
 | 菜名与视频对应关系 | {M['dish_video_links']:,} | 一条视频可以对应多道菜 |
 | 已核菜谱视频 | {M['reviewed_recipe_videos']} | 字幕和画面已交叉核对 |
@@ -97,12 +97,12 @@ A catalogue of videos, original links and dish-name references from [是厚皮�
 
 ## Current progress
 
-As of {M['as_of']}, pagination of the accessible upload catalogue has been exhausted. Deduplication by BV ID yielded **{M['catalogue_unique_count']:,} videos**, matching the profile count. The API sometimes reported 1,227; only 1,226 distinct BV IDs were retrieved.
+The catalogue snapshot was collected on {M.get('catalogue_as_of',M['as_of'])}, when pagination of accessible uploads was exhausted. Deduplication by BV ID yielded **{M['catalogue_unique_count']:,} videos**, matching the profile count. The API sometimes reported 1,227; only 1,226 distinct BV IDs were retrieved. Recipe content review is updated through {M['as_of']}.
 
 | Item | Count | Meaning |
 |---|---:|---|
 | Main list | {M['main_list_count']:,} | Reviewed non-cooking items removed; remaining content still needs individual review |
-| Excluded | {M['excluded_count']} | Travel, hotels, shopping or dining out |
+| Excluded | {M['excluded_count']} | Travel, hotels, dining out, conversation or cleaning without cooking |
 | Dish and preparation index terms | {M['indexed_dish_count']} | Mostly from original titles; this is not a count of completed recipes |
 | Dish-to-video references | {M['dish_video_links']:,} | One video may contain several dishes |
 | Recipe videos reviewed | {M['reviewed_recipe_videos']} | Subtitles cross-checked against visual content |
@@ -164,7 +164,7 @@ Original videos and creative work belong to their creator. This repository retai
 for lang in ['zh','en']:
     en=lang=='en';suffix='.en' if en else '';other='VIDEO_LIST.md' if en else 'VIDEO_LIST.en.md'
     text=f"[{'中文' if en else 'English'}]({other})\n\n# {'Video titles and links' if en else '视频标题与链接清单'}\n\n"
-    text+=('Original Chinese titles are preserved. Four reviewed non-cooking videos have been removed. Verified and pending content have separate statuses. A complete catalogue does not mean all recipes are complete.\n\n' if en else '保留原标题。已剔除本轮核对的 4 条非做菜视频；已核与待核状态分别标明；目录完成不代表所有菜谱已完成。\n\n')
+    text+=(f"Original Chinese titles are preserved. {M['excluded_count']} reviewed non-cooking videos have been removed. Verified and pending content have separate statuses. A complete catalogue does not mean all recipes are complete.\n\n" if en else f"保留原标题。已剔除本轮核对的 {M['excluded_count']} 条非做菜视频；已核与待核状态分别标明；目录完成不代表所有菜谱已完成。\n\n")
     text+=('| ID | Published | Original title and link | Duration | Review status |\n|---:|---|---|---:|---|\n' if en else '| 编号 | 发布日期 | 原标题与链接 | 时长 | 核对状态 |\n|---:|---|---|---:|---|\n')
     for r in V:
         sec=r['duration_seconds'];label=(EN_STATUS if en else ZH_STATUS)[r['status']]
@@ -188,7 +188,7 @@ for lang in ['zh','en']:
     write(f'docs/DISH_INDEX{suffix}.md',text)
 
     text=f"[{'中文' if en else 'English'}](EXCLUDED{'' if en else '.en'}.md)\n\n# {'Excluded videos' if en else '已剔除的视频'}\n\n"
-    text+=('These videos are excluded from the main list and dish index. Review used original titles and scenes sampled every five seconds across the full duration; it was not frame-by-frame viewing. Links remain available for rechecking.\n\n' if en else '以下条目已从主清单和菜名索引剔除。核对方式为原标题加覆盖全时段的 5 秒间隔场景抽查，并非逐帧观看；保留链接与理由以便复查。\n\n')
+    text+=('These videos are excluded from the main list and dish index. Review used titles, available subtitles, and scenes sampled every four or five seconds across the full duration, not frame-by-frame viewing. The per-video method is recorded in data/excluded.json. Links and reasons remain available for rechecking.\n\n' if en else '以下条目已从主清单和菜名索引剔除。核对使用原标题、可用字幕及覆盖全时段的4或5秒间隔画面抽查，并非逐帧观看；各条具体方法记在data/excluded.json，保留链接与理由以便复查。\n\n')
     text+=('| Video | Reason |\n|---|---|\n' if en else '| 视频 | 剔除原因 |\n|---|---|\n')
     for r in E:text+=f"| [{cell(r['title'])}]({r['url']}) | {r['reason_en'] if en else r['reason']} |\n"
     write(f'docs/EXCLUDED{suffix}.md',text)

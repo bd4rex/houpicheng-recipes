@@ -423,10 +423,10 @@
     "published_date": "2026-10-12",
     "published_at": "2026-10-12T12:10:08+08:00",
     "duration_seconds": 199,
-    "status": "title_cooking_lead",
-    "dishes": "广式牛腩；虾滑三明治；花生酱三明治",
-    "categories": "牛羊肉；米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "虾滑鸡蛋花生酱煎三明治；奶泡咖啡；广式牛腩青菜乌冬",
+    "categories": "米饭面点；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 34,
@@ -436,10 +436,10 @@
     "published_date": "2026-10-11",
     "published_at": "2026-10-11T19:23:42+08:00",
     "duration_seconds": 171,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "姜片花生油清蒸鱼配鱼肝；羊肚菌酿虾滑蒸蛋；咖喱牛肉土豆菠菜拌饭；冷冻虾滑分份取用",
+    "categories": "鱼虾海鲜；蛋豆蔬菜；米饭面点；调味与备餐",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 35,
@@ -449,10 +449,10 @@
     "published_date": "2026-10-11",
     "published_at": "2026-10-11T11:48:40+08:00",
     "duration_seconds": 152,
-    "status": "title_cooking_lead",
-    "dishes": "广式牛腩；牛腩粉",
+    "status": "verified_cooking",
+    "dishes": "花生酱柱侯广式牛腩；广式牛腩汤粉；牛腩啫啫猪肠粉",
     "categories": "牛羊肉；米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 36,
@@ -462,10 +462,10 @@
     "published_date": "2026-10-10",
     "published_at": "2026-10-10T20:09:42+08:00",
     "duration_seconds": 115,
-    "status": "title_cooking_lead",
-    "dishes": "藜麦饭",
-    "categories": "米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "柠檬皮黑胡椒牛肉虾仁；中小火嫩滑蛋",
+    "categories": "牛羊肉；蛋豆蔬菜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 37,
@@ -475,10 +475,10 @@
     "published_date": "2026-10-09",
     "published_at": "2026-10-09T18:22:55+08:00",
     "duration_seconds": 118,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "无额外加油黑椒贵妃肉粒；蒜片炒菠菜",
+    "categories": "猪肉；蛋豆蔬菜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 38,
@@ -488,10 +488,10 @@
     "published_date": "2026-10-09",
     "published_at": "2026-10-09T18:22:18+08:00",
     "duration_seconds": 211,
-    "status": "title_cooking_lead",
-    "dishes": "叉烧",
-    "categories": "猪肉",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "贵妃肉鸡蛋芝士恰巴塔；泰式柠檬虾沙拉；搅打咖啡加奶；叉烧风味猪肉提前腌制",
+    "categories": "米饭面点；鱼虾海鲜；甜品饮品；调味与备餐",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 39,
@@ -501,10 +501,10 @@
     "published_date": "2026-10-08",
     "published_at": "2026-10-08T19:26:55+08:00",
     "duration_seconds": 195,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "姜葱清蒸鱼（7分钟版）；肉末葱花蒸水蛋；蒜蓉淀粉拌蒸丝瓜；水煮菜心",
+    "categories": "鱼虾海鲜；蛋豆蔬菜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 40,
@@ -514,10 +514,10 @@
     "published_date": "2026-10-08",
     "published_at": "2026-10-08T11:27:20+08:00",
     "duration_seconds": 158,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "免腌黑胡椒香煎猪肉片；余油蒜辣椒炒包菜；猪肉菌菇裙带菜味噌汤",
+    "categories": "猪肉；蛋豆蔬菜；汤羹粥",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 41,
@@ -527,10 +527,10 @@
     "published_date": "2026-10-07",
     "published_at": "2026-10-07T19:51:37+08:00",
     "duration_seconds": 163,
-    "status": "title_cooking_lead",
-    "dishes": "藜麦饭",
-    "categories": "米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "香煎青花鱼与三文鱼；菜心肉末藜麦拌饭；羊肚菌桂圆排骨汤（炖制片段）",
+    "categories": "鱼虾海鲜；米饭面点；汤羹粥",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 42,
@@ -540,10 +540,10 @@
     "published_date": "2026-10-07",
     "published_at": "2026-10-07T10:44:04+08:00",
     "duration_seconds": 129,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "枸杞叶米酒猪杂汤粉；生滚枸杞叶猪杂粥；坚果可可麦片奶碗",
+    "categories": "汤羹粥；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 43,
@@ -553,10 +553,10 @@
     "published_date": "2026-10-06",
     "published_at": "2026-10-06T19:26:20+08:00",
     "duration_seconds": 144,
-    "status": "title_cooking_lead",
-    "dishes": "咖喱炒饭",
-    "categories": "米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "泰式番茄黄瓜虾沙拉；咖喱鸡胸虾仁蛋炒饭；芥末酱油拌豆角；熟饭冷冻后用于炒饭",
+    "categories": "鱼虾海鲜；米饭面点；蛋豆蔬菜；调味与备餐",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 44,
@@ -566,23 +566,10 @@
     "published_date": "2026-10-06",
     "published_at": "2026-10-06T14:49:14+08:00",
     "duration_seconds": 95,
-    "status": "title_cooking_lead",
-    "dishes": "蛋包饭",
-    "categories": "米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
-  },
-  {
-    "catalogue_id": 45,
-    "bvid": "BV1QMHx6EEZB",
-    "title": "厚皮橙的来历，自媒体账号要名字要头像，打开相册看到一张很厚皮的橙子照片，想了我被骗的经历，久久不能释怀头像它吧，名字也是它吧#厚皮橙 #直播片段#人生充满意外",
-    "url": "https://www.bilibili.com/video/BV1QMHx6EEZB/",
-    "published_date": "2026-10-05",
-    "published_at": "2026-10-05T22:13:57+08:00",
-    "duration_seconds": 104,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "小火折叠滑蛋配黄油法棍；肉桂奇亚籽可可热奶",
+    "categories": "米饭面点；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 46,
@@ -592,10 +579,10 @@
     "published_date": "2026-10-05",
     "published_at": "2026-10-05T15:19:39+08:00",
     "duration_seconds": 135,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "香菜菌菇彩椒炒牛肉；切开式滑蛋蛋包饭；牛肉鹰嘴豆裙带菜味噌汤",
+    "categories": "牛羊肉；米饭面点；汤羹粥",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 47,
@@ -605,10 +592,10 @@
     "published_date": "2026-10-04",
     "published_at": "2026-10-04T22:33:17+08:00",
     "duration_seconds": 221,
-    "status": "title_cooking_lead",
-    "dishes": "番茄牛腩；叉烧炒蛋",
-    "categories": "牛羊肉；蛋豆蔬菜",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "番茄土豆胡萝卜牛腩煲；芝麻蒜香杂蔬蛋皮拌菜；香煎三文鱼骨与鱼头；韭黄叉烧炒蛋",
+    "categories": "牛羊肉；蛋豆蔬菜；鱼虾海鲜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 48,
@@ -618,10 +605,10 @@
     "published_date": "2026-10-03",
     "published_at": "2026-10-03T16:03:27+08:00",
     "duration_seconds": 166,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "一比二蒸水蛋；柠檬虾仁芦笋煎蛋香肠拼盘；甜玉米胡萝卜水煮拼盘；淡盐玉米水",
+    "categories": "蛋豆蔬菜；鱼虾海鲜；米饭面点；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 49,
@@ -631,10 +618,10 @@
     "published_date": "2026-10-02",
     "published_at": "2026-10-02T19:34:43+08:00",
     "duration_seconds": 188,
-    "status": "title_cooking_lead",
-    "dishes": "枸杞叶瘦肉猪肝汤；虾滑",
-    "categories": "汤羹粥；调味与备餐",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "青豆肉末藜麦拌饭；杂蔬虾仁炒羊肚菌酿虾滑；枸杞叶猪肝瘦肉猪杂汤；袋装虾滑分三份解冻",
+    "categories": "米饭面点；鱼虾海鲜；汤羹粥；调味与备餐",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 50,
@@ -644,10 +631,10 @@
     "published_date": "2026-10-01",
     "published_at": "2026-10-01T21:53:12+08:00",
     "duration_seconds": 183,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "瑶柱丝蒸水蛋；瑶柱蒜蓉蒸丝瓜；葱油豉油淋白灼鱿鱼杂蔬；柠檬皮黑椒煎三文鱼",
+    "categories": "蛋豆蔬菜；鱼虾海鲜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 51,
@@ -657,23 +644,10 @@
     "published_date": "2026-09-30",
     "published_at": "2026-09-30T20:10:15+08:00",
     "duration_seconds": 163,
-    "status": "title_cooking_lead",
-    "dishes": "白切鸡",
-    "categories": "鸡鸭禽肉",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
-  },
-  {
-    "catalogue_id": 52,
-    "bvid": "BV1XPad6fEZn",
-    "title": "这个方法太好用了，日常锅底清洁#锅底黑垢怎么去除 #厨房清洁#油垢清洗妙招 #厨房小妙招",
-    "url": "https://www.bilibili.com/video/BV1XPad6fEZn/",
-    "published_date": "2026-09-30",
-    "published_at": "2026-09-30T13:45:27+08:00",
-    "duration_seconds": 88,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "微沸浸白切鸡配葱姜蘸汁；鸡汤鸡油饭；萝卜焖熟牛杂；同锅煮白切五花肉；熟五花肉空气炸锅再烤；白灼豆角配葱蒜蘸汁",
+    "categories": "鸡鸭禽肉；米饭面点；牛羊肉；猪肉；蛋豆蔬菜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 53,
@@ -683,10 +657,10 @@
     "published_date": "2026-09-30",
     "published_at": "2026-09-30T11:09:26+08:00",
     "duration_seconds": 174,
-    "status": "title_cooking_lead",
-    "dishes": "虾滑三明治",
-    "categories": "米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "水煎蛋虾滑奶酪三明治；奇亚籽可可牛奶",
+    "categories": "米饭面点；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 54,
@@ -696,10 +670,10 @@
     "published_date": "2026-09-29",
     "published_at": "2026-09-29T19:55:26+08:00",
     "duration_seconds": 214,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "黑椒牛排配炒菌菇；带皮甜玉米同蒸鸡蛋；玉米须薏仁水",
+    "categories": "牛羊肉；米饭面点；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 55,
@@ -709,10 +683,10 @@
     "published_date": "2026-09-29",
     "published_at": "2026-09-29T19:55:23+08:00",
     "duration_seconds": 107,
-    "status": "title_cooking_lead",
-    "dishes": "牛肉拌饭",
-    "categories": "米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "姜丝牛肉煎蛋炒彩椒洋葱；海苔模具饭团；牛排口蘑青菜饭",
+    "categories": "牛羊肉；米饭面点",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 56,
@@ -722,10 +696,10 @@
     "published_date": "2026-09-28",
     "published_at": "2026-09-28T19:37:24+08:00",
     "duration_seconds": 145,
-    "status": "title_cooking_lead",
-    "dishes": "糙米饭；儿童拌饭",
-    "categories": "米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "冬菇萝卜排骨汤；蛏子鱿鱼肉末韭菜拌饭料；肉末蔬菜海苔饭团",
+    "categories": "汤羹粥；鱼虾海鲜；米饭面点",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 57,
@@ -10434,8 +10408,8 @@
     "published_at": "2025-08-26T10:09:43+08:00",
     "duration_seconds": 118,
     "status": "title_cooking_lead",
-    "dishes": "广式牛腩",
-    "categories": "牛羊肉",
+    "dishes": "广式牛腩；牛腩啫啫猪肠粉",
+    "categories": "牛羊肉；米饭面点",
     "source_basis": "原标题线索，尚未逐条核对视频内容"
   },
   {
@@ -13944,8 +13918,8 @@
     "published_at": "2025-04-13T18:59:28+08:00",
     "duration_seconds": 133,
     "status": "title_cooking_lead",
-    "dishes": "咖喱牛腩",
-    "categories": "牛羊肉",
+    "dishes": "咖喱牛腩；水煮菜心",
+    "categories": "牛羊肉；蛋豆蔬菜",
     "source_basis": "原标题线索，尚未逐条核对视频内容"
   },
   {

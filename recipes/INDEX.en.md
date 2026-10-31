@@ -2,7 +2,7 @@
 
 # Recipe directory and index
 
-This directory contains **104 recipe entries and 6 preparation methods from 33 reviewed videos**. Different versions of a dish remain separate. This is an incomplete collection; missing quantities and heat settings are stated in each entry.
+This directory contains **173 recipe entries and 10 preparation methods from 55 reviewed videos**. Different versions of a dish remain separate. This is an incomplete collection; missing quantities and heat settings are stated in each entry.
 
 [All video titles and pending clues](../docs/VIDEO_LIST.en.md) · [Progress](../README.en.md)
 
@@ -12,6 +12,7 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 |---|---|---|
 | [Chicken drumsticks with wuzhi maotao](BV1Cgxg6iEjP.en.md#r01) | 2026-10-27 | 00:05–00:39；01:31–01:43 |
 | [Ginger scallion boneless chicken thigh](BV1fZHP6vEJn.en.md#r02) | 2026-10-24 | 00:36–00:59；01:43–02:07 |
+| [Gently poached chicken with shallot ginger dip](BV1uYao6fEYc.en.md#r01) | 2026-09-30 | 00:00–00:24；00:43–00:50；01:10–01:17；01:33–01:40；01:59–02:13 |
 | [Chicken drumsticks and eggs in reused braising liquid](BV12CnF6vE9R.en.md#r01) | 2026-10-20 | 00:00–00:20；00:56–01:14；03:15–03:29 |
 | [Ginger scallion chicken with salt baked seasoning](BV12D4FzaEDY.en.md#r02) | 2025-10-11 | 01:08–01:18 腌拌下锅；01:39–02:08 翻煎调味 |
 | [Steamed chicken drumsticks with scallion and salt baked seasoning](BV1NQpq6kEhi.en.md#r03) | 2026-10-13 | 01:27–01:38；02:12–02:23；02:55–03:14 |
@@ -21,8 +22,12 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 | Recipe | Video date | Time reference |
 |---|---|---|
 | [Unmarinated guifei pork cubes with peppers and black pepper sauce](BV1FsJ86TEwP.en.md#r04) | 2026-10-16 | 00:00–00:04；00:56–01:07；01:22–01:57 |
+| [Unmarinated pork slices with black pepper salt](BV1MnHD67ED7.en.md#r01) | 2026-10-08 | 00:00–00:11；00:25–00:40；00:44–01:14 |
+| [Plain boiled pork belly](BV1uYao6fEYc.en.md#r04) | 2026-09-30 | 00:00–00:19；01:14–01:22；02:05–02:13 |
 | [Pan fried ginger pork patties](BV1t7nh69EBF.en.md#r02) | 2026-10-23 | 00:04–00:27；00:51–00:56；02:04 |
 | [Guifei pork strips with peppers and onion](BV1Ecpo6JEm1.en.md#r01) | 2026-10-12 | 00:00–00:20；00:32–01:00；02:06–02:18 |
+| [Black pepper pork cubes without added frying oil](BV179pb6uEkq.en.md#r01) | 2026-10-09 | 00:00–00:39 |
+| [Air fried previously boiled pork belly](BV1uYao6fEYc.en.md#r05) | 2026-09-30 | 00:51–00:55；01:22–01:32；01:40–01:44 |
 | [Sweet and sour ribs and chicken wings with preserved plums](BV1FsJ86TEwP.en.md#r01) | 2026-10-16 | 00:05–00:31；01:28–01:31；02:00–02:05 |
 | [Pork ribs and pumpkin simmered with black bean sauce](BV1NQpq6kEhi.en.md#r04) | 2026-10-13 | 01:40–02:05；02:26–02:31 |
 | [Pan fried thin guifei pork steaks](BV15Gn26VE6T.en.md#r04) | 2026-10-22 | 01:32–01:47 |
@@ -32,16 +37,23 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 
 | Recipe | Video date | Time reference |
 |---|---|---|
+| [Ginger beef and fried eggs with peppers and onion](BV1yJaH6DE7V.en.md#r01) | 2026-09-29 | 00:00–00:42 |
 | [Cumin beef with onion](BV1w3HK61EqC.en.md#r01) | 2026-10-24 | 00:03–00:32；00:51–01:09 |
 | [Covered pan beef and mixed vegetables](BV1J9HV6FEjG.en.md#r01) | 2026-10-25 | 00:00–00:54 |
+| [Beef shrimp and mushrooms with lemon zest and pepper](BV1oJpg6UE4K.en.md#r01) | 2026-10-10 | 00:00–00:25；00:32–00:34 |
 | [Mild rice cooker braised beef shank](BV1LnnE6PESq.en.md#r01) | 2026-10-19 | 00:00–00:38；04:20–04:36 |
 | [Rice cooker braised beef shank with rice wine](BV1wfJD6eEWu.en.md#r02) | 2026-10-16 | 02:16–03:03 |
+| [Beef brisket casserole with tomato potato and carrot](BV1qWH76KEtg.en.md#r01) | 2026-10-04 | 00:00–00:39；03:08–03:27 |
 | [Shiso beef cubes and peppers for a family meal](BV1LXJ66ZEuY.en.md#r02) | 2026-10-15 | 01:40–02:41 |
 | [Shiso and black pepper diaolong beef](BV1RXJ66oE9B.en.md#r01) | 2026-10-15 | 00:00–00:54；01:08–01:42；02:04–02:16 |
+| [Cantonese beef brisket with peanut and chu hou sauces](BV1hWp76FEXo.en.md#r01) | 2026-10-11 | 00:00–00:54；01:04–01:10 |
 | [Beef with mushrooms and peppers](BV1w3HK61EqC.en.md#r03) | 2026-10-24 | 00:37–00:50 腌肉；01:43–02:22 |
+| [Prepared beef offal simmered with radish](BV1uYao6fEYc.en.md#r03) | 2026-09-30 | 00:34–00:42；01:07–01:10；01:51–01:58 |
 | [Steamed beef and luffa with garlic and dried scallop](BV1w3HK61EqC.en.md#r02) | 2026-10-24 | 00:37–00:50 腌肉；01:11–01:43；02:23–02:46 |
 | [Pan seared pre-marinated steak](BV1y3no69Eyg.en.md#r03) | 2026-10-26 | 01:52–02:14 |
+| [Beef with coriander mushrooms and peppers](BV1nQHs6cE1c.en.md#r01) | 2026-10-05 | 00:00–00:21；00:42–01:18 |
 | [Pan seared steak strips with butter](BV1ehn36VEvZ.en.md#r03) | 2026-10-18 | 01:10–01:37 |
+| [Black pepper steak with sauteed mushrooms](BV1yJaH6DEvb.en.md#r01) | 2026-09-29 | 00:35–01:18；01:28–01:42；02:33–02:38 |
 | [Black pepper beef with celery](BV1TCsf6LEte.en.md#r02) | 2026-10-29 | 00:03–00:19；02:11–02:50 |
 
 ## Fish and seafood
@@ -49,16 +61,27 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 | Recipe | Video date | Time reference |
 |---|---|---|
 | [Squid and crisp lotus root with XO sauce](BV1LXJ66ZEuY.en.md#r01) | 2026-10-15 | 00:48–01:38 |
+| [Fish and fish liver steamed with ginger and peanut oil](BV1ESp76GEUN.en.md#r01) | 2026-10-11 | 00:00–00:14；00:44–00:51；01:28–01:32；02:30–02:46 |
+| [Ginger scallion steamed fish, seven minute demonstration](BV171HD6cEwv.en.md#r01) | 2026-10-08 | 00:00–00:08；00:28–00:36；02:14–02:27；02:49–02:52 |
 | [Pan fried hairtail with close scoring](BV1Pvn26tEuN.en.md#r01) | 2026-10-22 | 00:00–00:17 |
 | [Roasted salmon peppers and potatoes with shrimp and egg](BV12vnt6yEhA.en.md#r01) | 2026-10-23 | 00:00–00:18；00:59–02:58 |
 | [Starch dusted pan fried sole and golden pompano](BV1ehn36VEvZ.en.md#r05) | 2026-10-18 | 01:55–02:13；02:23–02:40；03:20–03:26 |
+| [Shrimp stuffed morels stir fried with shrimp and vegetables](BV1QRaU6rEsN.en.md#r02) | 2026-10-02 | 00:21–00:23；00:28–00:54；01:20–01:44 |
+| [Pan fried salmon with lemon zest and pepper](BV1PLa66TEYn.en.md#r04) | 2026-10-01 | 02:24–02:44 |
+| [Lemon shrimp asparagus eggs and sausage platter](BV1CqHa6XERx.en.md#r02) | 2026-10-03 | 00:31–01:34 |
+| [Thai style lemon shrimp salad](BV179pb6uEDX.en.md#r02) | 2026-10-09 | 02:00–03:10 |
+| [Thai style tomato cucumber and shrimp salad](BV1pepw6MEsZ.en.md#r01) | 2026-10-06 | 00:00–00:50 |
 | [Baked mackerel with salmon on the same tray](BV12D4FzaEDY.en.md#r01) | 2025-10-11 | 00:04–00:26 制作；02:08–02:18 装盘 |
 | [Pan fried small sea fish with scales left on](BV1wKJd6LEY1.en.md#r02) | 2026-10-19 | 00:27–00:48 |
 | [Blanched squid and broccolini with wasabi soy dip](BV1uaJy6ZEL6.en.md#r02) | 2026-10-15 | 00:35–00:51；02:19–02:24 |
 | [Fish steamed over a pork patty](BV1t7nh69EBF.en.md#r01) | 2026-10-23 | 00:00–00:20；00:57–01:30；02:08–02:26 |
+| [Blanched squid and vegetables with scallion soy dressing](BV1PLa66TEYn.en.md#r03) | 2026-10-01 | 01:20–02:18；02:51–02:56 |
 | [Scallion shrimp](BV12D4FzaEDY.en.md#r03) | 2025-10-11 | 01:19–01:38 |
 | [Garlic butter seafood platter](BV1uaJy6ZEL6.en.md#r01) | 2026-10-15 | 00:14–00:35；00:52–01:59 |
+| [Razor clam squid pork and chive rice topping](BV18vaV6BEJs.en.md#r02) | 2026-09-28 | 00:00–00:05；00:22–01:04；01:32–01:38；02:00–02:15 |
 | [Fresh squid stir fried with soy sauce](BV1wKJd6LEY1.en.md#r03) | 2026-10-19 | 00:54–01:09 |
+| [Pan fried salmon bones and head pieces](BV1qWH76KEtg.en.md#r03) | 2026-10-04 | 01:40–01:44；02:08–02:12；03:28–03:36 |
+| [Pan fried mackerel and salmon](BV1otHk6zEQy.en.md#r01) | 2026-10-07 | 00:08–00:15；00:25–00:35；01:19–01:30 |
 | [Pan fried tongue sole](BV1J9HV6FEjG.en.md#r02) | 2026-10-25 | 00:55–01:14；02:03–02:08 |
 | [Fish sauce cuttlefish with peppers and celery](BV1yaxe6zEkP.en.md#r02) | 2026-10-30 | 00:42–01:10；01:20–01:46 |
 | [Fish sauce stir fried cuttlefish](BV1fZHP6vEJn.en.md#r01) | 2026-10-24 | 00:05–00:35；01:00–01:43 |
@@ -69,36 +92,53 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 
 | Recipe | Video date | Time reference |
 |---|---|---|
+| [Steamed egg with a one-to-two egg-water ratio](BV1CqHa6XERx.en.md#r01) | 2026-10-03 | 00:10–00:30；01:44–02:08 |
+| [Soft eggs over medium low heat](BV1oJpg6UE4K.en.md#r02) | 2026-10-10 | 00:39–01:14 |
+| [Cabbage with garlic chili and remaining pork fat](BV1MnHD67ED7.en.md#r02) | 2026-10-08 | 00:40–00:43；01:13–01:28 |
 | [Folded fried eggs](BV1NWnM6HEb3.en.md#r03) | 2026-10-18 | 01:35–01:56 |
 | [Steamed egg custard with pork rib broth](BV1FsJ86TEwP.en.md#r02) | 2026-10-16 | 00:33–00:38；00:44–00:56；01:08–01:10；02:08–02:11 |
 | [Water assisted eggs and sausages](BV1rKHV6wEzs.en.md#r02) | 2026-10-25 | 00:31–00:35；01:02–01:33 |
+| [Boiled choy sum](BV171HD6cEwv.en.md#r04) | 2026-10-08 | 02:38–02:44 |
 | [Boiled broccoli](BV1Ecpo6JEm1.en.md#r03) | 2026-10-12 | 00:27–00:31；01:16–01:22 |
 | [Boiled broccolini](BV1wKJd6LEY1.en.md#r06) | 2026-10-19 | 01:39–01:44 |
 | [Boiled broccolini baby corn and okra](BV1yaxe6zEkP.en.md#r03) | 2026-10-30 | 01:10–01:20 |
+| [Steamed egg custard with dried scallop shreds](BV1PLa66TEYn.en.md#r01) | 2026-10-01 | 00:00–00:19；00:42–00:47；02:44–02:49 |
 | [Hairy gourd braised with dried scallops and shiitake](BV15Gn26VE6T.en.md#r01) | 2026-10-22 | 00:15–00:27；00:47–00:50；01:10–01:29 |
+| [Steamed luffa with garlic and dried scallops](BV1PLa66TEYn.en.md#r02) | 2026-10-01 | 00:20–00:42；00:48–01:18 |
 | [Tomato tofu with minced pork](BV1Cgxg6iEjP.en.md#r02) | 2026-10-27 | 00:40–01:09 |
 | [Tomato and egg stir fry with tomato sauce](BV1NKJq6YERT.en.md#r02) | 2026-10-17 | 00:27–00:53；00:59–01:07 |
 | [Blanched broccolini](BV1t7nh69EBF.en.md#r05) | 2026-10-23 | 00:42–00:51；02:04 |
 | [Blanched broccolini side dish](BV1NQpq6kEhi.en.md#r05) | 2026-10-13 | 02:22–02:25；02:33–02:36 |
 | [Boiled beans and broccoli with shallot garlic dipping sauce](BV1Cgxg6iEjP.en.md#r04) | 2026-10-27 | 01:10–01:17；01:44–01:51 |
 | [Blanched beans and broccolini with shallot garlic dip](BV1ehn36VEvZ.en.md#r06) | 2026-10-18 | 01:49–01:52；02:15–02:22；02:56–03:09 |
+| [Boiled green beans with shallot garlic dip](BV1uYao6fEYc.en.md#r06) | 2026-09-30 | 00:55–01:06；01:46–01:51；02:05–02:13 |
+| [Steamed egg with shrimp stuffed morels](BV1ESp76GEUN.en.md#r02) | 2026-10-11 | 00:14–00:30；00:40–00:43；00:52–01:03；01:32–01:36；02:26–02:30 |
+| [Steamed egg custard with minced meat and scallions](BV171HD6cEwv.en.md#r02) | 2026-10-08 | 00:09–00:27；00:36–00:44；01:03–01:07；02:26–02:55 |
+| [Vegetable and egg-strip salad with sesame and garlic](BV1qWH76KEtg.en.md#r02) | 2026-10-04 | 01:44–02:09；02:12–02:59 |
+| [Boiled green beans with wasabi soy sauce](BV1pepw6MEsZ.en.md#r03) | 2026-10-06 | 01:28–01:31；02:08–02:16 |
 | [Soybeans in tomato sauce](BV1pGxY6eEi5.en.md#r03) | 2026-10-30 | 01:22–01:46；02:48–03:07 |
 | [Diced meat with cauliflower and mushrooms](BV1NKJq6YERT.en.md#r03) | 2026-10-17 | 01:08–01:26；02:05–02:20 |
+| [Spinach stir fried with sliced garlic](BV179pb6uEkq.en.md#r02) | 2026-10-09 | 00:52–01:18 |
 | [Garlic peppers and broccolini](BV1rKHV6wEzs.en.md#r03) | 2026-10-25 | 01:33–01:57 |
 | [Greens simmered with garlic water and oil](BV1J9HV6FEjG.en.md#r04) | 2026-10-25 | 01:15–01:46 |
+| [Luffa steamed with garlic and a light starch coating](BV171HD6cEwv.en.md#r03) | 2026-10-08 | 00:45–01:02；01:07–01:30 |
 | [Greens with garlic oil and seasoning](BV12D4FzaEDY.en.md#r04) | 2025-10-11 | 00:26–00:42 |
 | [Cabbage with garlic and dried chili](BV12D4FzaEDY.en.md#r05) | 2025-10-11 | 00:43–01:07 |
 | [Celtuce slices stir fried with garlic and peppers](BV1Ecpo6JEm1.en.md#r02) | 2026-10-12 | 00:20–00:26；01:01–01:16 |
 | [Microwave tofu with soy sauce and olive oil](BV1RXJ66oEiW.en.md#r02) | 2026-10-15 | 00:14–00:19；00:26–00:35 |
+| [Yellow chives and char siu with eggs](BV1qWH76KEtg.en.md#r04) | 2026-10-04 | 03:00–03:08 |
 
 ## Rice noodles and bread
 
 | Recipe | Video date | Time reference |
 |---|---|---|
 | [One pan pasta with meat sauce and butter](BV1ehn36VEvZ.en.md#r01) | 2026-10-18 | 00:00–00:16；00:55–01:10 |
+| [Soft omelet opened over rice](BV1nQHs6cE1c.en.md#r02) | 2026-10-05 | 00:24–00:40 |
 | [Beef and greens noodles in braising broth](BV1NWnM6HEb3.en.md#r02) | 2026-10-18 | 00:00–00:15；00:48–01:08 |
 | [Braised beef egg potato and vegetable plate](BV12CnF6vE9R.en.md#r02) | 2026-10-20 | 00:20–00:55；01:16–03:11 |
+| [Rice with curried beef potato and spinach](BV1ESp76GEUN.en.md#r03) | 2026-10-11 | 01:03–01:28；01:40–02:27 |
 | [Curry fried rice with shrimp luncheon meat and egg](BV1ehn36VEvZ.en.md#r02) | 2026-10-18 | 00:16–00:54 |
+| [Curry fried rice with chicken shrimp and egg](BV1pepw6MEsZ.en.md#r02) | 2026-10-06 | 00:51–01:27；01:34–02:03 |
 | [Potato corn and carrot breakfast plate](BV1rKHV6wEzs.en.md#r01) | 2026-10-25 | 00:00–00:16；00:36–01:01 |
 | [Steamed potatoes carrots and beans](BV1uaJy6ZEL6.en.md#r04) | 2026-10-15 | 00:04–00:13；00:36–00:42 |
 | [Potato and steel cut oat rice, partial method](BV1wKJd6LEY1.en.md#r05) | 2026-10-19 | 00:12–00:17；01:52 |
@@ -106,15 +146,30 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 | [Potato egg and tuna sandwich](BV1rKHV6wEzs.en.md#r04) | 2026-10-25 | 01:59–02:41 |
 | [Cream cheese and beef baguette sandwich](BV1Pvn26tEuN.en.md#r03) | 2026-10-22 | 01:04–01:45 |
 | [Ginger pork patty toast sandwich](BV1Fmnq6bE7i.en.md#r01) | 2026-10-21 | 00:00–00:52；00:55–00:59；01:43–02:10 |
+| [Low heat folded eggs with buttered baguette](BV1aDpF6mEUr.en.md#r01) | 2026-10-06 | 00:00–01:03 |
+| [Corn cooked in its husk with steamed eggs](BV1yJaH6DEvb.en.md#r02) | 2026-09-29 | 00:03–00:13；01:08–01:18 |
+| [Cantonese beef brisket noodle soup](BV1hWp76FEXo.en.md#r02) | 2026-10-11 | 00:55–01:19；01:54–02:14 |
+| [Cantonese beef brisket udon with greens](BV1ctpX65Eez.en.md#r03) | 2026-10-12 | 02:15–02:54 |
 | [Microwave oat and egg bowl with cocoa](BV1bqxM6gERy.en.md#r02) | 2026-10-27 | 00:40–01:26 |
+| [Shrimp egg and cream cheese sandwich](BV1UMa96EEDw.en.md#r01) | 2026-09-30 | 00:00–00:22；00:31–02:02 |
+| [Molded seaweed rice triangles](BV1yJaH6DE7V.en.md#r02) | 2026-09-29 | 00:43–00:57 |
 | [Teochew rice noodle soup with pork rolls meatballs and squid](BV1LnnE6PESq.en.md#r03) | 2026-10-19 | 03:22–04:18 |
+| [Steak mushroom and greens rice plate](BV1yJaH6DE7V.en.md#r03) | 2026-09-29 | 01:00–01:28 |
 | [Beef and Chinese sausage rice](BV1TCsf6LEte.en.md#r01) | 2026-10-29 | 00:20–02:10；02:52–02:59 |
 | [Beef pea egg and vegetable fried rice](BV1Pvn26tEuN.en.md#r02) | 2026-10-22 | 00:18–01:01 |
 | [Beef egg and vegetable fried rice](BV1y3no69Eyg.en.md#r02) | 2026-10-26 | 00:20–01:02 |
+| [Pan seared rice rolls with beef brisket](BV1hWp76FEXo.en.md#r03) | 2026-10-11 | 01:20–01:53 |
+| [Boiled sweet corn and carrot platter](BV1CqHa6XERx.en.md#r03) | 2026-10-03 | 00:04–00:09；01:35–01:44 |
+| [Minced meat vegetable and seaweed rice balls](BV18vaV6BEJs.en.md#r03) | 2026-09-28 | 00:39–00:43；01:06–01:32 |
 | [Cheese and soft egg bagel](BV13Msd6kEsP.en.md#r01) | 2026-10-29 | 00:00–00:44；01:00–01:15 |
 | [Pan toasted beef egg and cheese sandwich](BV1wfJD6eEWu.en.md#r01) | 2026-10-16 | 00:00–01:19 |
 | [Peanut butter and banana toast sandwich](BV1Fmnq6bE7i.en.md#r03) | 2026-10-21 | 00:55–00:59；01:43–02:10 |
+| [Quinoa rice with minced meat and choy sum](BV1otHk6zEQy.en.md#r02) | 2026-10-07 | 00:15–00:24；00:36–01:19 |
 | [Garlic butter and parsley baguette](BV1NWnM6HEb3.en.md#r01) | 2026-10-18 | 00:16–00:43；01:10–01:18 |
+| [Pan toasted shrimp egg and peanut butter sandwich](BV1ctpX65Eez.en.md#r01) | 2026-10-12 | 00:00–00:03；00:20–01:18 |
+| [Pork egg and cheese ciabatta sandwich](BV179pb6uEDX.en.md#r01) | 2026-10-09 | 00:00–00:18；00:27–01:17；01:46–01:55 |
+| [Quinoa rice mixed with peas and minced meat](BV1QRaU6rEsN.en.md#r01) | 2026-10-02 | 00:04–00:06；00:23–00:27；00:55–01:17 |
+| [Rice cooked in chicken broth](BV1uYao6fEYc.en.md#r02) | 2026-09-30 | 00:24–00:33；02:17–02:23 |
 | [Chicken thigh rice with cucumber and seaweed](BV1bqxM6gERy.en.md#r01) | 2026-10-27 | 00:00–00:40 |
 | [Oat egg kiwi and cocoa bowl](BV1NQpq6kEhi.en.md#r01) | 2026-10-13 | 00:20–00:35 |
 | [Butter beef and cucumber baguette sandwich](BV1vgn26yER7.en.md#r01) | 2026-10-22 | 00:00–01:30 |
@@ -125,12 +180,19 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 
 | Recipe | Video date | Time reference |
 |---|---|---|
+| [Pork rib soup with shiitake and white radish](BV18vaV6BEJs.en.md#r01) | 2026-09-28 | 00:05–00:21；01:39–01:48；02:09–02:15 |
+| [Goji leaf soup with pork liver lean pork and offal](BV1QRaU6rEsN.en.md#r03) | 2026-10-02 | 00:08–00:20；01:48–02:39；02:53–02:59 |
+| [Pork offal and goji leaf noodle soup with rice wine](BV1QppK6cE6B.en.md#r01) | 2026-10-07 | 00:00–00:51；01:26–01:39 |
 | [Chinese olive pork bone and chicken feet soup](BV1NQpq6kEhi.en.md#r02) | 2026-10-13 | 00:53–01:25；02:48–02:54 |
 | [Pork rib soup with kelp and soybeans](BV1Cgxg6iEjP.en.md#r03) | 2026-10-27 | 01:17–01:29 |
 | [Pork rib soup with Chinese yam corn and carrot](BV1J9HV6FEjG.en.md#r03) | 2026-10-25 | 00:28–00:34；01:12–01:15；02:08–02:20 |
 | [Chinese yam carrot and pork rib soup, partial method](BV1t7nh69EBF.en.md#r04) | 2026-10-23 | 00:32–00:42；01:20–01:23；02:04 |
 | [Miso soup with beef tofu and wakame](BV1uaJy6ZEL6.en.md#r03) | 2026-10-15 | 00:51–00:53；02:03–02:17 |
+| [Beef chickpea and wakame miso soup](BV1nQHs6cE1c.en.md#r03) | 2026-10-05 | 00:07–00:10；00:22–00:24；01:20–01:35；01:55–02:01 |
+| [Pork mushroom and wakame miso soup](BV1MnHD67ED7.en.md#r03) | 2026-10-08 | 00:12–00:17；01:29–01:42 |
+| [Pork offal and goji leaf congee](BV1QppK6cE6B.en.md#r02) | 2026-10-07 | 00:53–01:25 |
 | [Cabbage bean sprout and beef meatball soup in rib broth](BV1FsJ86TEwP.en.md#r03) | 2026-10-16 | 00:38–00:54；01:10–01:21；02:04–02:08 |
+| [Morel longan and pork bone soup, stewing segment](BV1otHk6zEQy.en.md#r03) | 2026-10-07 | 01:31–02:23 |
 | [Pork broth steamed with apple and morels](BV1wKJd6LEY1.en.md#r01) | 2026-10-19 | 00:00–00:11；00:18–00:25；01:44–01:50 |
 | [White pepper beef soup](BV1yaxe6zEkP.en.md#r01) | 2026-10-30 | 00:00–00:41；01:47–02:25 |
 | [Chicken and fish maw soup with cordyceps flowers and red dates](BV1NKJq6YERT.en.md#r01) | 2026-10-17 | 00:00–00:25；00:53–00:58；01:51–02:05 |
@@ -143,7 +205,14 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 
 | Recipe | Video date | Time reference |
 |---|---|---|
+| [Nut cocoa and oat milk bowl](BV1QppK6cE6B.en.md#r03) | 2026-10-07 | 01:39–01:49 |
+| [Chia cocoa milk](BV1UMa96EEDw.en.md#r02) | 2026-09-30 | 00:22–00:31；02:03–02:18 |
+| [Coffee with warm milk foam](BV1ctpX65Eez.en.md#r02) | 2026-10-12 | 01:20–01:36；02:01–02:13 |
+| [Whisked coffee with milk](BV179pb6uEDX.en.md#r03) | 2026-10-09 | 01:22–01:44 |
+| [Lightly salted corn cooking water](BV1CqHa6XERx.en.md#r04) | 2026-10-03 | 02:20–02:34 |
+| [Corn silk and Job's tears cooking water](BV1yJaH6DEvb.en.md#r03) | 2026-09-29 | 00:04–00:10；00:38–00:47；01:42–01:46 |
 | [Fish maw milk jelly with dates longan and ginger](BV1pGxY6eEi5.en.md#r01) | 2026-10-30 | 00:00–00:44；01:48–02:14 |
+| [Warm cocoa milk with cinnamon and chia seeds](BV1aDpF6mEUr.en.md#r02) | 2026-10-06 | 01:04–01:29 |
 | [Berry nut and cocoa yogurt bowl with toast](BV1RXJ66oEiW.en.md#r01) | 2026-10-15 | 00:00–00:13；00:20–00:26；00:36–01:16 |
 | [Blueberry nut and cocoa yogurt bowl](BV15Nn96wEUz.en.md#r02) | 2026-10-26 | 00:51–01:07 |
 | [Dried tangerine peel and shiso stem infusion](BV1RXJ66oE9B.en.md#r02) | 2026-10-15 | 01:57–02:03；02:16–02:45 |
@@ -154,11 +223,15 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 
 | Recipe | Video date | Time reference |
 |---|---|---|
+| [Portioning frozen shrimp paste](BV1ESp76GEUN.en.md#r04) | 2026-10-11 | 00:31–00:43 |
 | [Freezing braising liquid in portions](BV1NWnM6HEb3.en.md#r04) | 2026-10-18 | 00:00–00:15 |
+| [Advance marinade for char siu style pork](BV179pb6uEDX.en.md#r04) | 2026-10-09 | 00:18–00:27；03:03–03:10 |
 | [Basic marinade for stir fried beef](BV1rKHV6wEzs.en.md#r05) | 2026-10-25 | 02:55–03:13 |
+| [Preparing frozen cooked rice for fried rice](BV1pepw6MEsZ.en.md#r04) | 2026-10-06 | 00:51–01:04 |
 | [Peeling shrimp after brief freezing](BV1vgn26yER7.en.md#r02) | 2026-10-22 | 02:35–03:49 |
 | [Steaming and soaking dried fish maw](BV13Msd6kEsP.en.md#r02) | 2026-10-29 | 02:17–02:48 |
 | [Steaming soaking and portioning dried fish maw](BV1NKJq6YERT.en.md#r04) | 2026-10-17 | 00:07–00:14 |
+| [Dividing bagged shrimp paste into three portions](BV1QRaU6rEsN.en.md#r04) | 2026-10-02 | 00:40–00:46 |
 | [Black pepper cube marinade demonstrated with pork](BV1LnnE6PESq.en.md#r02) | 2026-10-19 | 01:40–02:25 |
 
 ## Browse by video
@@ -195,4 +268,26 @@ This directory contains **104 recipe entries and 6 preparation methods from 33 r
 - [一人食🍓强烈安利这顿酸奶碗早餐！简单又丰富#酸奶碗 #自制早餐 #简单营养早餐#一人食](BV1RXJ66oEiW.en.md) — 2 entries
 - [一碗回甘橄榄汤，一碟盐焗鸡，便是广东人的晚餐#广东家常 #老广的味道 #橄榄汤 #盐焗鸡](BV1NQpq6kEhi.en.md) — 5 entries
 - [说是减脂餐也不是不行#一人食 #家常简餐 #好好吃饭 #日常轻食 #藜麦饭](BV1Ecpo6JEm1.en.md) — 3 entries
+- [早餐换花样｜高蛋白三明治+维C满满的彩椒，广式牛腩乌冬太香#快手早餐 #早餐吃什么 #家庭早餐 #虾滑三明治 #花生酱三明治](BV1ctpX65Eez.en.md) — 3 entries
+- [专治不爱吃蔬菜的小朋友✨这个拌饭真的很不错。#儿童营养餐 #宝宝拌饭 #蒸菜#无油烟厨房](BV1ESp76GEUN.en.md) — 4 entries
+- [零难度家庭版广式牛腩#广式牛腩#快手菜#简餐#牛腩粉#啫啫](BV1hWp76FEXo.en.md) — 3 entries
+- [干净简餐｜柠檬皮黑胡椒牛肉虾仁✨配藜麦饭牛油果蔬菜#一人食 #健康简餐 #生活化减脂 #干净饮食](BV1oJpg6UE4K.en.md) — 2 entries
+- [吃一次就爱上快手菜式#一人食#简餐#快手菜#贵妃肉](BV179pb6uEkq.en.md) — 2 entries
+- [快手早餐备餐｜同一块肉，早上煎恰巴塔，提前腌做叉烧，省事#快手早餐  #恰巴塔三明治 #自制叉烧 #周末备餐 #打工人早餐](BV179pb6uEDX.en.md) — 4 entries
+- [懒人无油烟料理✨一锅多蒸，少油烟吃得清爽舒服#无油烟厨房 #蒸菜家常 #一锅多蒸 #健康家常菜](BV171HD6cEwv.en.md) — 4 entries
+- [买它做一个很好吃的简餐，适合打工人的经济简餐#简餐#快手菜#一人食#好好吃饭大赛](BV1MnHD67ED7.en.md) — 3 entries
+- [家常营养餐｜青花鱼藜麦饭团➕羊肚菌桂圆炖汤#生活化健康饮食 #健康简餐 #青花鱼 #一人食营养餐 #家常轻食](BV1otHk6zEQy.en.md) — 3 entries
+- [入秋微凉早餐｜生滚猪杂枸杞汤粉，广东米酒是灵魂#猪杂枸杞汤粉 #广式早餐 #秋日暖胃美食 #早餐吃什么](BV1QppK6cE6B.en.md) — 3 entries
+- [厨房小白一定要做好吃！东南亚风味菜泰式虾律，咖喱炒饭；#东南亚风味#泰式虾律#凉拌菜#咖喱炒饭](BV1pepw6MEsZ.en.md) — 4 entries
+- [快手早餐系列，蛋包饭的蛋这样做很嫩#快手早餐#蛋包饭#简餐](BV1aDpF6mEUr.en.md) — 2 entries
+- [厨房小白也能搞定的家常健康简餐#一人食 #健康简餐 #家常轻食 #干净饮食](BV1nQHs6cE1c.en.md) — 3 entries
+- [分享一个减脂菜，膳食纤维碳水蛋白质都有的那种，#生活化减脂#拌蔬菜#番茄牛腩煲#叉烧炒蛋](BV1qWH76KEtg.en.md) — 4 entries
+- [抗炎控糖｜普通人可照搬的日常饮食小细节#生活化健康饮食 #饮食小细节 #干净饮食 #日常三餐 #好好吃饭](BV1CqHa6XERx.en.md) — 4 entries
+- [点外卖的话选这不会出错，新鲜是这个菜的首要条件#煮杂汤#枸杞叶瘦肉猪肝汤 #虾滑的神仙吃法 #广东汤](BV1QRaU6rEsN.en.md) — 4 entries
+- [清淡不重油，吃着肠胃特别舒服，家宴或者节后家常菜都合适。#节后解腻家常菜 #清爽家常菜 #家宴小菜 #快手蒸菜 #白灼菜](BV1PLa66TEYn.en.md) — 4 entries
+- [三天不吃甚是想念#广东家常菜 #白切鸡#萝卜牛杂#无油烟厨房](BV1uYao6fEYc.en.md) — 6 entries
+- [三四百大卡早餐｜虾滑三明治+奇亚籽可可奶，牛奶这样挑#减脂早餐 #虾滑三明治 #干净饮食 #早餐分享](BV1UMa96EEDw.en.md) — 2 entries
+- [减脂人的日餐#学生餐#减脂人的一日三餐 #简餐 #一人食](BV1yJaH6DEvb.en.md) — 3 entries
+- [干净饮食不单调！牛肉拌饭&牛排简餐，一人食快手菜#干净饮食 #快手菜 #一人食 #简餐](BV1yJaH6DE7V.en.md) — 3 entries
+- [30分钟下班快手菜，儿童拌饭，糙米饭，蛏子拌饭#海苔碎拌饭 #下班快手菜 #蛏子的家常做法](BV18vaV6BEJs.en.md) — 3 entries
 - [便宜到离谱的青花鱼，烤完无小刺还巨好吃；姜葱炒鸡加点盐焗粉吧；30块一斤的沙姜省了#姜葱炒鸡#烤青花鱼 #干辣椒发霉 #厚皮橙](BV12D4FzaEDY.en.md) — 5 entries

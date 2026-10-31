@@ -34,3 +34,13 @@
 - Updated paired recipe pages and directories. The broader clue index has 566 dish or preparation terms and 1,746 video links; historical downloads remain snapshots.
 - Checked 20 source BVID/CID pairs and subtitle digests, 110 recipe or preparation anchors, and the links and bilingual structure of 80 Markdown files; no broken links were found.
 - Content commit `dd088a86953b01a9edc5136d2a7eb50f0b69087f` was pushed to remote `main`; the remote commit matched and all 112 file blob hashes matched the local checkout.
+
+## 2026-11-01 01:06 Review of 24 more videos
+
+- Baseline: `85f32582071bf1d38e99ed80137e7fb25de1e2dc`. This batch continued from the evening of 2026-10-31 into 2026-11-01.
+- Reviewed 24 videos: 22 contain cooking, adding 69 recipes and 4 preparation methods. Two videos about the account name and pan cleaning were removed from the main list and dish index.
+- Totals: 55 reviewed cooking videos, 173 recipes and 10 preparation methods. The main list has 1,220 videos, with 6 exclusions and 1,165 awaiting content review; 66 titles remain inconclusive.
+- Added Cantonese brisket, steamed fish and eggs, shrimp-stuffed morels, Thai shrimp salad, poached chicken, radish with beef offal, shrimp sandwiches, razor-clam and squid rice toppings and other methods, preserving unknown quantities, heat settings and ingredient identities.
+- Updated paired recipe pages, directories, exclusion evidence and progress. The broader index has 637 dish or preparation terms and 1,802 video references.
+- Distinguished the 2026-10-31 catalogue snapshot from the 2026-11-01 recipe update, so the later writing date does not imply a fresh catalogue crawl.
+- Checked BVID, CID, subtitle digests and time ranges for all 22 new cooking sources, 183 recipe or preparation anchors and the links and bilingual structure of 124 Markdown files; no broken links were found.

@@ -24,7 +24,7 @@ The current title-index terms mainly reflect dish and preparation words mentione
 
 1. Retain videos showing cooking, food preparation, seasoning or actual meal preparation.
 2. Retain mixed lifestyle videos containing usable cooking segments and record their time ranges.
-3. Exclude reviewed videos limited to travel, shopping, dining out or hotels without cooking; preserve the reason and original link.
+3. Exclude reviewed videos limited to travel, shopping, dining out, hotels, conversation or cleaning without cooking; preserve the reason and original link.
 4. Keep vague titles such as generic new-upload announcements pending review.
 5. A cooking clue in a title is preliminary screening and must not automatically become verified cooking.
 
@@ -38,4 +38,4 @@ Suggested recipe fields are `recipe_id`, `dish_name`, `variant`, `video_bvid`, `
 
 ## Next batch priorities
 
-Review the 68 inconclusive titles first, followed by videos not yet covered by the dish index. Then expand recipes by the user's preferred dishes or frequently appearing dishes. Retain verified, pending and excluded statuses on every update so intermediate results stay usable.
+Continue expanding recipes in catalogue order while reviewing inconclusive titles and unindexed items encountered along the way. Use the current progress file for the remaining queue. Retain verified, pending and excluded statuses on every update so intermediate results stay usable.

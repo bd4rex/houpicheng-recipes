@@ -36,6 +36,12 @@ EXCLUDED={
  'BV1KMZjBNEVp':('香港外出用餐和购物记录，全时段画面抽查未见做菜。','Hong Kong dining and shopping diary; no cooking found in sampled scenes across the full duration.'),
  'BV1LHtpzyEBD':('香港澳门交通、住宿、购物与外出用餐，全时段画面抽查未见做菜。','Hong Kong and Macao transport, hotels, shopping and dining; no cooking found in sampled scenes across the full duration.'),
  'BV1Votjz4EEw':('酒店与旅行提醒，展示吃杯面而无菜谱制作过程。','Hotel and travel tips; eating instant noodles, with no recipe preparation shown.'),
+ 'BV1QMHx6EEZB':('直播聊天讲述账号名字与买橙经历，完整字幕及全时段画面抽查未见做菜。','Livestream conversation about the account name and an orange purchase; no cooking found in the complete subtitles or sampled scenes across the full duration.'),
+ 'BV1XPad6fEZn':('锅底去油垢清洁示范，全时段画面抽查未见食材或做菜过程。','Demonstration of removing grease from pan bottoms; no ingredients or cooking found in sampled scenes across the full duration.'),
+}
+EXCLUDED_REVIEW_METHOD={
+ 'BV1QMHx6EEZB':'完整中文字幕与4秒间隔全时段画面抽查',
+ 'BV1XPad6fEZn':'原标题与4秒间隔全时段画面抽查',
 }
 SAMPLE='BV12D4FzaEDY'
 TITLE_COMPARISON_EXCLUSIONS={'BV1yaxe6zEkP':{'猪肚鸡'}}
@@ -68,7 +74,7 @@ def main():
         bvid=v['bv_id'];title=v['title'];date=datetime.fromtimestamp(v['pubtime'],ZoneInfo('Asia/Shanghai'))
         base={'catalogue_id':n,'bvid':bvid,'title':title,'url':f'https://www.bilibili.com/video/{bvid}/','published_date':date.strftime('%Y-%m-%d'),'published_at':date.isoformat(),'duration_seconds':v['duration']}
         if bvid in EXCLUDED:
-            excluded.append({**base,'reason':EXCLUDED[bvid][0],'reason_en':EXCLUDED[bvid][1],'review_method':'标题与5秒间隔全时段场景抽查','reviewed_on':'2026-10-31'})
+            excluded.append({**base,'reason':EXCLUDED[bvid][0],'reason_en':EXCLUDED[bvid][1],'review_method':EXCLUDED_REVIEW_METHOD.get(bvid,'标题与5秒间隔全时段场景抽查'),'reviewed_on':'2026-10-31'})
             continue
         matches=[]
         for d in dictionary:
@@ -102,7 +108,7 @@ def main():
     reviewed_videos=len(REVIEWED) if REGISTRY else 1
     reviewed_recipes=sum(r['kind']=='dish' for r in REGISTRY) if REGISTRY else 5
     preparations=sum(r['kind']=='preparation' for r in REGISTRY)
-    metadata={'as_of':'2026-10-31','author':'是厚皮橙','uid':544087714,'source_url':'https://space.bilibili.com/544087714','catalogue_unique_count':len(raw),'profile_display_count':1226,'api_reported_count':1227,'api_pagination_exhausted':True,'main_list_count':len(rows),'excluded_count':len(excluded),'reviewed_recipe_videos':reviewed_videos,'reviewed_recipes':reviewed_recipes,'reviewed_preparations':preparations,'unreviewed_content_count':len(rows)-reviewed_videos,'status_counts':dict(counts),'indexed_dish_count':len(used),'dish_video_links':len(links),'videos_with_dish_index':len({r['bvid'] for r in links}),'first_publish_date':min(r['published_date'] for r in rows),'last_publish_date':max(r['published_date'] for r in rows),'stage':'Catalogue complete; detailed recipe extraction is in progress. See recipes/INDEX.md for reviewed content.'}
+    metadata={'as_of':max(['2026-10-31']+[r['reviewed_on'] for r in REGISTRY]),'catalogue_as_of':'2026-10-31','author':'是厚皮橙','uid':544087714,'source_url':'https://space.bilibili.com/544087714','catalogue_unique_count':len(raw),'profile_display_count':1226,'api_reported_count':1227,'api_pagination_exhausted':True,'main_list_count':len(rows),'excluded_count':len(excluded),'reviewed_recipe_videos':reviewed_videos,'reviewed_recipes':reviewed_recipes,'reviewed_preparations':preparations,'unreviewed_content_count':len(rows)-reviewed_videos,'status_counts':dict(counts),'indexed_dish_count':len(used),'dish_video_links':len(links),'videos_with_dish_index':len({r['bvid'] for r in links}),'first_publish_date':min(r['published_date'] for r in rows),'last_publish_date':max(r['published_date'] for r in rows),'stage':'Catalogue complete; detailed recipe extraction is in progress. See recipes/INDEX.md for reviewed content.'}
     data=ROOT/'data';data.mkdir(exist_ok=True)
     for filename,value in [('videos.json',rows),('dish_index.json',links),('dish_dictionary.json',dictionary),('excluded.json',excluded),('progress.json',metadata)]:
         (data/filename).write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n')
