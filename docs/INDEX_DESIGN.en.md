@@ -18,7 +18,7 @@ Use **dish names as the primary index, ingredient categories as a secondary inde
 
 The provisional title index has nine categories: poultry; pork; beef and lamb; fish and seafood; eggs, tofu and vegetables; rice, noodles and bread; soups and congee; desserts and drinks; sauces and meal preparation.
 
-The current 470 index terms mainly reflect dish and preparation words mentioned in titles. They are not complete recipes verified from every video. A title may mention a dish for comparison, so index hits still need content review. Only the completed sample has timestamps cross-checked against subtitles and visual content.
+The current title-index terms mainly reflect dish and preparation words mentioned in titles. They are not complete recipes verified from every video. A title may mention a dish for comparison, so index hits still need content review. Reviewed recipe entries provide timestamps cross-checked against subtitles and visual content.
 
 ## Inclusion and exclusion rules
 

@@ -40,6 +40,11 @@ EXCLUDED={
 SAMPLE='BV12D4FzaEDY'
 TITLE_COMPARISON_EXCLUSIONS={'BV1yaxe6zEkP':{'猪肚鸡'}}
 SAMPLE_DISHES={'烤青花鱼':'00:04–00:26；02:08–02:18','姜葱炒鸡':'01:08–01:18；01:39–02:08','葱香虾球':'01:19–01:38','蒜蓉淋汁青菜':'00:26–00:42','蒜香干辣椒炒包菜':'00:43–01:07'}
+REGISTRY_PATH=ROOT/'data/recipe_registry.json'
+REGISTRY=json.loads(REGISTRY_PATH.read_text()) if REGISTRY_PATH.exists() else []
+REVIEWED={}
+for record in REGISTRY:
+    REVIEWED.setdefault(record['bvid'],[]).append(record)
 
 def write_csv(path, rows, fields):
     with path.open('w',encoding='utf-8-sig',newline='') as f:
@@ -54,6 +59,9 @@ def main():
         for name in names.split():
             if name in REMOVED_CANON:continue
             dictionary.append({'dish':name,'category':category,'aliases':[name]+ALIASES.get(name,[])})
+    for r in REGISTRY:
+        if not any(d['dish']==r['name'] for d in dictionary):
+            dictionary.append({'dish':r['name'],'category':r['category'],'aliases':[r['name']]})
     rows=[];excluded=[];links=[]
     for n,v in enumerate(raw,1):
         assert v['upper']['mid']==544087714
@@ -74,26 +82,34 @@ def main():
                 if len(hit2)>len(hit) and hit in hit2:residual=residual.replace(hit2,'')
             if hit in residual:selected.append((d,hit))
         selected=[pair for pair in selected if pair[0]['dish'] not in TITLE_COMPARISON_EXCLUSIONS.get(bvid,set())]
-        if bvid==SAMPLE:
+        if bvid in REVIEWED:
+            selected=[(next(d for d in dictionary if d['dish']==r['name']),r['name']) for r in REVIEWED[bvid]]
+        elif bvid==SAMPLE:
             selected=[(next(d for d in dictionary if d['dish']==name),name) for name in SAMPLE_DISHES]
-        if bvid==SAMPLE:status='verified_cooking'
+        if bvid in REVIEWED or bvid==SAMPLE:status='verified_cooking'
         elif re.match(r'【是厚皮橙】',title):status='needs_content_review'
         elif selected or re.search(r'做法|做菜|炒|煎|蒸|焖|炖|煲|烤|卤|拌|备餐|早餐|午餐|晚餐|一人食|简餐|汤|米饭|意面|饺|包子|腌|煮|炸|三餐',title):status='title_cooking_lead'
         else:status='needs_content_review'
-        row={**base,'status':status,'dishes':'；'.join(d['dish'] for d,_ in selected),'categories':'；'.join(dict.fromkeys(d['category'] for d,_ in selected)),'source_basis':'视频字幕与画面已核对' if bvid==SAMPLE else '原标题线索，尚未逐条核对视频内容'}
+        row={**base,'status':status,'dishes':'；'.join(d['dish'] for d,_ in selected),'categories':'；'.join(dict.fromkeys(d['category'] for d,_ in selected)),'source_basis':'视频字幕与画面已核对' if status=='verified_cooking' else '原标题线索，尚未逐条核对视频内容'}
         rows.append(row)
         for d,hit in selected:
-            links.append({'category':d['category'],'dish':d['dish'],'bvid':bvid,'title':title,'url':base['url'],'published_date':base['published_date'],'basis':'verified_video' if bvid==SAMPLE else 'title_match','matched_text':hit,'time_range':SAMPLE_DISHES.get(d['dish'],'') if bvid==SAMPLE else ''})
+            record=next((r for r in REVIEWED.get(bvid,[]) if r['name']==d['dish']),None)
+            time_range=record['time_ranges'] if record else SAMPLE_DISHES.get(d['dish'],'') if bvid==SAMPLE else ''
+            links.append({'category':d['category'],'dish':d['dish'],'bvid':bvid,'title':title,'url':base['url'],'published_date':base['published_date'],'basis':'verified_video' if status=='verified_cooking' else 'title_match','matched_text':hit,'time_range':time_range})
     links.sort(key=lambda r:(list(GROUPS).index(r['category']),r['dish'],-int(r['published_date'].replace('-',''))))
     used={r['dish'] for r in links}; dictionary=[d for d in dictionary if d['dish'] in used]
     counts=Counter(r['status'] for r in rows)
-    metadata={'as_of':'2026-10-31','author':'是厚皮橙','uid':544087714,'source_url':'https://space.bilibili.com/544087714','catalogue_unique_count':len(raw),'profile_display_count':1226,'api_reported_count':1227,'api_pagination_exhausted':True,'main_list_count':len(rows),'excluded_count':len(excluded),'reviewed_recipe_videos':1,'reviewed_recipes':5,'unreviewed_content_count':len(rows)-1,'status_counts':dict(counts),'indexed_dish_count':len(used),'dish_video_links':len(links),'videos_with_dish_index':len({r['bvid'] for r in links}),'first_publish_date':min(r['published_date'] for r in rows),'last_publish_date':max(r['published_date'] for r in rows),'stage':'Video catalogue and provisional title-based dish index; recipe extraction remains incomplete.'}
+    reviewed_videos=len(REVIEWED) if REGISTRY else 1
+    reviewed_recipes=sum(r['kind']=='dish' for r in REGISTRY) if REGISTRY else 5
+    preparations=sum(r['kind']=='preparation' for r in REGISTRY)
+    metadata={'as_of':'2026-10-31','author':'是厚皮橙','uid':544087714,'source_url':'https://space.bilibili.com/544087714','catalogue_unique_count':len(raw),'profile_display_count':1226,'api_reported_count':1227,'api_pagination_exhausted':True,'main_list_count':len(rows),'excluded_count':len(excluded),'reviewed_recipe_videos':reviewed_videos,'reviewed_recipes':reviewed_recipes,'reviewed_preparations':preparations,'unreviewed_content_count':len(rows)-reviewed_videos,'status_counts':dict(counts),'indexed_dish_count':len(used),'dish_video_links':len(links),'videos_with_dish_index':len({r['bvid'] for r in links}),'first_publish_date':min(r['published_date'] for r in rows),'last_publish_date':max(r['published_date'] for r in rows),'stage':'Catalogue complete; detailed recipe extraction is in progress. See recipes/INDEX.md for reviewed content.'}
     data=ROOT/'data';data.mkdir(exist_ok=True)
     for filename,value in [('videos.json',rows),('dish_index.json',links),('dish_dictionary.json',dictionary),('excluded.json',excluded),('progress.json',metadata)]:
         (data/filename).write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n')
     write_csv(data/'videos.csv',rows,list(rows[0]))
     write_csv(data/'dish_index.csv',links,list(links[0]))
     write_csv(data/'excluded.csv',excluded,list(excluded[0]))
+    write_csv(data/'review_queue.csv',[r for r in rows if r['status']=='needs_content_review'],list(rows[0]))
     print(json.dumps(metadata,ensure_ascii=False,indent=2))
 
 if __name__=='__main__':main()

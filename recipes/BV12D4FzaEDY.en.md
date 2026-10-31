@@ -4,6 +4,8 @@
 
 Source: [original video by 是厚皮橙](https://www.bilibili.com/video/BV12D4FzaEDY/), published 2025-10-11, duration 2 minutes 29 seconds. Subtitles were cross-checked against visual content.
 
+<a id="r01"></a>
+
 ## 1 Baked mackerel with salmon on the same tray
 
 Time references: 00:04–00:26 for preparation; 02:08–02:18 for plating.
@@ -17,6 +19,8 @@ Time references: 00:04–00:26 for preparation; 02:08–02:18 for plating.
 **Key point:** Approximately 15 minutes is the stated baking time, excluding preparation.
 
 **Unspecified:** Oven temperature and mode, preheating, fish weight and salt quantity. The exact baking settings cannot be reconstructed.
+
+<a id="r02"></a>
 
 ## 2 Ginger scallion chicken with salt baked chicken seasoning
 
@@ -33,6 +37,8 @@ Time references: 01:08–01:18 for seasoning and loading the pan; 01:39–02:08 
 
 **Unspecified:** Chicken weight, seasoning quantity, marinating duration, heat level, total cooking time and the dark liquid's identity.
 
+<a id="r03"></a>
+
 ## 3 Scallion shrimp
 
 Time reference: 01:19–01:38.
@@ -47,6 +53,8 @@ Time reference: 01:19–01:38.
 
 **Unspecified:** Red sauce identity and quantity, any earlier marinating, powder type and coating ratio. The full flavor cannot be reconstructed.
 
+<a id="r04"></a>
+
 ## 4 Greens with garlic oil and seasoning
 
 Time reference: 00:26–00:42.
@@ -59,6 +67,8 @@ Time reference: 00:26–00:42.
 **Key point:** The order of blanching, adding garlic oil and adding the liquid is visible.
 
 **Unspecified:** Exact vegetable variety, seasoning identity, blanching time and quantities.
+
+<a id="r05"></a>
 
 ## 5 Cabbage with garlic and dried chili
 

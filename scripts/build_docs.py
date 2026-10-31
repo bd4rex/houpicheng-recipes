@@ -21,7 +21,7 @@ write('README.md',f'''[English](README.en.md)
 
 # 是厚皮橙菜谱系列
 
-整理 B 站 UP 主[是厚皮橙](https://space.bilibili.com/544087714)的视频标题、原链接与菜名索引，逐步补充可回看的菜谱。当前先完成清单和标题初筛，完整菜谱仍在整理中。
+整理 B 站 UP 主[是厚皮橙](https://space.bilibili.com/544087714)的视频标题、原链接与菜名索引，逐步补充可回看的菜谱。已核对的菜谱正文集中在菜谱目录；逐视频补充内容，格式统一留到内容完成后。
 
 ## 当前进度
 
@@ -34,25 +34,25 @@ write('README.md',f'''[English](README.en.md)
 | 菜名与备餐索引词 | {M['indexed_dish_count']} | 主要来自原标题，不是已完成菜谱数量 |
 | 菜名与视频对应关系 | {M['dish_video_links']:,} | 一条视频可以对应多道菜 |
 | 已核菜谱视频 | {M['reviewed_recipe_videos']} | 字幕和画面已交叉核对 |
-| 已整理菜谱 | {M['reviewed_recipes']} | 位于单条视频样本中 |
+| 已整理菜谱 | {M['reviewed_recipes']} | 已核菜谱条目，同名不同版本分开保留 |
+| 基础备餐方法 | {M.get('reviewed_preparations',0)} | 泡发、腌制等处理方法，单独计数 |
 | 标题有做菜线索 | {M['status_counts']['title_cooking_lead']:,} | 仍未逐条核对视频内容 |
 | 标题不足以判断 | {M['status_counts']['needs_content_review']} | 优先待核队列 |
 
-主清单覆盖 {M['first_publish_date']} 至 {M['last_publish_date']}。除样本外，**{M['unreviewed_content_count']:,} 条视频尚未完成逐条内容核验**；这份清单不能视为全部做菜视频已确认。
+主清单覆盖 {M['first_publish_date']} 至 {M['last_publish_date']}。目前仍有 **{M['unreviewed_content_count']:,} 条视频尚未完成逐条内容核验**；这份清单不能视为全部做菜视频已确认。
 
 ## 直接查看
 
+- [已核菜谱目录与菜名索引](recipes/INDEX.md)
 - [视频标题与链接清单](docs/VIDEO_LIST.md)
 - [按菜名查原视频](docs/DISH_INDEX.md)
 - [索引结构建议](docs/INDEX_DESIGN.md)
 - [剔除记录](docs/EXCLUDED.md)
 - [一条视频的五道菜样本](recipes/BV12D4FzaEDY.md)
-- [Excel 清单与菜名索引](downloads/是厚皮橙_视频清单与菜名索引.xlsx)
-- [Word 菜谱样本](downloads/是厚皮橙_单条视频菜谱样本.docx)
 
 ## 使用方式
 
-先在菜名索引中按分类或菜名查找，再打开原视频。视频清单保留原标题、发布时间、链接和核对状态。标题含糊的视频保留在清单中并标记待核，避免误删。
+先在已核菜谱目录里按分类或菜名查正文，再按时间点回看原视频。全量标题索引用作后续整理线索。视频清单保留原标题、发布时间、链接和核对状态。标题含糊的视频保留在清单中并标记待核，避免误删。
 
 菜单索引采用“菜名为主、食材类别为辅”。同一道菜的多个视频全部保留；同一条视频可以出现在多个菜名下。视频没有明确给出的用量、温度、火候和调味品种，不补写成作者原配方。
 
@@ -68,18 +68,19 @@ write('README.md',f'''[English](README.en.md)
 以下命令只重建这份快照的派生清单和 Markdown，不会抓取新视频，也不会自动把待核改为已核：
 
 ```bash
+python3 scripts/build_recipes.py
 python3 scripts/build_catalogue.py data/source_catalogue.json
 python3 scripts/build_docs.py
 ```
 
-Excel 是本次保存的可筛选下载版，更新数据后需同步刷新下载文件。
+历史下载文件保留初次清单快照；当前菜谱与进度以菜谱目录和 `data/progress.json` 为准。内容整理完成后再统一导出。
 
 ## 后续工作
 
 1. 优先核对标题含糊的视频，确认包含做菜后补入具体菜名；无做菜则从主清单剔除并记录理由。
 2. 按菜名分批核对字幕与画面，补充食材、做法和时间点。
 3. 同名菜保留不同版本，逐项比较调味和火候，避免合并成不存在的配方。
-4. 每次更新同步清单、索引、下载文件、进度和中英文文档。
+4. 每次更新同步菜谱正文、目录、核对状态、进度和中英文文档；内容完成后再统一导出。
 
 ## 来源与维护
 
@@ -92,7 +93,7 @@ write('README.en.md',f'''[中文](README.md)
 
 # Shi Houpicheng recipe series
 
-A catalogue of videos, original links and dish-name references from [是厚皮橙 on Bilibili](https://space.bilibili.com/544087714), with recipes added gradually. The current stage completes the catalogue and initial title screening. Full recipe extraction remains unfinished.
+A catalogue of videos, original links and dish-name references from [是厚皮橙 on Bilibili](https://space.bilibili.com/544087714), with recipes added gradually. Reviewed recipe content is available in the recipe directory. Extraction proceeds video by video; final packaging is deferred until content is complete.
 
 ## Current progress
 
@@ -105,7 +106,8 @@ As of {M['as_of']}, pagination of the accessible upload catalogue has been exhau
 | Dish and preparation index terms | {M['indexed_dish_count']} | Mostly from original titles; this is not a count of completed recipes |
 | Dish-to-video references | {M['dish_video_links']:,} | One video may contain several dishes |
 | Recipe videos reviewed | {M['reviewed_recipe_videos']} | Subtitles cross-checked against visual content |
-| Recipes documented | {M['reviewed_recipes']} | Included in the single-video sample |
+| Recipes documented | {M['reviewed_recipes']} | Reviewed recipe entries; variations are retained separately |
+| Preparation methods | {M.get('reviewed_preparations',0)} | Soaking, marinating and other preparations, counted separately |
 | Cooking clues in title | {M['status_counts']['title_cooking_lead']:,} | Video content not individually verified yet |
 | Inconclusive titles | {M['status_counts']['needs_content_review']} | Priority content-review queue |
 
@@ -113,17 +115,16 @@ The main list spans {M['first_publish_date']} through {M['last_publish_date']}. 
 
 ## Browse
 
+- [Reviewed recipe directory and index](recipes/INDEX.en.md)
 - [Video titles and links](docs/VIDEO_LIST.en.md)
 - [Find original videos by dish](docs/DISH_INDEX.en.md)
 - [Recommended index structure](docs/INDEX_DESIGN.en.md)
 - [Exclusions](docs/EXCLUDED.en.md)
 - [Five dishes from one video](recipes/BV12D4FzaEDY.en.md)
-- [Excel catalogue and dish index](downloads/是厚皮橙_视频清单与菜名索引.xlsx)
-- [Word recipe sample](downloads/是厚皮橙_单条视频菜谱样本.docx)
 
 ## How to use
 
-Filter the dish index by category or dish, then open an original video. The catalogue retains the original title, publication date, link and review status. Inconclusive titles stay in the list with a pending status to avoid accidental exclusion.
+Browse the reviewed recipe directory by category or dish, then use its time references to revisit the source. The full title index supplies leads for remaining work. The catalogue retains the original title, publication date, link and review status. Inconclusive titles stay in the list with a pending status to avoid accidental exclusion.
 
 Dish names are the primary index and ingredient categories are secondary. Retain all videos for a dish and allow a video to reference several dishes. Do not invent quantities, temperatures, heat settings or seasoning identities missing from the source. Original Chinese titles and dish identifiers are retained as source data.
 
@@ -139,18 +140,19 @@ Dish names are the primary index and ingredient categories are secondary. Retain
 These commands rebuild derived lists and Markdown from the saved snapshot. They do not fetch new videos or change pending items to verified automatically:
 
 ```bash
+python3 scripts/build_recipes.py
 python3 scripts/build_catalogue.py data/source_catalogue.json
 python3 scripts/build_docs.py
 ```
 
-The Excel workbook is a saved filterable export. Refresh the download when the underlying data changes.
+Historical downloads preserve the initial catalogue snapshot. Current recipes and progress are authoritative in the recipe directory and `data/progress.json`. Final exports are deferred until the content is complete.
 
 ## Remaining work
 
 1. Review inconclusive titles first. Add dish names when cooking is present; otherwise exclude the video and record the reason.
 2. Review subtitles and visual content by dish, adding ingredients, steps and time references.
 3. Preserve variations of the same dish and compare seasoning and heat separately; do not merge them into a recipe that never appeared.
-4. Synchronize lists, indexes, downloads, progress and both documentation languages on each update.
+4. Synchronize recipes, indexes, review status, progress and both documentation languages on each update; prepare final exports once the content is complete.
 
 ## Sources and maintenance
 
@@ -162,7 +164,7 @@ Original videos and creative work belong to their creator. This repository retai
 for lang in ['zh','en']:
     en=lang=='en';suffix='.en' if en else '';other='VIDEO_LIST.md' if en else 'VIDEO_LIST.en.md'
     text=f"[{'中文' if en else 'English'}]({other})\n\n# {'Video titles and links' if en else '视频标题与链接清单'}\n\n"
-    text+=('Original Chinese titles are preserved. Four reviewed non-cooking videos have been removed. All items except the sample still need individual content verification.\n\n' if en else '保留原标题。已剔除本轮核对的 4 条非做菜视频；除样本外，其余视频仍未逐条核验。\n\n')
+    text+=('Original Chinese titles are preserved. Four reviewed non-cooking videos have been removed. Verified and pending content have separate statuses. A complete catalogue does not mean all recipes are complete.\n\n' if en else '保留原标题。已剔除本轮核对的 4 条非做菜视频；已核与待核状态分别标明；目录完成不代表所有菜谱已完成。\n\n')
     text+=('| ID | Published | Original title and link | Duration | Review status |\n|---:|---|---|---:|---|\n' if en else '| 编号 | 发布日期 | 原标题与链接 | 时长 | 核对状态 |\n|---:|---|---|---:|---|\n')
     for r in V:
         sec=r['duration_seconds'];label=(EN_STATUS if en else ZH_STATUS)[r['status']]
@@ -172,7 +174,7 @@ for lang in ['zh','en']:
     group=defaultdict(lambda:defaultdict(list))
     for r in I:group[r['category']][r['dish']].append(r)
     text=f"[{'中文' if en else 'English'}](DISH_INDEX{'' if en else '.en'}.md)\n\n# {'Dish index' if en else '菜名索引'}\n\n"
-    text+=(f"{M['indexed_dish_count']} original-language dish and preparation terms with {M['dish_video_links']} video references. Titles provide provisional clues; they do not establish complete recipes. Only links marked reviewed have been checked against video content.\n\n" if en else f"{M['indexed_dish_count']} 个菜名与备餐关键词，{M['dish_video_links']} 条视频对应关系。标题索引只是线索，不是完整菜谱。只有标注“已核”的链接已经核对视频内容。\n\n")
+    text+=(f"{M['indexed_dish_count']} original-language dish and preparation terms with {M['dish_video_links']} video references. Titles provide provisional clues; they do not establish complete recipes. Only links marked reviewed have been checked against video content. Read the [recipe directory](../recipes/INDEX.en.md) for the actual methods.\n\n" if en else f"{M['indexed_dish_count']} 个菜名与备餐关键词，{M['dish_video_links']} 条视频对应关系。标题索引只是线索，不是完整菜谱。只有标注“已核”的链接已经核对视频内容。可用做法见[菜谱目录](../recipes/INDEX.md)。\n\n")
     for category,ds in group.items():
         text+=f"## {EN_CATEGORIES[category] if en else category}\n\n"
         text+=('| Original dish name | Videos | Original video links |\n|---|---:|---|\n' if en else '| 菜名或备餐关键词 | 视频数 | 原视频链接 |\n|---|---:|---|\n')
@@ -194,7 +196,7 @@ for lang in ['zh','en']:
 text='[English](BV12D4FzaEDY.en.md)\n\n# 单条视频菜谱样本\n\n'
 text+=f"来源：[是厚皮橙原视频]({S['video_url']})，发布于 2025-10-11，时长 2分29秒。字幕与画面交叉核对。\n\n"
 for n,r in enumerate(S['recipes'],1):
-    text+=f"## {n} {r['name']}\n\n回看时间：{r['time']}。\n\n**食材**：{r['ingredients']}\n\n"
+    text+=f'<a id="r{n:02}"></a>\n\n'+f"## {n} {r['name']}\n\n回看时间：{r['time']}。\n\n**食材**：{r['ingredients']}\n\n"
     for i,step in enumerate(r['steps'],1):text+=f'{i}. {step}\n'
     text+=f"\n**关键点**：{r['key']}\n\n**未明确的信息**：{r['missing']}\n\n"
 write('recipes/BV12D4FzaEDY.md',text)

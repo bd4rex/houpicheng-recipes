@@ -7,10 +7,10 @@
     "published_date": "2026-10-30",
     "published_at": "2026-10-30T18:55:45+08:00",
     "duration_seconds": 153,
-    "status": "title_cooking_lead",
-    "dishes": "胡椒牛肉汤；牛肉汤",
-    "categories": "汤羹粥",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "胡椒牛肉汤；鱼露墨鱼炒彩椒芹菜；清煮西兰苔玉米笋秋葵",
+    "categories": "汤羹粥；鱼虾海鲜；蛋豆蔬菜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 2,
@@ -20,10 +20,10 @@
     "published_date": "2026-10-30",
     "published_at": "2026-10-30T14:41:18+08:00",
     "duration_seconds": 235,
-    "status": "title_cooking_lead",
-    "dishes": "茄汁黄豆；糙米饭",
-    "categories": "蛋豆蔬菜；米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "红枣桂圆姜汁花胶冻；黄豆糙米饭团；茄汁黄豆",
+    "categories": "甜品饮品；米饭面点；蛋豆蔬菜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 3,
@@ -33,10 +33,10 @@
     "published_date": "2026-10-29",
     "published_at": "2026-10-29T18:43:41+08:00",
     "duration_seconds": 186,
-    "status": "title_cooking_lead",
-    "dishes": "黑椒牛肉；煲仔饭；腊味饭",
-    "categories": "牛羊肉；米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "牛肉腊味煲仔饭；黑椒芹菜牛肉",
+    "categories": "米饭面点；牛羊肉",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 4,
@@ -46,10 +46,10 @@
     "published_date": "2026-10-29",
     "published_at": "2026-10-29T11:37:02+08:00",
     "duration_seconds": 173,
-    "status": "title_cooking_lead",
-    "dishes": "滑蛋；滑蛋贝果",
-    "categories": "蛋豆蔬菜；米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "芝士滑蛋贝果；花胶蒸软冷藏泡发",
+    "categories": "米饭面点；调味与备餐",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 5,
@@ -59,10 +59,10 @@
     "published_date": "2026-10-27",
     "published_at": "2026-10-27T19:07:36+08:00",
     "duration_seconds": 135,
-    "status": "title_cooking_lead",
-    "dishes": "五指毛桃盐焗鸡",
-    "categories": "鸡鸭禽肉",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "五指毛桃盐焗鸡腿；番茄肉末豆腐；海带黄豆排骨汤；白灼豆角西兰花配葱蒜蘸汁",
+    "categories": "鸡鸭禽肉；蛋豆蔬菜；汤羹粥",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 6,
@@ -72,10 +72,10 @@
     "published_date": "2026-10-27",
     "published_at": "2026-10-27T14:38:18+08:00",
     "duration_seconds": 89,
-    "status": "title_cooking_lead",
-    "dishes": "鸡腿扒拌饭",
+    "status": "verified_cooking",
+    "dishes": "鸡腿扒黄瓜海苔拌饭；微波麦片鸡蛋可可碗",
     "categories": "米饭面点",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 7,
@@ -85,10 +85,10 @@
     "published_date": "2026-10-26",
     "published_at": "2026-10-26T23:48:01+08:00",
     "duration_seconds": 162,
-    "status": "title_cooking_lead",
-    "dishes": "烤三文鱼头",
-    "categories": "鱼虾海鲜",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "黑胡椒烤三文鱼头；牛肉鸡蛋杂蔬炒饭；香煎预腌牛排",
+    "categories": "鱼虾海鲜；米饭面点；牛羊肉",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 8,
@@ -98,10 +98,10 @@
     "published_date": "2026-10-26",
     "published_at": "2026-10-26T14:34:42+08:00",
     "duration_seconds": 309,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "黑椒牛排菌菇糙米饭；蓝莓坚果可可酸奶碗",
+    "categories": "米饭面点；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 9,
@@ -111,10 +111,10 @@
     "published_date": "2026-10-25",
     "published_at": "2026-10-25T20:45:51+08:00",
     "duration_seconds": 146,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "少油焖牛肉杂蔬；香煎龙利鱼；淮山玉米胡萝卜排骨汤；蒜蓉水油焖青菜",
+    "categories": "牛羊肉；鱼虾海鲜；汤羹粥；蛋豆蔬菜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 10,
@@ -124,10 +124,10 @@
     "published_date": "2026-10-25",
     "published_at": "2026-10-25T14:03:46+08:00",
     "duration_seconds": 216,
-    "status": "title_cooking_lead",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "土豆玉米胡萝卜早餐拼盘；水煎蛋与肠仔；蒜蓉彩椒西兰苔；土豆鸡蛋吞拿鱼三明治；基础炒牛肉腌法",
+    "categories": "米饭面点；蛋豆蔬菜；调味与备餐",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 11,
@@ -137,10 +137,10 @@
     "published_date": "2026-10-24",
     "published_at": "2026-10-24T19:27:36+08:00",
     "duration_seconds": 171,
-    "status": "title_cooking_lead",
-    "dishes": "孜然牛肉；炒牛肉",
+    "status": "verified_cooking",
+    "dishes": "孜然洋葱牛肉；蒜蓉瑶柱丝瓜蒸牛肉；菌菇彩椒牛肉",
     "categories": "牛羊肉",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 12,
@@ -150,10 +150,10 @@
     "published_date": "2026-10-24",
     "published_at": "2026-10-24T13:46:13+08:00",
     "duration_seconds": 195,
-    "status": "title_cooking_lead",
-    "dishes": "姜葱炒鸡；爆炒鱿鱼；鲮鱼滑西洋菜汤",
-    "categories": "鸡鸭禽肉；鱼虾海鲜；汤羹粥",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "鱼露爆炒墨鱼；去骨鸡腿姜葱炒鸡；西洋菜鱼腐鲮鱼滑汤",
+    "categories": "鱼虾海鲜；鸡鸭禽肉；汤羹粥",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 13,
@@ -2270,7 +2270,7 @@
     "published_at": "2026-07-03T20:07:12+08:00",
     "duration_seconds": 134,
     "status": "title_cooking_lead",
-    "dishes": "盐焗虾；肉末豆腐",
+    "dishes": "盐焗虾；番茄肉末豆腐",
     "categories": "鱼虾海鲜；蛋豆蔬菜",
     "source_basis": "原标题线索，尚未逐条核对视频内容"
   },
@@ -7002,7 +7002,7 @@
     "published_at": "2025-12-27T11:19:43+08:00",
     "duration_seconds": 111,
     "status": "title_cooking_lead",
-    "dishes": "滑蛋；乌冬面；滑蛋贝果",
+    "dishes": "滑蛋；乌冬面；芝士滑蛋贝果",
     "categories": "蛋豆蔬菜；米饭面点",
     "source_basis": "原标题线索，尚未逐条核对视频内容"
   },
@@ -9173,7 +9173,7 @@
     "published_at": "2025-10-11T19:29:01+08:00",
     "duration_seconds": 149,
     "status": "verified_cooking",
-    "dishes": "烤青花鱼；姜葱炒鸡；葱香虾球；蒜蓉淋汁青菜；蒜香干辣椒炒包菜",
+    "dishes": "烤青花鱼和同盘三文鱼；盐焗风味姜葱炒鸡；葱香虾球；蒜蓉淋汁青菜；蒜香干辣椒炒包菜",
     "categories": "鱼虾海鲜；鸡鸭禽肉；蛋豆蔬菜",
     "source_basis": "视频字幕与画面已核对"
   },

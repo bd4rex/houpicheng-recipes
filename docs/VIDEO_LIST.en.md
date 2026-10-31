@@ -2,22 +2,22 @@
 
 # Video titles and links
 
-Original Chinese titles are preserved. Four reviewed non-cooking videos have been removed. All items except the sample still need individual content verification.
+Original Chinese titles are preserved. Four reviewed non-cooking videos have been removed. Verified and pending content have separate statuses. A complete catalogue does not mean all recipes are complete.
 
 | ID | Published | Original title and link | Duration | Review status |
 |---:|---|---|---:|---|
-| 1 | 2026-10-30 | [猪肚鸡太麻烦？吃它！冬天暖fufu的汤，胡椒牛肉汤，鱼露墨鱼#胡椒牛肉汤 #牛肉汤#冬天汤 #墨鱼的家常做法](https://www.bilibili.com/video/BV1yaxe6zEkP/) | 2:33 | Cooking clue in title |
-| 2 | 2026-10-30 | [日常备餐有四种哦糙米饭，花胶冻，茄汁黄豆#减脂人的一日三餐 #茄汁黄豆#糙米饭 #备餐](https://www.bilibili.com/video/BV1pGxY6eEi5/) | 3:55 | Cooking clue in title |
-| 3 | 2026-10-29 | [一人食必吃，广东煲仔饭，黑椒牛肉包好吃的#一人食#煲仔饭#腊味饭#黑椒牛肉](https://www.bilibili.com/video/BV1TCsf6LEte/) | 3:06 | Cooking clue in title |
-| 4 | 2026-10-29 | [五分钟快手早餐系列，滑蛋贝果，日常备餐#花胶泡发#快手早餐#滑蛋#减脂人的一日三餐](https://www.bilibili.com/video/BV13Msd6kEsP/) | 2:53 | Cooking clue in title |
-| 5 | 2026-10-27 | [广东特色五指毛桃盐焗鸡腿，做法一点不复杂！广东家常菜 #厨房小白美食 #快手家常菜 #老广味道](https://www.bilibili.com/video/BV1Cgxg6iEjP/) | 2:15 | Cooking clue in title |
-| 6 | 2026-10-27 | [早起不慌！学生快手拌饭+打工人无开火营养早餐#学生早餐 #宝妈早餐 #鸡腿扒拌饭 #打工人早餐 #不开火早餐](https://www.bilibili.com/video/BV1bqxM6gERy/) | 1:29 | Cooking clue in title |
-| 7 | 2026-10-26 | [上班族的快手菜下班不用分锅炒，低负担减脂简餐#烤三文鱼头#厨房小白#快手菜](https://www.bilibili.com/video/BV1y3no69Eyg/) | 2:42 | Cooking clue in title |
-| 8 | 2026-10-26 | [上班族的快手菜，下班10分钟的营养简餐x#一人食#简餐#快手菜#上班族的便当做法](https://www.bilibili.com/video/BV15Nn96wEUz/) | 5:09 | Cooking clue in title |
-| 9 | 2026-10-25 | [避开爆炒油烟！试试水油焖，日常多吃鱼，水油焖菜法、无油烟家常菜、龙利鱼做法、淮山排骨汤](https://www.bilibili.com/video/BV1J9HV6FEjG/) | 2:26 | Cooking clue in title |
-| 10 | 2026-10-25 | [学会彩虹吃菜法，早餐不单调｜无油烟减脂餐#彩虹吃菜法 #减脂早餐 #生活化减脂 #无油烟厨房 #早餐搭配](https://www.bilibili.com/video/BV1rKHV6wEzs/) | 3:36 | Cooking clue in title |
-| 11 | 2026-10-24 | [冬天必吃菜式｜三款牛肉吃法冬天必吃牛肉菜式、孜然牛肉做法、蘑菇炒牛肉、蒜蓉丝瓜蒸牛肉、一块牛肉三种做法、冬日家常菜、牛肉家常菜谱](https://www.bilibili.com/video/BV1w3HK61EqC/) | 2:51 | Cooking clue in title |
-| 12 | 2026-10-24 | [广东经典两菜一汤｜姜葱炒鸡+爆炒鱿鱼+鲮鱼滑西洋菜汤，满满镬气#姜葱炒鸡 #爆炒鱿鱼 #鲮鱼滑西洋菜汤 #广东家常菜](https://www.bilibili.com/video/BV1fZHP6vEJn/) | 3:15 | Cooking clue in title |
+| 1 | 2026-10-30 | [猪肚鸡太麻烦？吃它！冬天暖fufu的汤，胡椒牛肉汤，鱼露墨鱼#胡椒牛肉汤 #牛肉汤#冬天汤 #墨鱼的家常做法](https://www.bilibili.com/video/BV1yaxe6zEkP/) | 2:33 | Cooking verified |
+| 2 | 2026-10-30 | [日常备餐有四种哦糙米饭，花胶冻，茄汁黄豆#减脂人的一日三餐 #茄汁黄豆#糙米饭 #备餐](https://www.bilibili.com/video/BV1pGxY6eEi5/) | 3:55 | Cooking verified |
+| 3 | 2026-10-29 | [一人食必吃，广东煲仔饭，黑椒牛肉包好吃的#一人食#煲仔饭#腊味饭#黑椒牛肉](https://www.bilibili.com/video/BV1TCsf6LEte/) | 3:06 | Cooking verified |
+| 4 | 2026-10-29 | [五分钟快手早餐系列，滑蛋贝果，日常备餐#花胶泡发#快手早餐#滑蛋#减脂人的一日三餐](https://www.bilibili.com/video/BV13Msd6kEsP/) | 2:53 | Cooking verified |
+| 5 | 2026-10-27 | [广东特色五指毛桃盐焗鸡腿，做法一点不复杂！广东家常菜 #厨房小白美食 #快手家常菜 #老广味道](https://www.bilibili.com/video/BV1Cgxg6iEjP/) | 2:15 | Cooking verified |
+| 6 | 2026-10-27 | [早起不慌！学生快手拌饭+打工人无开火营养早餐#学生早餐 #宝妈早餐 #鸡腿扒拌饭 #打工人早餐 #不开火早餐](https://www.bilibili.com/video/BV1bqxM6gERy/) | 1:29 | Cooking verified |
+| 7 | 2026-10-26 | [上班族的快手菜下班不用分锅炒，低负担减脂简餐#烤三文鱼头#厨房小白#快手菜](https://www.bilibili.com/video/BV1y3no69Eyg/) | 2:42 | Cooking verified |
+| 8 | 2026-10-26 | [上班族的快手菜，下班10分钟的营养简餐x#一人食#简餐#快手菜#上班族的便当做法](https://www.bilibili.com/video/BV15Nn96wEUz/) | 5:09 | Cooking verified |
+| 9 | 2026-10-25 | [避开爆炒油烟！试试水油焖，日常多吃鱼，水油焖菜法、无油烟家常菜、龙利鱼做法、淮山排骨汤](https://www.bilibili.com/video/BV1J9HV6FEjG/) | 2:26 | Cooking verified |
+| 10 | 2026-10-25 | [学会彩虹吃菜法，早餐不单调｜无油烟减脂餐#彩虹吃菜法 #减脂早餐 #生活化减脂 #无油烟厨房 #早餐搭配](https://www.bilibili.com/video/BV1rKHV6wEzs/) | 3:36 | Cooking verified |
+| 11 | 2026-10-24 | [冬天必吃菜式｜三款牛肉吃法冬天必吃牛肉菜式、孜然牛肉做法、蘑菇炒牛肉、蒜蓉丝瓜蒸牛肉、一块牛肉三种做法、冬日家常菜、牛肉家常菜谱](https://www.bilibili.com/video/BV1w3HK61EqC/) | 2:51 | Cooking verified |
+| 12 | 2026-10-24 | [广东经典两菜一汤｜姜葱炒鸡+爆炒鱿鱼+鲮鱼滑西洋菜汤，满满镬气#姜葱炒鸡 #爆炒鱿鱼 #鲮鱼滑西洋菜汤 #广东家常菜](https://www.bilibili.com/video/BV1fZHP6vEJn/) | 3:15 | Cooking verified |
 | 13 | 2026-10-23 | [粤菜隐藏做法｜肉饼垫底蒸鱼，鲜汁全锁在肉饼里#粤菜家常菜 #肉饼蒸鱼#鱼骨豆腐汤 #广东](https://www.bilibili.com/video/BV1t7nh69EBF/) | 2:41 | Cooking clue in title |
 | 14 | 2026-10-23 | [懒人简餐｜彩椒土豆烤三文鱼，地中海风味#地中海饮食 #空气炸锅美食 #懒人简餐 #无油烟厨房 #三文鱼吃法](https://www.bilibili.com/video/BV12vnt6yEhA/) | 3:04 | Cooking clue in title |
 | 15 | 2026-10-22 | [不开火一人简餐 法棍三明治 儿童拌饭#不开火美食 #一人食简餐 #法棍三明治 #儿童拌饭 #快手早餐](https://www.bilibili.com/video/BV1Pvn26tEuN/) | 1:51 | Cooking clue in title |
