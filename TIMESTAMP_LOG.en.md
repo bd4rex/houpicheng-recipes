@@ -22,4 +22,4 @@
 - Synchronized reviewed statuses and the full clue index. The main list still contains 1,222 videos, of which 1,209 remain individually unreviewed.
 - Retained unresolved ingredients, quantities, heat settings and segment gaps; corrected automatic subtitle errors for short minute ranges.
 - Recipe content now takes priority. Historical Excel and Word exports remain old snapshots; final output formats are deferred until content is complete.
-- Both language versions, navigation, progress and source relations were checked together. Publication confirmation will be appended after verification.
+- Both language versions, navigation, progress and source relations were checked together. Content commit `8787b72edc43def803f629f3856922710b3f8cea` was pushed to remote `main`; Git object hashes matched the local version for all 62 files.
