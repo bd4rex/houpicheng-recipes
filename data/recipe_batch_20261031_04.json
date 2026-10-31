@@ -1,0 +1,103 @@
+[
+  {
+    "bvid":"BV1vgn26yER7","reviewed_on":"2026-10-31",
+    "evidence":"已读完整字幕和4张全时段概览；放大00:57确认有挤瓶酱，但瓶上无可读名称。",
+    "pending_segments":["菜市场购物、餐具消毒、豆腐暂存和去手部异味的聊天不计菜谱。虾头可否食用的口述没有作为安全结论收录。"],
+    "pending_segments_en":["Shopping, dish disinfection, temporary tofu storage and odor-removal chatter are not counted as recipes. The remarks about eating shrimp heads are not adopted as food-safety conclusions."],
+    "recipes":[
+      {"name":"黄油牛肉黄瓜法棍三明治","name_en":"Butter beef and cucumber baguette sandwich","category":"米饭面点","kind":"dish","time_ranges":"00:00–01:30",
+       "ingredients":"法棍、熟牛肉、黄瓜、洋葱、尖椒、黄油；画面还挤入少量浅黄色酱，名称未明确。",
+       "quantities":"法棍喷水后复烤5分钟；温度及所有食材用量未说明。",
+       "steps":["法棍表面喷水后复烤5分钟，使外层酥、内部保留柔软。","熟牛肉切薄片；黄瓜取外层刨丝，水分多的瓜瓤另吃；洋葱和尖椒切细。","法棍剖开，抹黄油，夹入牛肉和蔬菜。","原片最后挤少量未注明名称的酱，合上食用。"],
+       "missing":"复烤温度、牛肉卤制方法、酱料名称及份量未明确；不把无标签挤瓶酱猜成某种芥末。"},
+      {"name":"短时冷冻后剥虾仁","name_en":"Peeling shrimp after brief freezing","category":"调味与备餐","kind":"preparation","time_ranges":"02:35–03:49",
+       "ingredients":"带壳虾。",
+       "quantities":"作者说先冻约2小时，再剥壳；未说明冰箱温度和虾量。",
+       "steps":["把带壳虾先放冰箱短时冷冻，原片给出的时间约2小时。","在虾壳变硬、虾身仍可操作时去头、剥壳，收集虾仁备用。"],
+       "missing":"本片没有示范后续烹饪、去虾线及完整储存流程；不将其购买和虾头食用经验推广为安全保证。"},
+      {"name":"黄油牛奶咖啡","name_en":"Coffee with butter and milk","category":"甜品饮品","kind":"dish","time_ranges":"04:04–04:21",
+       "ingredients":"咖啡粉、水、黄油、牛奶。",
+       "quantities":"黄油只说明从抹面包时留下一点；粉水比、牛奶量和冲泡温度未给出。",
+       "steps":["用滤杯冲泡咖啡。","咖啡中放少量黄油，再倒入牛奶拌匀。"],
+       "missing":"未给定量冲泡参数，也不把本饮品解释成减脂或保健配方。"}
+    ]
+  },
+  {
+    "bvid":"BV1Fmnq6bE7i","reviewed_on":"2026-10-31",
+    "evidence":"自动字幕混入背景歌曲；已用全时段画面上的字幕和动作校正盐、姜蓉、小苏打、玉米淀粉以及烤面包机档位。",
+    "pending_segments":[],
+    "recipes":[
+      {"name":"姜蓉猪肉饼吐司三明治","name_en":"Ginger pork patty toast sandwich","category":"米饭面点","kind":"dish","time_ranges":"00:00–00:52；00:55–00:59；01:43–02:10",
+       "ingredients":"梅花猪肉末、盐、姜蓉、水、少量小苏打、玉米淀粉、食用油、吐司、花生酱。",
+       "quantities":"原片先煎2小份肉饼；烤面包机旋钮约3.5至4档，不是明确的分钟数。其他用量未给。",
+       "steps":["猪肉末加盐、姜蓉和少量水，再加少量小苏打、玉米淀粉，搅拌并反复摔打至有黏性。","锅中少量油，放两小份肉馅，底部定型后翻面压平，两面煎熟。","吐司放烤面包机烤脆，抹花生酱，夹入煎好的肉饼，压合切块。"],
+       "missing":"肉重、粉料比例、煎制时间未说明；3.5至4是本机旋钮位置，不能当通用烘烤时间。"},
+      {"name":"西洋菜姜丝肉丸汤","name_en":"Watercress ginger and pork meatball soup","category":"汤羹粥","kind":"dish","time_ranges":"00:00–00:30；00:52–00:55；01:00–01:42",
+       "ingredients":"本片调好的猪肉馅（梅花肉、盐、姜蓉、水、小苏打、玉米淀粉）、西洋菜、姜丝、水、盐、胡椒粉、大蒜酥。",
+       "quantities":"没有给各项份量、丸子大小或煮制时间。",
+       "steps":["煎肉饼后在锅中加水，加入姜丝。","将剩余肉馅逐块拨入锅中，煮至定型。","加入洗净的西洋菜煮熟，用盐、胡椒粉和大蒜酥调味，盛出。"],
+       "missing":"水量、火力及总时间未给出；汤中使用的是与肉饼相同的肉馅。"},
+      {"name":"花生酱香蕉吐司三明治","name_en":"Peanut butter and banana toast sandwich","category":"米饭面点","kind":"dish","time_ranges":"00:55–00:59；01:43–02:10",
+       "ingredients":"吐司、花生酱、熟透的香蕉。",
+       "quantities":"面包机旋钮约3.5至4档；香蕉和花生酱用量未给出。",
+       "steps":["吐司烤至表面酥脆，抹花生酱。","香蕉纵向切开铺在吐司上，盖另一片，轻压后切块，趁脆食用。"],
+       "missing":"未说明吐司厚度、设备功率和花生酱含糖情况。"}
+    ]
+  },
+  {
+    "bvid":"BV12CnF6vE9R","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕和全时段概览，并放大00:08、00:16、00:58；开头深色块是保存的卤汁，00:58放入的是竹隔垫而非食材。",
+    "pending_segments":["牛肉是前一天已卤好的，本片只切片配餐；豆腐加到卤锅里是口述的后续打算，未在画面实际加入。"],
+    "pending_segments_en":["The beef was braised the previous day and is only sliced here. Adding tofu to the braising pot is a spoken plan for later, not an action shown in this video."],
+    "recipes":[
+      {"name":"旧卤汁卤鸡腿鸡蛋","name_en":"Chicken drumsticks and eggs in reused braising liquid","category":"鸡鸭禽肉","kind":"dish","time_ranges":"00:00–00:20；00:56–01:14；03:15–03:29",
+       "ingredients":"保存的牛肉卤汁、鸡腿、姜、干辣椒、水、煮熟剥壳的鸡蛋。咸味不足时画面提示可加酱油、盐或豆瓣酱。",
+       "quantities":"作者说煮了将近1小时后关火焖；鸡腿重量、卤汁比例及焖多久未给。",
+       "steps":["保存的卤汁放入锅中，放鸡腿、姜和干辣椒，加水；鸡腿可按原片建议去皮。","煮开后加入剥壳熟鸡蛋，继续卤煮。原片中途加入竹隔垫辅助隔底。","接近1小时后关火，继续加盖焖。"],
+       "missing":"原卤汁配方、保存条件、食材重量和火力未交代。豆腐是后续口述可选项，不能写成已完成步骤；原片的常温放置过程不作为储存建议。"},
+      {"name":"卤牛肉鸡蛋土豆杂蔬拼盘","name_en":"Braised beef egg potato and vegetable plate","category":"米饭面点","kind":"dish","time_ranges":"00:20–00:55；01:16–03:11",
+       "ingredients":"现成卤牛肉、土豆、鸡蛋、豆角、香菇、西兰花或西兰苔类蔬菜、坚果、黑胡椒盐；辣椒面和酱油为口述可选调味。",
+       "quantities":"土豆先煮，最后10分钟放鸡蛋；原片个人餐盘放约拳头大小牛肉和1个土豆，其他用量未明确。",
+       "steps":["先水煮土豆，再把经过少量温热水缓冲的鸡蛋放入，继续煮约10分钟。","鸡蛋煮好后降温剥壳；另锅把豆角、香菇和花菜类蔬菜煮熟。","现成卤牛肉切较厚片，与蔬菜、鸡蛋、去皮土豆和少量坚果装盘。","原片撒黑胡椒盐，也提出可按口味用辣椒面或酱油。"],
+       "missing":"土豆总煮制时间、豆角熟透所需时间和全部份量未说明；本餐的个人份量不作为通用减脂指标。"}
+    ]
+  },
+  {
+    "bvid":"BV1wKJd6LEY1","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕、全时段画面概览并放大00:54；分清先焯的芹菜蘑菇用于后面的肉粒，而非凭邻近字幕加入鱿鱼。",
+    "pending_segments":["开头关于鼻出血、秋燥和汤水作用的口述不作为食疗结论收录。"],
+    "pending_segments_en":["The introductory remarks about nosebleeds, seasonal dryness and soup benefits are not adopted as therapeutic claims."],
+    "recipes":[
+      {"name":"羊肚菌苹果炖瘦肉水","name_en":"Pork broth steamed with apple and morels","category":"汤羹粥","kind":"dish","time_ranges":"00:00–00:11；00:18–00:25；01:44–01:50",
+       "ingredients":"瘦猪肉末、处理好的苹果、羊肚菌、陈皮、姜、水。",
+       "quantities":"画面用1个苹果；肉重、水量、炖煮时间和调味未说明。",
+       "steps":["瘦肉末放入炖盅，加水，放处理好的苹果、羊肚菌、陈皮和姜。","盖好后放入炖煮设备慢炖，完成后连汤盛出。"],
+       "missing":"羊肚菌泡发方式、苹果去核过程、盐量和程序时间没有完整展示。"},
+      {"name":"留鳞香煎小海鱼","name_en":"Pan fried small sea fish with scales left on","category":"鱼虾海鲜","kind":"dish","time_ranges":"00:27–00:48",
+       "ingredients":"小海鱼、盐、食用油。具体鱼种未明确。",
+       "quantities":"没有给腌制时长、鱼重、火力或煎制时间。",
+       "steps":["按原片做法保留鱼鳞，清理好的鱼用盐腌一下。","锅中少量油，把鱼排开煎；借助盘子整体翻面，再煎熟。"],
+       "missing":"具体鱼种和前期清理过程未明确，不能推成所有带鳞鱼都适用的做法。"},
+      {"name":"豉油王炒鲜鱿","name_en":"Fresh squid stir fried with soy sauce","category":"鱼虾海鲜","kind":"dish","time_ranges":"00:54–01:09",
+       "ingredients":"小鱿鱼、酱油、葱、香菜、食用油。",
+       "quantities":"只说明少许酱油；鱿鱼重量、油量和时间未给出。",
+       "steps":["处理好的鱿鱼下热锅翻炒。","加入少许酱油和葱、香菜，炒匀并收去多余水分后盛出。"],
+       "missing":"鱿鱼是否预腌、是否另有底味未明确；不根据菜名补入老抽、糖等未见调料。"},
+      {"name":"黑椒彩椒芹菜贵妃肉粒","name_en":"Black pepper pork cubes with peppers celery and mushrooms","category":"猪肉","kind":"dish","time_ranges":"00:52–00:55；01:10–01:38",
+       "ingredients":"预腌贵妃猪肉粒、彩椒、洋葱、芹菜、蘑菇、蒜、黑椒酱、油。",
+       "quantities":"只说明肉在早上提前腌过；未给本片腌料、份量或煎炒时间。",
+       "steps":["芹菜和蘑菇先放水中焯煮备用。","预腌肉粒下锅煎至两面有焦香外壳。","加入蒜、彩椒、洋葱及焯好的芹菜蘑菇，翻炒。","加少量黑椒酱炒匀，熟后盛盘。"],
+       "missing":"本片没有展示腌肉过程；腌法可另查本系列备餐视频，但不能把另一条配方冒充本片已说。"},
+      {"name":"土豆钢切燕麦杂粮饭（做法片段）","name_en":"Potato and steel cut oat rice, partial method","category":"米饭面点","kind":"dish","time_ranges":"00:12–00:17；01:52",
+       "ingredients":"土豆、米、钢切燕麦、水。",
+       "quantities":"所有比例、浸泡时间和程序未给出。",
+       "steps":["米和钢切燕麦加水放入电饭锅，上面放土豆块。","合盖煮饭，完成后搭配本期菜肴。"],
+       "missing":"视频只展示装锅与成品，没有给可直接照抄的水米比例。"},
+      {"name":"水煮西兰苔","name_en":"Boiled broccolini","category":"蛋豆蔬菜","kind":"dish","time_ranges":"01:39–01:44",
+       "ingredients":"西兰苔类青菜、水；具体名称为画面判断。",
+       "quantities":"份量、调味和煮制时间未说明。",
+       "steps":["原片将青菜放在锅中煮熟，再捞出沥水装盘。"],
+       "missing":"前期整理、是否加盐或油均未展示，不另补配方。"}
+    ]
+  }
+]

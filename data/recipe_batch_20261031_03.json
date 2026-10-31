@@ -1,0 +1,97 @@
+[
+  {
+    "bvid":"BV1t7nh69EBF","reviewed_on":"2026-10-31",
+    "evidence":"已读完整中文字幕、4秒间隔全时段画面概览，另放大00:07、00:15、00:18确认姜蓉、玉米淀粉和酱油。",
+    "pending_segments":[],
+    "recipes":[
+      {"name":"肉饼垫底蒸鱼","name_en":"Fish steamed over a pork patty","category":"鱼虾海鲜","kind":"dish","time_ranges":"00:00–00:20；00:57–01:30；02:08–02:26",
+       "ingredients":"猪肉末、鱼肉、姜蓉、姜丝、盐、糖、玉米淀粉、酱油、水、熟花生油、葱花。鱼的品种未明确。",
+       "quantities":"大火蒸8分钟；肉馅分两份，本菜使用其中一半。鱼买了2条，实际肉重和肉饼厚度未说。",
+       "steps":["肉末中加入姜蓉，少量水冲入，放盐、少许糖、玉米淀粉和少量酱油，拌匀。","将一半肉馅在盘底铺成薄肉饼。鱼起肉、清理后铺在肉饼上，鱼骨留作另一道汤。","铺姜丝，淋一点熟花生油，入锅大火蒸8分钟。","出锅撒葱花，肉饼和鱼肉连同盘内汤汁食用。"],
+       "missing":"鱼种、肉馅重量、调料比例、肉饼厚度和蒸制起算点未交代；8分钟仅记录本片操作。"},
+      {"name":"姜蓉香煎猪肉饼","name_en":"Pan fried ginger pork patties","category":"猪肉","kind":"dish","time_ranges":"00:04–00:27；00:51–00:56；02:04",
+       "ingredients":"猪肉末、姜蓉、水、盐、糖、玉米淀粉、酱油。煎锅是否另加油未明确。",
+       "quantities":"使用同一碗调味肉馅的另一半；没有给重量、火力或分钟数。",
+       "steps":["肉末按本期蒸鱼肉饼的做法加入姜蓉、水、盐、糖、玉米淀粉和酱油，拌匀。","取一半放入煎锅，用隔着纸压平的方式压薄成饼，移开压饼用的纸。","两面煎上色并煎熟，分成小块装盘。"],
+       "missing":"纸张材质、煎制温度和时长未说明；纸在片中用于压形，不当作需要长时间留在锅内的材料。"},
+      {"name":"鱼骨鱼头豆腐汤","name_en":"Fish head and bone soup with tofu","category":"汤羹粥","kind":"dish","time_ranges":"01:32–02:02",
+       "ingredients":"前一道菜留下的鱼头鱼骨、豆腐、姜片、水、盐、胡椒粉、葱花、少量油。",
+       "quantities":"没有给出鱼骨、水和豆腐的用量，也未给煮制时间。",
+       "steps":["鱼头和鱼骨擦去表面水分，与姜片一起下锅煎。","加入水煮开，放入切块豆腐继续煮。","用盐和胡椒粉调味，加入葱花后盛出。"],
+       "missing":"加水温度、煎制时长、总煮制时间未明确；作者说可配香菜，但本次加入的是葱花。"},
+      {"name":"淮山胡萝卜排骨汤（做法片段）","name_en":"Chinese yam carrot and pork rib soup, partial method","category":"汤羹粥","kind":"dish","time_ranges":"00:32–00:42；01:20–01:23；02:04",
+       "ingredients":"淮山、胡萝卜、排骨和水。排骨汤已在锅中煮制。",
+       "quantities":"原片未给份量和总煲汤时间。",
+       "steps":["原片从已经在煮的胡萝卜排骨汤开始展示，前期处理没有拍出。","淮山去皮，切成小块加入汤中，继续煮熟后上桌。"],
+       "missing":"排骨清洗焯水、加水量、调味和总时间均未完整展示，因此保留为做法片段。"},
+      {"name":"白灼西兰苔","name_en":"Blanched broccolini","category":"蛋豆蔬菜","kind":"dish","time_ranges":"00:42–00:51；02:04",
+       "ingredients":"西兰苔类青菜、水。确切菜种为画面判断，调味未明确。",
+       "quantities":"没有给水量、菜重和焯煮时间。",
+       "steps":["把青菜较老的外皮和茎端略削去，保留嫩茎。","放入锅中水煮，煮熟后捞出装盘。"],
+       "missing":"是否加盐和油未能确认，不自行补成标准白灼调料。"}
+    ]
+  },
+  {
+    "bvid":"BV12vnt6yEhA","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与3张全时段概览，确认土豆先微波、鱼和彩椒同盘烤，再补煎虾仁和鸡蛋。",
+    "pending_segments":["00:18–00:55展示冰箱里的备餐库存，只介绍现成或冷冻食材，没有逐项制作，不另计菜谱。"],
+    "pending_segments_en":["The freezer inventory at 00:18–00:55 shows prepared or frozen ingredients without demonstrating their individual preparation, so these are not counted as recipes."],
+    "recipes":[
+      {"name":"彩椒土豆烤三文鱼配虾仁煎蛋","name_en":"Roasted salmon peppers and potatoes with shrimp and egg","category":"鱼虾海鲜","kind":"dish","time_ranges":"00:00–00:18；00:59–02:58",
+       "ingredients":"三文鱼、土豆、红黄彩椒、青椒、虾仁、鸡蛋、柠檬皮和柠檬汁、橄榄油、黑胡椒盐；另有撒入的干香草，品种未能确认。",
+       "quantities":"土豆不加水，微波高火3分钟预熟；空气炸锅180℃烤15分钟。画面煎1只鸡蛋，其他重量与微波功率未说明。",
+       "steps":["土豆刷净、保留皮并切块，不加水微波高火3分钟，作者说明此时约半熟。","彩椒去籽，与青椒、土豆及三文鱼摆在烤盘中，空气炸锅180℃烤15分钟。鱼放在盘内的小碟中。","另用平底锅把虾仁和鸡蛋煎熟。","烤好后剥去椒类烤焦的外皮、剪成小块，与土豆、三文鱼、虾仁和鸡蛋装盘。","加入刨下的柠檬皮、柠檬汁、少量橄榄油和黑胡椒盐；原片另撒少量干香草。"],
+       "missing":"三文鱼重量、厚度、烤前中心解冻程度、微波额定功率及干香草名称未明确。原片使用未完全解冻的鱼，但15分钟不能推成任意厚度鱼块的固定熟透时间。"}
+    ]
+  },
+  {
+    "bvid":"BV1Pvn26tEuN","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与全时段画面概览，并放大法棍配料画面；原标题的不开火仅适用于夹馅部分，视频实际还煎鱼和炒饭。",
+    "pending_segments":[],
+    "recipes":[
+      {"name":"密划刀香煎带鱼","name_en":"Pan fried hairtail with close scoring","category":"鱼虾海鲜","kind":"dish","time_ranges":"00:00–00:17",
+       "ingredients":"带鱼、食用油。是否预腌和用什么调料未交代。",
+       "quantities":"刀纹间距、鱼重、火力和煎制时间未给出。",
+       "steps":["带鱼表面密密划刀，原片称这种处理有助于煎制与外观。","放入油锅，两面煎至上色、熟透后盛盘。"],
+       "missing":"原片未展示完整去内脏、清洗和调味过程；划刀并不等于鱼刺消失，食用仍需留意鱼刺。"},
+      {"name":"牛肉青豆鸡蛋杂蔬炒饭","name_en":"Beef pea egg and vegetable fried rice","category":"米饭面点","kind":"dish","time_ranges":"00:18–01:01",
+       "ingredients":"熟牛肉粒、鸡蛋、熟米饭、焯过水的青豆、西兰花、洋葱、盐、芝麻海苔、少量油。",
+       "quantities":"各项用量和加热时间未说明；牛肉为已经做熟的备餐食材。",
+       "steps":["先炒鸡蛋，凝固后盛出。","熟牛肉粒入锅，加青豆、西兰花和洋葱炒熟。","鸡蛋回锅，加入熟米饭炒匀。","用盐和芝麻海苔调味，翻炒后装盘。"],
+       "missing":"熟牛肉的前期做法及米饭配比没有在本片交代；不把炒饭画面归入不开火料理。"},
+      {"name":"奶油奶酪牛肉法棍三明治","name_en":"Cream cheese and beef baguette sandwich","category":"米饭面点","kind":"dish","time_ranges":"01:04–01:45",
+       "ingredients":"法棍、奶油奶酪、熟牛肉薄片、黄瓜丝、洋葱丝、绿色椒丝、黑胡椒盐、少量橄榄油。蔬菜由画面辨认。",
+       "quantities":"没有给各项用量。",
+       "steps":["熟牛肉和洋葱切薄，黄瓜刨丝，绿色椒类切细。","法棍剖开，切面抹奶油奶酪。","铺上牛肉和蔬菜丝，撒黑胡椒盐、淋少量橄榄油，合上即可。"],
+       "missing":"本片未说明法棍复烤参数、牛肉卤制配方，以及绿色椒类的具体品种。"}
+    ]
+  },
+  {
+    "bvid":"BV15Gn26VE6T","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与全时段概览，并放大00:10、00:12、00:14，确认肉馅中大蒜酥、小苏打和盐，避免将小苏打误作淀粉。",
+    "pending_segments":["卤牛肉切片和袋装配菜仅装盘，未在本片制作；口述的西洋菜猪骨老火汤只是另一种吃法建议，不能混入本次肉丸汤。"],
+    "pending_segments_en":["Sliced braised beef and a packaged side dish are only plated. The mentioned long-simmered watercress and pork bone soup is an alternative idea, not the meatball soup actually demonstrated."],
+    "recipes":[
+      {"name":"瑶柱冬菇焖节瓜","name_en":"Hairy gourd braised with dried scallops and shiitake","category":"蛋豆蔬菜","kind":"dish","time_ranges":"00:15–00:27；00:47–00:50；01:10–01:29",
+       "ingredients":"节瓜、瑶柱、泡发冬菇、蒜、姜、泡冬菇的水、少量猪肉馅、盐、淀粉水、油；蚝油为作者提出的可选调味。",
+       "quantities":"节瓜要求厚切；没有给厚度、份量和焖煮时长。",
+       "steps":["节瓜切厚片，与瑶柱、冬菇、蒜和姜下锅翻炒。","加入泡冬菇的水，加盖焖煮；原片中途还放入少量本期调好的猪肉馅。","节瓜煮软后加盐，用淀粉水略勾芡，盛盘。作者本次取清淡原味，另说也可加蚝油。"],
+       "missing":"瑶柱和冬菇泡发时长、油水比例、肉馅用量及总焖煮时间未说明。"},
+      {"name":"西洋菜手工肉丸汤","name_en":"Watercress soup with handmade pork meatballs","category":"汤羹粥","kind":"dish","time_ranges":"00:00–00:15；00:39–01:09；01:27",
+       "ingredients":"猪肉末、姜蓉、水、大蒜酥、少量小苏打、盐、西洋菜。",
+       "quantities":"肉馅画面字幕说盐1勺，但勺的容量和肉馅重量均未说明；其余调料少量。",
+       "steps":["姜磨成蓉，用少量水冲入猪肉末中，加入大蒜酥、少量小苏打和盐，拌成肉馅。","锅中水煮开，把肉馅逐块拨入，煮至定型。","西洋菜洗净择好，放入汤中煮熟，盛出。"],
+       "missing":"肉重、盐勺容量、水量和丸子煮制时间未说明。小苏打由实物包装确认，不擅自改成淀粉。"},
+      {"name":"土豆钢切燕麦饭","name_en":"Potato and steel cut oat rice","category":"米饭面点","kind":"dish","time_ranges":"00:28–00:38",
+       "ingredients":"米、钢切燕麦、土豆、水；米饭底料由电饭锅画面确认。",
+       "quantities":"米、燕麦、水的比例和电饭锅程序未说明。",
+       "steps":["把米和钢切燕麦放入电饭锅内，加水。","土豆切块放在上面，合盖煮饭。"],
+       "missing":"是否提前浸泡、米的种类、各项比例和煮饭时间未明确。"},
+      {"name":"香煎贵妃肉薄扒","name_en":"Pan fried thin guifei pork steaks","category":"猪肉","kind":"dish","time_ranges":"01:32–01:47",
+       "ingredients":"贵妃肉（作者称呼的猪肉部位）、少量油。",
+       "quantities":"作者将肉片一剖二摊大；实际重量、调味与火力未给出。",
+       "steps":["将较厚肉片横向片开、展开成薄扒。","下锅煎，两面上色、煎熟后装盘。"],
+       "missing":"本段没有清楚交代腌料，不能据其他视频补入黑椒酱；具体猪肉部位的标准名称未在本段解释。"}
+    ]
+  }
+]

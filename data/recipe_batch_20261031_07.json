@@ -1,0 +1,94 @@
+[
+  {
+    "bvid":"BV1LXJ66ZEuY","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与3张全时段概览，确认鱿鱼莲藕分别焯水、蒜苗和XO酱；牛肉是早上腌好后晚餐炒制。",
+    "pending_segments":["前段市场购物与熟食购买不计菜谱；青菜只简短出现，未另列完整做法。此片与BV1RXJ66oE9B为不同餐次的紫苏牛肉，分别保留来源。"],
+    "pending_segments_en":["Market shopping and purchased cooked food are not recipes. Greens appear briefly without a separate full method. This is a different meal from the shiso beef in BV1RXJ66oE9B, so both sources are retained."],
+    "recipes":[
+      {"name":"XO酱鱿鱼炒脆藕","name_en":"Squid and crisp lotus root with XO sauce","category":"鱼虾海鲜","kind":"dish","time_ranges":"00:48–01:38",
+       "ingredients":"鱿鱼、莲藕、蒜、蒜苗、XO酱、少量酱油、食用油。",
+       "quantities":"各项用量、焯水及炒制时间未给出。",
+       "steps":["鱿鱼清理头部、去眼等，洗净切段；莲藕切条。","鱿鱼先烫一下后沥水，莲藕也另焯煮一下。","锅中少量油炒香蒜，放鱿鱼炒至微黄，加入莲藕。","加切碎的蒜苗、XO酱和少许酱油炒匀。作者说没有XO酱时可用海鲜酱或柱侯酱替代。"],
+       "missing":"鱿鱼去内脏等完整前处理、莲藕品种、酱量及时间未说明；替代酱没有给等量比例。"},
+      {"name":"紫苏彩椒牛肉粒（家庭晚餐版）","name_en":"Shiso beef cubes and peppers for a family meal","category":"牛羊肉","kind":"dish","time_ranges":"01:40–02:41",
+       "ingredients":"吊龙牛肉、黑胡椒盐、酱油、油、糖、小苏打、淀粉、水、彩椒、洋葱、蒜、紫苏叶。",
+       "quantities":"牛肉先切约1厘米厚，再切粒；本次早上腌好晚餐使用。调味比例和确切腌制小时数未给。",
+       "steps":["牛肉切粒，加黑胡椒盐、酱油、油、糖、少量小苏打、淀粉和水拌匀腌制；长时间备餐应冷藏。","少量油下锅铺开牛肉，先煎好一面再翻另一面。","加入彩椒、洋葱、蒜翻炒，临近完成加入紫苏叶炒匀。"],
+       "missing":"原片没有给煎制时间、肉重和小苏打量；冷藏是备餐提醒，紫苏可按作者说明省略但风味会不同。"}
+    ]
+  },
+  {
+    "bvid":"BV1RXJ66oEiW","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与全时段概览，确认无糖酸奶、混合冷冻莓果、可可粉、坚果及另做的微波豆腐。",
+    "pending_segments":["01:18之后为菜市场买鱼和水果，不计菜谱；没有把市场里口述的蒸鱼、煎鱼想法当成实际制作。"],
+    "pending_segments_en":["After 01:18 the video shows fish and fruit shopping. Suggestions about steaming or frying those fish are not treated as dishes actually made."],
+    "recipes":[
+      {"name":"莓果坚果可可酸奶碗配吐司","name_en":"Berry nut and cocoa yogurt bowl with toast","category":"甜品饮品","kind":"dish","time_ranges":"00:00–00:13；00:20–00:26；00:36–01:16",
+       "ingredients":"无糖酸奶、冷冻混合莓果（作者称草莓和蓝莓）、坚果、生可可粉、吐司。",
+       "quantities":"没有给酸奶、莓果、坚果、可可粉的重量和烤吐司时间。",
+       "steps":["碗中盛无糖酸奶，加入冷冻莓果。","吐司放面包机烤脆；酸奶碗加入坚果和少量生可可粉。","原片把酸奶抹在吐司上搭配食用；花生酱、奶油奶酪只是提出的其他抹酱选择。"],
+       "missing":"莓果是否提前完全解冻、坚果类型和份量未明确，不把所有冷冻莓果视为无需按包装处理。"},
+      {"name":"酱油橄榄油微波豆腐","name_en":"Microwave tofu with soy sauce and olive oil","category":"蛋豆蔬菜","kind":"dish","time_ranges":"00:14–00:19；00:26–00:35",
+       "ingredients":"豆腐、少量酱油、少量橄榄油；彩椒另作生食配菜。",
+       "quantities":"豆腐微波加热1分钟；功率和豆腐重量未说明。",
+       "steps":["取豆腐放小碗，微波加热1分钟。","淋少量酱油，喷少量橄榄油，配洗净切开的彩椒。"],
+       "missing":"豆腐品种、是否即食以及微波功率未给，1分钟只记录本片份量。"}
+    ]
+  },
+  {
+    "bvid":"BV1NQpq6kEhi","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与全时段概览；放大早餐麦片及微波炉画面、01:11汤料字幕和02:00南瓜排骨加水动作，未将焖锅写成蒸锅。",
+    "pending_segments":["陈皮选购和晾晒主要是经验聊天，未收录为完整陈皮制作法；牛腩、小笼包是现成食品复热。手撕鸡加麻油香菜仅为口述建议，未另计一道。"],
+    "pending_segments_en":["The dried-peel discussion is not a complete recipe for making dried tangerine peel. Beef brisket and buns are reheated prepared food. Shredded chicken with sesame oil and coriander is only a spoken serving suggestion."],
+    "recipes":[
+      {"name":"麦片鸡蛋猕猴桃可可碗","name_en":"Oat egg kiwi and cocoa bowl","category":"米饭面点","kind":"dish","time_ranges":"00:20–00:35",
+       "ingredients":"麦片、鸡蛋、猕猴桃、坚果、生可可粉、白色奶类液体（画面似牛奶）、水。",
+       "quantities":"画面打入2只鸡蛋；微波时间与功率未明确，其余用量未给。",
+       "steps":["麦片和鸡蛋放碗中，加水后微波加热。","取出后加猕猴桃、坚果和可可粉，倒入白色奶类液体。"],
+       "missing":"背景口述讲陈皮，早餐步骤主要由画面确认；不能将微波炉的瞬时显示猜成固定总时间，奶类名称也未口述。"},
+      {"name":"橄榄陈皮猪骨鸡脚汤","name_en":"Chinese olive pork bone and chicken feet soup","category":"汤羹粥","kind":"dish","time_ranges":"00:53–01:25；02:48–02:54",
+       "ingredients":"橄榄、猪骨、鸡脚、姜片、陈皮、水、盐；鲍鱼是作者提出的可选加料，本次没有加入。",
+       "quantities":"食材重量、水量、炖煮程序和时长未给出。",
+       "steps":["猪骨、鸡脚先焯洗；橄榄装袋轻敲裂开。","陈皮刮去较厚白瓤，与姜片、橄榄、猪骨和鸡脚放入炖盅，加水。","盖好炖煮，完成后用少量盐调味。"],
+       "missing":"没有给炖多久和陈皮、橄榄的数量；不沿用作者对喉咙或其他健康作用的判断。"},
+      {"name":"葱香盐焗粉蒸鸡腿","name_en":"Steamed chicken drumsticks with scallion and salt baked seasoning","category":"鸡鸭禽肉","kind":"dish","time_ranges":"01:27–01:38；02:12–02:23；02:55–03:14",
+       "ingredients":"鸡腿、盐焗粉、葱、花生油。",
+       "quantities":"盐焗粉只说少量；鸡腿重量、腌制时长和蒸制时间未说明。",
+       "steps":["鸡腿加入少量盐焗粉、葱和花生油拌匀入味。","放入蒸碗，上蒸锅蒸熟；原片同时蒸现成小笼包等食品。","取出配饭；鸡腿已用盐焗粉调味。"],
+       "missing":"没有给蒸制分钟数或盐焗粉品牌用量。另说可手撕加麻油、香菜，是吃法建议，不是本次完成步骤。"},
+      {"name":"豉汁排骨焖南瓜","name_en":"Pork ribs and pumpkin simmered with black bean sauce","category":"猪肉","kind":"dish","time_ranges":"01:40–02:05；02:26–02:31",
+       "ingredients":"排骨中段、南瓜、豆豉、蒜蓉、小米辣、热油、酱油、蚝油、糖、少量水。",
+       "quantities":"所有调料只说少许；没有给排骨量、南瓜厚度、腌制及焖煮时间。",
+       "steps":["豆豉、蒜蓉、小米辣放碗里，用热油浇香，加入少许酱油、蚝油和糖。","放排骨中段拌匀，原片把另一些骨头留去煲汤。","南瓜片铺在平底锅底部，排骨连酱料铺上，沿锅边加少量水。","加盖焖至排骨和南瓜熟，开盖收至合适汁量。"],
+       "missing":"本片是加水盖锅焖制，没有使用蒸架；水量、火力及时间均未说明。"},
+      {"name":"白灼西兰苔（本期配菜）","name_en":"Blanched broccolini side dish","category":"蛋豆蔬菜","kind":"dish","time_ranges":"02:22–02:25；02:33–02:36",
+       "ingredients":"西兰苔、水；没有明确其他调味。",
+       "quantities":"份量、盐油量和煮制时间未说明。",
+       "steps":["青菜放水中煮熟，捞出装盘，配本期鸡腿和排骨。"],
+       "missing":"完整择菜、焯水和调味细节未展示，保留为简要操作。"}
+    ]
+  },
+  {
+    "bvid":"BV1Ecpo6JEm1","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与全时段概览，放大00:13确认肉丝腌料包含洋葱；莴笋为先盐杀水约5分钟再冲洗。",
+    "pending_segments":["藜麦饭只作为已做好的底饭出现，未另列煮饭方法；水果购买和切盘不计菜谱。"],
+    "pending_segments_en":["Quinoa rice only appears as a prepared base, without a rice-cooking method. Fruit shopping and cutting are not recipes."],
+    "recipes":[
+      {"name":"彩椒洋葱贵妃肉丝","name_en":"Guifei pork strips with peppers and onion","category":"猪肉","kind":"dish","time_ranges":"00:00–00:20；00:32–01:00；02:06–02:18",
+       "ingredients":"贵妃猪肉、黑胡椒、盐、淀粉、洋葱、少量酱油、油、彩椒、蒜。成品可配现成藜麦饭及海苔碎。",
+       "quantities":"肉切约筷子粗细；腌料用量和腌制时间未给。",
+       "steps":["猪肉切细条，加黑胡椒、盐、淀粉、洋葱、少许酱油和油拌匀。","下锅先煎炒，原片提示炒到约八成熟时再加配菜。","加入彩椒、洋葱和蒜继续炒至全部熟，盛出；原片盖在饭上并另加海苔碎。"],
+       "missing":"肉重、淀粉比例和火力时间未给；八成熟是作者的过程描述，不是可量化的温度指标。"},
+      {"name":"蒜香彩椒炒莴笋片","name_en":"Celtuce slices stir fried with garlic and peppers","category":"蛋豆蔬菜","kind":"dish","time_ranges":"00:20–00:26；01:01–01:16",
+       "ingredients":"莴笋、盐、蒜、彩椒、少量油。",
+       "quantities":"莴笋片加盐杀水约5分钟，再冲洗。其他用量和炒制时间未给。",
+       "steps":["莴笋切片，用少量盐拌匀放约5分钟，再冲掉盐水、沥干。","锅内少量油炒香蒜，放莴笋片和事先留出的彩椒。","翻炒至熟后盛出。"],
+       "missing":"是否出锅前另加盐未明确；不把杀水用盐全当成最终食用盐量。"},
+      {"name":"水煮西兰花","name_en":"Boiled broccoli","category":"蛋豆蔬菜","kind":"dish","time_ranges":"00:27–00:31；01:16–01:22",
+       "ingredients":"西兰花或长茎花菜类青菜、水，名称按作者口述保留。",
+       "quantities":"没有给水量、菜量、盐油量和时间。",
+       "steps":["把青菜放水中煮熟，捞出沥水装盘。"],
+       "missing":"只见煮制和装盘，没有完整整理和调味信息。"}
+    ]
+  }
+]

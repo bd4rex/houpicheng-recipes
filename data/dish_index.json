@@ -386,6 +386,17 @@
   },
   {
     "category": "鸡鸭禽肉",
+    "dish": "旧卤汁卤鸡腿鸡蛋",
+    "bvid": "BV12CnF6vE9R",
+    "title": "减脂减脂餐思路分享，卤鸡腿，卤牛肉，简餐#一人食减脂餐 #生活化减脂 #减脂备餐 #干净饮食 #减脂餐思路",
+    "url": "https://www.bilibili.com/video/BV12CnF6vE9R/",
+    "published_date": "2026-10-20",
+    "basis": "verified_video",
+    "matched_text": "旧卤汁卤鸡腿鸡蛋",
+    "time_range": "00:00–00:20；00:56–01:14；03:15–03:29"
+  },
+  {
+    "category": "鸡鸭禽肉",
     "dish": "板栗焖鸡",
     "bvid": "BV1EFqhB5EQe",
     "title": "便利蛋咖喱鱼蛋在家轻松做，板栗焖鸡好下饭，凉拌牛肉贼简单，黄油蘑菇很好吃#咖喱鱼蛋#板栗焖鸡#凉拌牛肉 #黄油蘑菇",
@@ -981,17 +992,6 @@
   {
     "category": "鸡鸭禽肉",
     "dish": "盐焗鸡",
-    "bvid": "BV1NQpq6kEhi",
-    "title": "一碗回甘橄榄汤，一碟盐焗鸡，便是广东人的晚餐#广东家常 #老广的味道 #橄榄汤 #盐焗鸡",
-    "url": "https://www.bilibili.com/video/BV1NQpq6kEhi/",
-    "published_date": "2026-10-13",
-    "basis": "title_match",
-    "matched_text": "盐焗鸡",
-    "time_range": ""
-  },
-  {
-    "category": "鸡鸭禽肉",
-    "dish": "盐焗鸡",
     "bvid": "BV1rJ3g68EtB",
     "title": "蒸水蛋秘诀！嫩滑无蜂窝，搭配盐焗鸡腿，家常晚餐太香",
     "url": "https://www.bilibili.com/video/BV1rJ3g68EtB/",
@@ -1153,6 +1153,17 @@
     "basis": "title_match",
     "matched_text": "荷叶蒸鸡",
     "time_range": ""
+  },
+  {
+    "category": "鸡鸭禽肉",
+    "dish": "葱香盐焗粉蒸鸡腿",
+    "bvid": "BV1NQpq6kEhi",
+    "title": "一碗回甘橄榄汤，一碟盐焗鸡，便是广东人的晚餐#广东家常 #老广的味道 #橄榄汤 #盐焗鸡",
+    "url": "https://www.bilibili.com/video/BV1NQpq6kEhi/",
+    "published_date": "2026-10-13",
+    "basis": "verified_video",
+    "matched_text": "葱香盐焗粉蒸鸡腿",
+    "time_range": "01:27–01:38；02:12–02:23；02:55–03:14"
   },
   {
     "category": "鸡鸭禽肉",
@@ -1860,6 +1871,17 @@
   },
   {
     "category": "猪肉",
+    "dish": "免腌黑椒彩椒贵妃肉粒",
+    "bvid": "BV1FsJ86TEwP",
+    "title": "厨房小白懒人快手菜✨贵妃肉切粒爆炒彩椒；排骨先煲汤，捞出部分快速改做糖醋排骨。一锅多用，有菜有汤，一餐全部搞定。 #一排两吃 #贵妃肉 #糖醋排骨",
+    "url": "https://www.bilibili.com/video/BV1FsJ86TEwP/",
+    "published_date": "2026-10-16",
+    "basis": "verified_video",
+    "matched_text": "免腌黑椒彩椒贵妃肉粒",
+    "time_range": "00:00–00:04；00:56–01:07；01:22–01:57"
+  },
+  {
+    "category": "猪肉",
     "dish": "南瓜焖排骨",
     "bvid": "BV1Q5GbzUEzs",
     "title": "豉汁排骨南瓜煲做法简单又下饭，亲测有效坚果受潮冷冻后比原来更好吃了👏#豉汁排骨 #生活小妙招 #南瓜焖排骨",
@@ -2242,6 +2264,28 @@
     "basis": "title_match",
     "matched_text": "吉列猪扒",
     "time_range": ""
+  },
+  {
+    "category": "猪肉",
+    "dish": "姜蓉香煎猪肉饼",
+    "bvid": "BV1t7nh69EBF",
+    "title": "粤菜隐藏做法｜肉饼垫底蒸鱼，鲜汁全锁在肉饼里#粤菜家常菜 #肉饼蒸鱼#鱼骨豆腐汤 #广东",
+    "url": "https://www.bilibili.com/video/BV1t7nh69EBF/",
+    "published_date": "2026-10-23",
+    "basis": "verified_video",
+    "matched_text": "姜蓉香煎猪肉饼",
+    "time_range": "00:04–00:27；00:51–00:56；02:04"
+  },
+  {
+    "category": "猪肉",
+    "dish": "彩椒洋葱贵妃肉丝",
+    "bvid": "BV1Ecpo6JEm1",
+    "title": "说是减脂餐也不是不行#一人食 #家常简餐 #好好吃饭 #日常轻食 #藜麦饭",
+    "url": "https://www.bilibili.com/video/BV1Ecpo6JEm1/",
+    "published_date": "2026-10-12",
+    "basis": "verified_video",
+    "matched_text": "彩椒洋葱贵妃肉丝",
+    "time_range": "00:00–00:20；00:32–01:00；02:06–02:18"
   },
   {
     "category": "猪肉",
@@ -2796,17 +2840,6 @@
   {
     "category": "猪肉",
     "dish": "糖醋排骨",
-    "bvid": "BV1FsJ86TEwP",
-    "title": "厨房小白懒人快手菜✨贵妃肉切粒爆炒彩椒；排骨先煲汤，捞出部分快速改做糖醋排骨。一锅多用，有菜有汤，一餐全部搞定。 #一排两吃 #贵妃肉 #糖醋排骨",
-    "url": "https://www.bilibili.com/video/BV1FsJ86TEwP/",
-    "published_date": "2026-10-16",
-    "basis": "title_match",
-    "matched_text": "糖醋排骨",
-    "time_range": ""
-  },
-  {
-    "category": "猪肉",
-    "dish": "糖醋排骨",
     "bvid": "BV1sKbK6eEW5",
     "title": "思路打开厨房小白必学｜一锅汤变出糖醋菜+羊肚菌酿虾滑，糖醋排骨鸡翅 #羊肚菌酿虾滑 #家庭晚餐 #厨房小白菜谱 #懒人家常菜",
     "url": "https://www.bilibili.com/video/BV1sKbK6eEW5/",
@@ -2934,28 +2967,6 @@
     "published_date": "2025-06-13",
     "basis": "title_match",
     "matched_text": "红烧肉",
-    "time_range": ""
-  },
-  {
-    "category": "猪肉",
-    "dish": "肉饼",
-    "bvid": "BV1t7nh69EBF",
-    "title": "粤菜隐藏做法｜肉饼垫底蒸鱼，鲜汁全锁在肉饼里#粤菜家常菜 #肉饼蒸鱼#鱼骨豆腐汤 #广东",
-    "url": "https://www.bilibili.com/video/BV1t7nh69EBF/",
-    "published_date": "2026-10-23",
-    "basis": "title_match",
-    "matched_text": "肉饼",
-    "time_range": ""
-  },
-  {
-    "category": "猪肉",
-    "dish": "肉饼",
-    "bvid": "BV1Fmnq6bE7i",
-    "title": "入秋早餐｜西洋菜丸子汤+花生酱香蕉三明治，暖乎乎西洋菜丸子汤｜花生酱香蕉三明治｜汉堡肉饼｜家常早餐｜秋季早餐",
-    "url": "https://www.bilibili.com/video/BV1Fmnq6bE7i/",
-    "published_date": "2026-10-21",
-    "basis": "title_match",
-    "matched_text": "肉饼",
     "time_range": ""
   },
   {
@@ -3257,6 +3268,17 @@
   },
   {
     "category": "猪肉",
+    "dish": "话梅糖醋排骨鸡翅",
+    "bvid": "BV1FsJ86TEwP",
+    "title": "厨房小白懒人快手菜✨贵妃肉切粒爆炒彩椒；排骨先煲汤，捞出部分快速改做糖醋排骨。一锅多用，有菜有汤，一餐全部搞定。 #一排两吃 #贵妃肉 #糖醋排骨",
+    "url": "https://www.bilibili.com/video/BV1FsJ86TEwP/",
+    "published_date": "2026-10-16",
+    "basis": "verified_video",
+    "matched_text": "话梅糖醋排骨鸡翅",
+    "time_range": "00:05–00:31；01:28–01:31；02:00–02:05"
+  },
+  {
+    "category": "猪肉",
     "dish": "话梅菠萝排骨",
     "bvid": "BV1iHTi6JExt",
     "title": "太好吃了，不用外卖，一桌家常饭菜简单又好吃话梅菠萝排骨#话梅菠萝排骨#拌饭菜#淮山肉饼鸡蛋汤#烤土豆",
@@ -3265,6 +3287,17 @@
     "basis": "title_match",
     "matched_text": "话梅菠萝排骨",
     "time_range": ""
+  },
+  {
+    "category": "猪肉",
+    "dish": "豉汁排骨焖南瓜",
+    "bvid": "BV1NQpq6kEhi",
+    "title": "一碗回甘橄榄汤，一碟盐焗鸡，便是广东人的晚餐#广东家常 #老广的味道 #橄榄汤 #盐焗鸡",
+    "url": "https://www.bilibili.com/video/BV1NQpq6kEhi/",
+    "published_date": "2026-10-13",
+    "basis": "verified_video",
+    "matched_text": "豉汁排骨焖南瓜",
+    "time_range": "01:40–02:05；02:26–02:31"
   },
   {
     "category": "猪肉",
@@ -3313,17 +3346,6 @@
   {
     "category": "猪肉",
     "dish": "香煎贵妃肉",
-    "bvid": "BV15Gn26VE6T",
-    "title": "岭南珠三角时令一餐｜瑶柱冬菇焖节瓜+西洋菜肉丸汤#瑶柱冬菇焖节瓜#西洋菜#香煎贵妃肉",
-    "url": "https://www.bilibili.com/video/BV15Gn26VE6T/",
-    "published_date": "2026-10-22",
-    "basis": "title_match",
-    "matched_text": "香煎贵妃肉",
-    "time_range": ""
-  },
-  {
-    "category": "猪肉",
-    "dish": "香煎贵妃肉",
     "bvid": "BV12PrpBVEcc",
     "title": "红葱头焗豉汁排骨 锅气满满，3分钟快手菜 香煎贵妃肉+椒盐豌豆 零厨艺也会懒人快手菜 红葱头排骨配贵妃肉 香哭",
     "url": "https://www.bilibili.com/video/BV12PrpBVEcc/",
@@ -3331,6 +3353,17 @@
     "basis": "title_match",
     "matched_text": "香煎贵妃肉",
     "time_range": ""
+  },
+  {
+    "category": "猪肉",
+    "dish": "香煎贵妃肉薄扒",
+    "bvid": "BV15Gn26VE6T",
+    "title": "岭南珠三角时令一餐｜瑶柱冬菇焖节瓜+西洋菜肉丸汤#瑶柱冬菇焖节瓜#西洋菜#香煎贵妃肉",
+    "url": "https://www.bilibili.com/video/BV15Gn26VE6T/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "香煎贵妃肉薄扒",
+    "time_range": "01:32–01:47"
   },
   {
     "category": "猪肉",
@@ -3342,6 +3375,17 @@
     "basis": "title_match",
     "matched_text": "马蹄蒸肉饼",
     "time_range": ""
+  },
+  {
+    "category": "猪肉",
+    "dish": "黑椒彩椒芹菜贵妃肉粒",
+    "bvid": "BV1wKJd6LEY1",
+    "title": "这个搭配很赞！✅羊肚菌苹果炖瘦肉水✅海鱼不去鳞香煎✅黑椒贵妃肉粒✅豉油王炒鲜鱿",
+    "url": "https://www.bilibili.com/video/BV1wKJd6LEY1/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "黑椒彩椒芹菜贵妃肉粒",
+    "time_range": "00:52–00:55；01:10–01:38"
   },
   {
     "category": "猪肉",
@@ -3517,61 +3561,6 @@
     "published_date": "2026-02-24",
     "basis": "title_match",
     "matched_text": "凉拌牛肋条",
-    "time_range": ""
-  },
-  {
-    "category": "牛羊肉",
-    "dish": "卤牛肉",
-    "bvid": "BV12CnF6vE9R",
-    "title": "减脂减脂餐思路分享，卤鸡腿，卤牛肉，简餐#一人食减脂餐 #生活化减脂 #减脂备餐 #干净饮食 #减脂餐思路",
-    "url": "https://www.bilibili.com/video/BV12CnF6vE9R/",
-    "published_date": "2026-10-20",
-    "basis": "title_match",
-    "matched_text": "卤牛肉",
-    "time_range": ""
-  },
-  {
-    "category": "牛羊肉",
-    "dish": "卤牛肉",
-    "bvid": "BV1LnnE6PESq",
-    "title": "懒人高效备餐✨卤牛肉｜黑椒牛肉粒｜潮汕炸粿肉丸粿条，猪肉选购#电饭锅卤牛肉 #黑椒牛肉粒  #猪肉部位挑选 #早餐分享",
-    "url": "https://www.bilibili.com/video/BV1LnnE6PESq/",
-    "published_date": "2026-10-19",
-    "basis": "title_match",
-    "matched_text": "卤牛肉",
-    "time_range": ""
-  },
-  {
-    "category": "牛羊肉",
-    "dish": "卤牛肉",
-    "bvid": "BV1NWnM6HEb3",
-    "title": "快手早餐系列，蒜香法棍，牛肉面，简餐#卤牛肉#厨房小妙招#蒜香黄油 #法棍",
-    "url": "https://www.bilibili.com/video/BV1NWnM6HEb3/",
-    "published_date": "2026-10-18",
-    "basis": "title_match",
-    "matched_text": "卤牛肉",
-    "time_range": ""
-  },
-  {
-    "category": "牛羊肉",
-    "dish": "卤牛肉",
-    "bvid": "BV1NKJq6YERT",
-    "title": "女生秋冬别错过！花胶鸡汤+卤牛肉，温润滋补#秋冬进补 #女生汤水 #花胶鸡 #卤牛肉 #家常滋补汤",
-    "url": "https://www.bilibili.com/video/BV1NKJq6YERT/",
-    "published_date": "2026-10-17",
-    "basis": "title_match",
-    "matched_text": "卤牛肉",
-    "time_range": ""
-  },
-  {
-    "category": "牛羊肉",
-    "dish": "卤牛肉",
-    "bvid": "BV1wfJD6eEWu",
-    "title": "快手早餐，牛肉三明治，卤牛肉，muji必买单品#早餐#厨房好物#卤牛肉#南方菜市场",
-    "url": "https://www.bilibili.com/video/BV1wfJD6eEWu/",
-    "published_date": "2026-10-16",
-    "basis": "title_match",
-    "matched_text": "卤牛肉",
     "time_range": ""
   },
   {
@@ -4786,6 +4775,28 @@
   },
   {
     "category": "牛羊肉",
+    "dish": "电饭锅清淡卤牛腱",
+    "bvid": "BV1LnnE6PESq",
+    "title": "懒人高效备餐✨卤牛肉｜黑椒牛肉粒｜潮汕炸粿肉丸粿条，猪肉选购#电饭锅卤牛肉 #黑椒牛肉粒  #猪肉部位挑选 #早餐分享",
+    "url": "https://www.bilibili.com/video/BV1LnnE6PESq/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "电饭锅清淡卤牛腱",
+    "time_range": "00:00–00:38；04:20–04:36"
+  },
+  {
+    "category": "牛羊肉",
+    "dish": "电饭锅米酒卤牛腱",
+    "bvid": "BV1wfJD6eEWu",
+    "title": "快手早餐，牛肉三明治，卤牛肉，muji必买单品#早餐#厨房好物#卤牛肉#南方菜市场",
+    "url": "https://www.bilibili.com/video/BV1wfJD6eEWu/",
+    "published_date": "2026-10-16",
+    "basis": "verified_video",
+    "matched_text": "电饭锅米酒卤牛腱",
+    "time_range": "02:16–03:03"
+  },
+  {
+    "category": "牛羊肉",
     "dish": "番茄炒牛肉",
     "bvid": "BV1N8GJzmEfi",
     "title": "热到不想吃饭？快做这俩！番茄炒牛肉配米饭绝了，酸辣油醋汁拌虾仁、鸡脚、脆藕木耳，清爽开胃到想再来一盘！#番茄炒牛肉#凉拌脆藕 #番茄牛肉拌饭",
@@ -4984,25 +4995,25 @@
   },
   {
     "category": "牛羊肉",
-    "dish": "紫苏雪花牛肉",
-    "bvid": "BV1RXJ66oE9B",
-    "title": "在家轻松复刻餐厅里的高级料理。香喷喷的紫苏黑椒雪花牛肉，牛肉鲜嫩，再加上紫苏独特的香气。#紫苏雪花牛肉 #黑椒牛肉 #一人食 #家常简餐",
-    "url": "https://www.bilibili.com/video/BV1RXJ66oE9B/",
-    "published_date": "2026-10-15",
-    "basis": "title_match",
-    "matched_text": "紫苏雪花牛肉",
-    "time_range": ""
-  },
-  {
-    "category": "牛羊肉",
-    "dish": "紫苏雪花牛肉",
+    "dish": "紫苏彩椒牛肉粒（家庭晚餐版）",
     "bvid": "BV1LXJ66ZEuY",
     "title": "大菜轻松做，紫苏牛肉香上头，XO酱鱿鱼脆藕锅气拉满✨ #紫苏雪花牛肉 #XO酱鱿鱼炒莲藕在家复刻餐厅美食 #锅气家常菜",
     "url": "https://www.bilibili.com/video/BV1LXJ66ZEuY/",
     "published_date": "2026-10-15",
-    "basis": "title_match",
-    "matched_text": "紫苏雪花牛肉",
-    "time_range": ""
+    "basis": "verified_video",
+    "matched_text": "紫苏彩椒牛肉粒（家庭晚餐版）",
+    "time_range": "01:40–02:41"
+  },
+  {
+    "category": "牛羊肉",
+    "dish": "紫苏黑椒吊龙牛肉",
+    "bvid": "BV1RXJ66oE9B",
+    "title": "在家轻松复刻餐厅里的高级料理。香喷喷的紫苏黑椒雪花牛肉，牛肉鲜嫩，再加上紫苏独特的香气。#紫苏雪花牛肉 #黑椒牛肉 #一人食 #家常简餐",
+    "url": "https://www.bilibili.com/video/BV1RXJ66oE9B/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "紫苏黑椒吊龙牛肉",
+    "time_range": "00:00–00:54；01:08–01:42；02:04–02:16"
   },
   {
     "category": "牛羊肉",
@@ -5259,6 +5270,17 @@
   },
   {
     "category": "牛羊肉",
+    "dish": "黄油香煎牛排条",
+    "bvid": "BV1ehn36VEvZ",
+    "title": "厨房小白轻松搞定｜一锅肉酱意面+咖喱炒饭+炸生蚝#懒人快手菜 #干净饮食 #家常做饭 #营养搭配",
+    "url": "https://www.bilibili.com/video/BV1ehn36VEvZ/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "黄油香煎牛排条",
+    "time_range": "01:10–01:37"
+  },
+  {
+    "category": "牛羊肉",
     "dish": "黑椒牛仔骨",
     "bvid": "BV1vbY5zvEjZ",
     "title": "又快又好吃，过年餐桌上可以有它，黑椒牛仔骨",
@@ -5381,17 +5403,6 @@
   {
     "category": "牛羊肉",
     "dish": "黑椒牛肉",
-    "bvid": "BV1RXJ66oE9B",
-    "title": "在家轻松复刻餐厅里的高级料理。香喷喷的紫苏黑椒雪花牛肉，牛肉鲜嫩，再加上紫苏独特的香气。#紫苏雪花牛肉 #黑椒牛肉 #一人食 #家常简餐",
-    "url": "https://www.bilibili.com/video/BV1RXJ66oE9B/",
-    "published_date": "2026-10-15",
-    "basis": "title_match",
-    "matched_text": "黑椒牛肉",
-    "time_range": ""
-  },
-  {
-    "category": "牛羊肉",
-    "dish": "黑椒牛肉",
     "bvid": "BV1iUonB8E52",
     "title": "懒人快手菜｜一锅出一人食太好吃了，做减脂餐特别棒｜黑椒牛肉｜营养全面的一餐#懒人快手菜 #一锅出#黑椒牛肉#减脂餐食谱",
     "url": "https://www.bilibili.com/video/BV1iUonB8E52/",
@@ -5458,17 +5469,6 @@
   {
     "category": "牛羊肉",
     "dish": "黑椒牛肉粒",
-    "bvid": "BV1LnnE6PESq",
-    "title": "懒人高效备餐✨卤牛肉｜黑椒牛肉粒｜潮汕炸粿肉丸粿条，猪肉选购#电饭锅卤牛肉 #黑椒牛肉粒  #猪肉部位挑选 #早餐分享",
-    "url": "https://www.bilibili.com/video/BV1LnnE6PESq/",
-    "published_date": "2026-10-19",
-    "basis": "title_match",
-    "matched_text": "黑椒牛肉粒",
-    "time_range": ""
-  },
-  {
-    "category": "牛羊肉",
-    "dish": "黑椒牛肉粒",
     "bvid": "BV1GNgYzsELr",
     "title": "你的减脂餐单里可以加入它哦，黑椒牛肉粒炒洋葱彩椒；营养丰富又美味#哪些食物应该常吃 #黑椒牛肉粒#三伏天减肥 #上汤苋菜",
     "url": "https://www.bilibili.com/video/BV1GNgYzsELr/",
@@ -5487,6 +5487,17 @@
     "basis": "verified_video",
     "matched_text": "黑椒芹菜牛肉",
     "time_range": "00:03–00:19；02:11–02:50"
+  },
+  {
+    "category": "鱼虾海鲜",
+    "dish": "XO酱鱿鱼炒脆藕",
+    "bvid": "BV1LXJ66ZEuY",
+    "title": "大菜轻松做，紫苏牛肉香上头，XO酱鱿鱼脆藕锅气拉满✨ #紫苏雪花牛肉 #XO酱鱿鱼炒莲藕在家复刻餐厅美食 #锅气家常菜",
+    "url": "https://www.bilibili.com/video/BV1LXJ66ZEuY/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "XO酱鱿鱼炒脆藕",
+    "time_range": "00:48–01:38"
   },
   {
     "category": "鱼虾海鲜",
@@ -5688,6 +5699,28 @@
   },
   {
     "category": "鱼虾海鲜",
+    "dish": "密划刀香煎带鱼",
+    "bvid": "BV1Pvn26tEuN",
+    "title": "不开火一人简餐 法棍三明治 儿童拌饭#不开火美食 #一人食简餐 #法棍三明治 #儿童拌饭 #快手早餐",
+    "url": "https://www.bilibili.com/video/BV1Pvn26tEuN/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "密划刀香煎带鱼",
+    "time_range": "00:00–00:17"
+  },
+  {
+    "category": "鱼虾海鲜",
+    "dish": "彩椒土豆烤三文鱼配虾仁煎蛋",
+    "bvid": "BV12vnt6yEhA",
+    "title": "懒人简餐｜彩椒土豆烤三文鱼，地中海风味#地中海饮食 #空气炸锅美食 #懒人简餐 #无油烟厨房 #三文鱼吃法",
+    "url": "https://www.bilibili.com/video/BV12vnt6yEhA/",
+    "published_date": "2026-10-23",
+    "basis": "verified_video",
+    "matched_text": "彩椒土豆烤三文鱼配虾仁煎蛋",
+    "time_range": "00:00–00:18；00:59–02:58"
+  },
+  {
+    "category": "鱼虾海鲜",
     "dish": "扇贝粉丝煲",
     "bvid": "BV1F15u6eEKw",
     "title": "一锅出快手菜高蛋白低热量，扇贝肉的家常吃饭，手握寿司#高蛋白饮食 #快手家常菜#扇贝粉丝煲 #简餐",
@@ -5696,6 +5729,17 @@
     "basis": "title_match",
     "matched_text": "扇贝粉丝煲",
     "time_range": ""
+  },
+  {
+    "category": "鱼虾海鲜",
+    "dish": "扑粉香煎龙利鱼和金鲳鱼",
+    "bvid": "BV1ehn36VEvZ",
+    "title": "厨房小白轻松搞定｜一锅肉酱意面+咖喱炒饭+炸生蚝#懒人快手菜 #干净饮食 #家常做饭 #营养搭配",
+    "url": "https://www.bilibili.com/video/BV1ehn36VEvZ/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "扑粉香煎龙利鱼和金鲳鱼",
+    "time_range": "01:55–02:13；02:23–02:40；03:20–03:26"
   },
   {
     "category": "鱼虾海鲜",
@@ -5799,17 +5843,6 @@
   {
     "category": "鱼虾海鲜",
     "dish": "烤三文鱼",
-    "bvid": "BV12vnt6yEhA",
-    "title": "懒人简餐｜彩椒土豆烤三文鱼，地中海风味#地中海饮食 #空气炸锅美食 #懒人简餐 #无油烟厨房 #三文鱼吃法",
-    "url": "https://www.bilibili.com/video/BV12vnt6yEhA/",
-    "published_date": "2026-10-23",
-    "basis": "title_match",
-    "matched_text": "烤三文鱼",
-    "time_range": ""
-  },
-  {
-    "category": "鱼虾海鲜",
-    "dish": "烤三文鱼",
     "bvid": "BV1dp2kB8Eh4",
     "title": "炙烤三文鱼饭（全熟版）简单又好吃的一人食可以有#炙烤三文鱼饭 #三文鱼 #溏心蛋 #蛋的神仙吃法",
     "url": "https://www.bilibili.com/video/BV1dp2kB8Eh4/",
@@ -5908,6 +5941,17 @@
   },
   {
     "category": "鱼虾海鲜",
+    "dish": "留鳞香煎小海鱼",
+    "bvid": "BV1wKJd6LEY1",
+    "title": "这个搭配很赞！✅羊肚菌苹果炖瘦肉水✅海鱼不去鳞香煎✅黑椒贵妃肉粒✅豉油王炒鲜鱿",
+    "url": "https://www.bilibili.com/video/BV1wKJd6LEY1/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "留鳞香煎小海鱼",
+    "time_range": "00:27–00:48"
+  },
+  {
+    "category": "鱼虾海鲜",
     "dish": "白灼虾",
     "bvid": "BV1xJem6eE1W",
     "title": "换个吃鱼方式✨盐水浸鱼，清淡鲜美不腻口不用爆炒！无油烟高蛋白套餐：鱼饭、盐水浸鱼、白灼虾、上汤时蔬#潮汕鱼饭 #盐水浸鱼 #上汤时蔬 #无油烟厨房",
@@ -5993,6 +6037,17 @@
     "basis": "title_match",
     "matched_text": "白灼鱿鱼",
     "time_range": ""
+  },
+  {
+    "category": "鱼虾海鲜",
+    "dish": "白灼鱿鱼西兰苔配芥末酱油",
+    "bvid": "BV1uaJy6ZEL6",
+    "title": "大菜简单做｜蒜香黄油海鲜 #高蛋白饮食 #家常减脂餐 #味噌汤 #不挨饿减脂",
+    "url": "https://www.bilibili.com/video/BV1uaJy6ZEL6/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "白灼鱿鱼西兰苔配芥末酱油",
+    "time_range": "00:35–00:51；02:19–02:24"
   },
   {
     "category": "鱼虾海鲜",
@@ -6623,14 +6678,14 @@
   },
   {
     "category": "鱼虾海鲜",
-    "dish": "肉饼蒸鱼",
+    "dish": "肉饼垫底蒸鱼",
     "bvid": "BV1t7nh69EBF",
     "title": "粤菜隐藏做法｜肉饼垫底蒸鱼，鲜汁全锁在肉饼里#粤菜家常菜 #肉饼蒸鱼#鱼骨豆腐汤 #广东",
     "url": "https://www.bilibili.com/video/BV1t7nh69EBF/",
     "published_date": "2026-10-23",
-    "basis": "title_match",
-    "matched_text": "肉饼蒸鱼",
-    "time_range": ""
+    "basis": "verified_video",
+    "matched_text": "肉饼垫底蒸鱼",
+    "time_range": "00:00–00:20；00:57–01:30；02:08–02:26"
   },
   {
     "category": "鱼虾海鲜",
@@ -6843,6 +6898,17 @@
   },
   {
     "category": "鱼虾海鲜",
+    "dish": "蒜香黄油海鲜拼盘",
+    "bvid": "BV1uaJy6ZEL6",
+    "title": "大菜简单做｜蒜香黄油海鲜 #高蛋白饮食 #家常减脂餐 #味噌汤 #不挨饿减脂",
+    "url": "https://www.bilibili.com/video/BV1uaJy6ZEL6/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "蒜香黄油海鲜拼盘",
+    "time_range": "00:14–00:35；00:52–01:59"
+  },
+  {
+    "category": "鱼虾海鲜",
     "dish": "蒜香黄油焗虾",
     "bvid": "BV1NWJw6PEmx",
     "title": "聚餐快手菜～大约300元的一餐；话梅排骨一定要试试；每一样都是真材实料又好吃#快手菜#烧鹅肠粉 #蒜香黄油焗虾#粤菜",
@@ -7030,6 +7096,39 @@
   },
   {
     "category": "鱼虾海鲜",
+    "dish": "豉油王炒鲜鱿",
+    "bvid": "BV1wKJd6LEY1",
+    "title": "这个搭配很赞！✅羊肚菌苹果炖瘦肉水✅海鱼不去鳞香煎✅黑椒贵妃肉粒✅豉油王炒鲜鱿",
+    "url": "https://www.bilibili.com/video/BV1wKJd6LEY1/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "豉油王炒鲜鱿",
+    "time_range": "00:54–01:09"
+  },
+  {
+    "category": "鱼虾海鲜",
+    "dish": "豉油王炒鲜鱿",
+    "bvid": "BV1TnC1BUEBy",
+    "title": "餐厅大菜在家轻松可做：芝士焗虾，猪脖骨比排骨好吃还实惠，煲汤红烧好吃有不柴，豉油王炒鲜鱿#芝士焗虾#炒鱿鱼 #猪脖骨 #电饭锅美食",
+    "url": "https://www.bilibili.com/video/BV1TnC1BUEBy/",
+    "published_date": "2025-11-15",
+    "basis": "title_match",
+    "matched_text": "豉油王炒鲜鱿",
+    "time_range": ""
+  },
+  {
+    "category": "鱼虾海鲜",
+    "dish": "豉油王炒鲜鱿",
+    "bvid": "BV1s1p2zmE7o",
+    "title": "每次做都会光盘的菜，紫菜虾饼～营养好吃无负担减脂期也能吃的高蛋白煎饼；一学就会的经典粤菜豉油王炒鲜鱿下饭菜#紫菜虾滑饼 #炒鱿鱼 #粤菜#高蛋白低卡",
+    "url": "https://www.bilibili.com/video/BV1s1p2zmE7o/",
+    "published_date": "2025-09-16",
+    "basis": "title_match",
+    "matched_text": "豉油王炒鲜鱿",
+    "time_range": ""
+  },
+  {
+    "category": "鱼虾海鲜",
     "dish": "酸辣柠檬虾",
     "bvid": "BV1pz3izQE3K",
     "title": "大夏天不想一直在厨房里围着炉灶转就试试这种懒人煮饭模式吧，一锅出一举多得，极力推荐酸辣柠檬虾超开胃～#酸辣柠檬虾 #白切猪肉#盐焗鸡#电饭锅美食",
@@ -7192,6 +7291,17 @@
     "basis": "verified_video",
     "matched_text": "鱼露爆炒墨鱼",
     "time_range": "00:05–00:35；01:00–01:43"
+  },
+  {
+    "category": "鱼虾海鲜",
+    "dish": "鸡蛋淀粉糊半煎炸生蚝",
+    "bvid": "BV1ehn36VEvZ",
+    "title": "厨房小白轻松搞定｜一锅肉酱意面+咖喱炒饭+炸生蚝#懒人快手菜 #干净饮食 #家常做饭 #营养搭配",
+    "url": "https://www.bilibili.com/video/BV1ehn36VEvZ/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "鸡蛋淀粉糊半煎炸生蚝",
+    "time_range": "01:45–01:48；01:54–02:13；02:27–02:44；03:09–03:16"
   },
   {
     "category": "鱼虾海鲜",
@@ -7558,6 +7668,28 @@
   },
   {
     "category": "蛋豆蔬菜",
+    "dish": "折叠煎蛋",
+    "bvid": "BV1NWnM6HEb3",
+    "title": "快手早餐系列，蒜香法棍，牛肉面，简餐#卤牛肉#厨房小妙招#蒜香黄油 #法棍",
+    "url": "https://www.bilibili.com/video/BV1NWnM6HEb3/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "折叠煎蛋",
+    "time_range": "01:35–01:56"
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "排骨汤蒸鸡蛋羹",
+    "bvid": "BV1FsJ86TEwP",
+    "title": "厨房小白懒人快手菜✨贵妃肉切粒爆炒彩椒；排骨先煲汤，捞出部分快速改做糖醋排骨。一锅多用，有菜有汤，一餐全部搞定。 #一排两吃 #贵妃肉 #糖醋排骨",
+    "url": "https://www.bilibili.com/video/BV1FsJ86TEwP/",
+    "published_date": "2026-10-16",
+    "basis": "verified_video",
+    "matched_text": "排骨汤蒸鸡蛋羹",
+    "time_range": "00:33–00:38；00:44–00:56；01:08–01:10；02:08–02:11"
+  },
+  {
+    "category": "蛋豆蔬菜",
     "dish": "椒丝腐乳空心菜",
     "bvid": "BV1zV9JB9EhL",
     "title": "真的很有兰州牛肉面的味道哦，高蛋白低热量白切水煮牛肉｜牛腱子这样做很下饭哦｜椒丝腐乳炒通菜｜减脂餐#白切牛肉#牛肉面汤 #椒丝腐乳空心菜 #牛腱子",
@@ -7676,6 +7808,50 @@
     "basis": "verified_video",
     "matched_text": "水煎蛋与肠仔",
     "time_range": "00:31–00:35；01:02–01:33"
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "水煮西兰花",
+    "bvid": "BV1Ecpo6JEm1",
+    "title": "说是减脂餐也不是不行#一人食 #家常简餐 #好好吃饭 #日常轻食 #藜麦饭",
+    "url": "https://www.bilibili.com/video/BV1Ecpo6JEm1/",
+    "published_date": "2026-10-12",
+    "basis": "verified_video",
+    "matched_text": "水煮西兰花",
+    "time_range": "00:27–00:31；01:16–01:22"
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "水煮西兰苔",
+    "bvid": "BV1wKJd6LEY1",
+    "title": "这个搭配很赞！✅羊肚菌苹果炖瘦肉水✅海鱼不去鳞香煎✅黑椒贵妃肉粒✅豉油王炒鲜鱿",
+    "url": "https://www.bilibili.com/video/BV1wKJd6LEY1/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "水煮西兰苔",
+    "time_range": "01:39–01:44"
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "水煮西兰苔",
+    "bvid": "BV1jUegzFERL",
+    "title": "零技巧零失败，厨房小白也能秒变厨神～微波炉烤秋刀鱼少盐版盐焗虾、水煮西兰苔、蔬菜沙拉低卡低脂又好吃简单到离谱#微波炉料理#秋刀鱼#盐焗虾#低成本美食",
+    "url": "https://www.bilibili.com/video/BV1jUegzFERL/",
+    "published_date": "2025-08-20",
+    "basis": "title_match",
+    "matched_text": "水煮西兰苔",
+    "time_range": ""
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "水煮西兰苔",
+    "bvid": "BV1wVYvzTEtg",
+    "title": "一年四季小朋友都可以喝的炖汤、煎鸡扒，虾仁豆腐煲，水煮西兰苔#无花果苹果瘦肉汤 #广东炖汤 #煎鸡扒#虾仁豆腐煲#减脂人的饮食",
+    "url": "https://www.bilibili.com/video/BV1wVYvzTEtg/",
+    "published_date": "2025-08-16",
+    "basis": "title_match",
+    "matched_text": "水煮西兰苔",
+    "time_range": ""
   },
   {
     "category": "蛋豆蔬菜",
@@ -8971,9 +9147,9 @@
     "title": "岭南珠三角时令一餐｜瑶柱冬菇焖节瓜+西洋菜肉丸汤#瑶柱冬菇焖节瓜#西洋菜#香煎贵妃肉",
     "url": "https://www.bilibili.com/video/BV15Gn26VE6T/",
     "published_date": "2026-10-22",
-    "basis": "title_match",
+    "basis": "verified_video",
     "matched_text": "瑶柱冬菇焖节瓜",
-    "time_range": ""
+    "time_range": "00:15–00:27；00:47–00:50；01:10–01:29"
   },
   {
     "category": "蛋豆蔬菜",
@@ -9010,6 +9186,61 @@
   },
   {
     "category": "蛋豆蔬菜",
+    "dish": "番茄酱汁炒鸡蛋",
+    "bvid": "BV1NKJq6YERT",
+    "title": "女生秋冬别错过！花胶鸡汤+卤牛肉，温润滋补#秋冬进补 #女生汤水 #花胶鸡 #卤牛肉 #家常滋补汤",
+    "url": "https://www.bilibili.com/video/BV1NKJq6YERT/",
+    "published_date": "2026-10-17",
+    "basis": "verified_video",
+    "matched_text": "番茄酱汁炒鸡蛋",
+    "time_range": "00:27–00:53；00:59–01:07"
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "白灼西兰苔",
+    "bvid": "BV1t7nh69EBF",
+    "title": "粤菜隐藏做法｜肉饼垫底蒸鱼，鲜汁全锁在肉饼里#粤菜家常菜 #肉饼蒸鱼#鱼骨豆腐汤 #广东",
+    "url": "https://www.bilibili.com/video/BV1t7nh69EBF/",
+    "published_date": "2026-10-23",
+    "basis": "verified_video",
+    "matched_text": "白灼西兰苔",
+    "time_range": "00:42–00:51；02:04"
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "白灼西兰苔",
+    "bvid": "BV1kwbLzMEXp",
+    "title": "不费妈的晚餐！捶松猪扒娃能嚼，烤翅虾片微波炉出，白灼西兰苔最后再来一杯海盐柠檬苏打#黑椒猪扒#微波炉快手烤翅#30秒虾片小零食#海盐柠檬苏打",
+    "url": "https://www.bilibili.com/video/BV1kwbLzMEXp/",
+    "published_date": "2025-08-11",
+    "basis": "title_match",
+    "matched_text": "白灼西兰苔",
+    "time_range": ""
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "白灼西兰苔",
+    "bvid": "BV1NeXHYyEf1",
+    "title": "一举两得鲜甜无比的盐水浸鳗鱼鲜虾瘦肉汤，紫菜煎蛋+白灼西兰苔#生活化减脂[话题]# #粤菜[话题]# #原汁原味[话题]# #盐水浸鱼[话题]#",
+    "url": "https://www.bilibili.com/video/BV1NeXHYyEf1/",
+    "published_date": "2025-03-22",
+    "basis": "title_match",
+    "matched_text": "白灼西兰苔",
+    "time_range": ""
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "白灼西兰苔（本期配菜）",
+    "bvid": "BV1NQpq6kEhi",
+    "title": "一碗回甘橄榄汤，一碟盐焗鸡，便是广东人的晚餐#广东家常 #老广的味道 #橄榄汤 #盐焗鸡",
+    "url": "https://www.bilibili.com/video/BV1NQpq6kEhi/",
+    "published_date": "2026-10-13",
+    "basis": "verified_video",
+    "matched_text": "白灼西兰苔（本期配菜）",
+    "time_range": "02:22–02:25；02:33–02:36"
+  },
+  {
+    "category": "蛋豆蔬菜",
     "dish": "白灼豆角西兰花配葱蒜蘸汁",
     "bvid": "BV1Cgxg6iEjP",
     "title": "广东特色五指毛桃盐焗鸡腿，做法一点不复杂！广东家常菜 #厨房小白美食 #快手家常菜 #老广味道",
@@ -9018,6 +9249,17 @@
     "basis": "verified_video",
     "matched_text": "白灼豆角西兰花配葱蒜蘸汁",
     "time_range": "01:10–01:17；01:44–01:51"
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "白灼豆角西兰苔配葱蒜蘸汁",
+    "bvid": "BV1ehn36VEvZ",
+    "title": "厨房小白轻松搞定｜一锅肉酱意面+咖喱炒饭+炸生蚝#懒人快手菜 #干净饮食 #家常做饭 #营养搭配",
+    "url": "https://www.bilibili.com/video/BV1ehn36VEvZ/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "白灼豆角西兰苔配葱蒜蘸汁",
+    "time_range": "01:49–01:52；02:15–02:22；02:56–03:09"
   },
   {
     "category": "蛋豆蔬菜",
@@ -9549,6 +9791,17 @@
   },
   {
     "category": "蛋豆蔬菜",
+    "dish": "菜花菌菇炒肉丁",
+    "bvid": "BV1NKJq6YERT",
+    "title": "女生秋冬别错过！花胶鸡汤+卤牛肉，温润滋补#秋冬进补 #女生汤水 #花胶鸡 #卤牛肉 #家常滋补汤",
+    "url": "https://www.bilibili.com/video/BV1NKJq6YERT/",
+    "published_date": "2026-10-17",
+    "basis": "verified_video",
+    "matched_text": "菜花菌菇炒肉丁",
+    "time_range": "01:08–01:26；02:05–02:20"
+  },
+  {
+    "category": "蛋豆蔬菜",
     "dish": "蒜蓉彩椒西兰苔",
     "bvid": "BV1rKHV6wEzs",
     "title": "学会彩虹吃菜法，早餐不单调｜无油烟减脂餐#彩虹吃菜法 #减脂早餐 #生活化减脂 #无油烟厨房 #早餐搭配",
@@ -9700,6 +9953,17 @@
     "basis": "verified_video",
     "matched_text": "蒜香干辣椒炒包菜",
     "time_range": "00:43–01:07"
+  },
+  {
+    "category": "蛋豆蔬菜",
+    "dish": "蒜香彩椒炒莴笋片",
+    "bvid": "BV1Ecpo6JEm1",
+    "title": "说是减脂餐也不是不行#一人食 #家常简餐 #好好吃饭 #日常轻食 #藜麦饭",
+    "url": "https://www.bilibili.com/video/BV1Ecpo6JEm1/",
+    "published_date": "2026-10-12",
+    "basis": "verified_video",
+    "matched_text": "蒜香彩椒炒莴笋片",
+    "time_range": "00:20–00:26；01:01–01:16"
   },
   {
     "category": "蛋豆蔬菜",
@@ -10077,6 +10341,17 @@
   },
   {
     "category": "蛋豆蔬菜",
+    "dish": "酱油橄榄油微波豆腐",
+    "bvid": "BV1RXJ66oEiW",
+    "title": "一人食🍓强烈安利这顿酸奶碗早餐！简单又丰富#酸奶碗 #自制早餐 #简单营养早餐#一人食",
+    "url": "https://www.bilibili.com/video/BV1RXJ66oEiW/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "酱油橄榄油微波豆腐",
+    "time_range": "00:14–00:19；00:26–00:35"
+  },
+  {
+    "category": "蛋豆蔬菜",
     "dish": "酸辣包菜",
     "bvid": "BV1bret6mEFF",
     "title": "懒人快手三道菜｜高蛋白减脂菜+下饭硬菜#酸辣包菜 #手撕包菜#生活化减脂 #新手做菜",
@@ -10250,6 +10525,17 @@
     "basis": "title_match",
     "matched_text": "黑椒西兰花",
     "time_range": ""
+  },
+  {
+    "category": "米饭面点",
+    "dish": "一锅黄油肉酱意面",
+    "bvid": "BV1ehn36VEvZ",
+    "title": "厨房小白轻松搞定｜一锅肉酱意面+咖喱炒饭+炸生蚝#懒人快手菜 #干净饮食 #家常做饭 #营养搭配",
+    "url": "https://www.bilibili.com/video/BV1ehn36VEvZ/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "一锅黄油肉酱意面",
+    "time_range": "00:00–00:16；00:55–01:10"
   },
   {
     "category": "米饭面点",
@@ -10485,17 +10771,6 @@
   {
     "category": "米饭面点",
     "dish": "儿童拌饭",
-    "bvid": "BV1Pvn26tEuN",
-    "title": "不开火一人简餐 法棍三明治 儿童拌饭#不开火美食 #一人食简餐 #法棍三明治 #儿童拌饭 #快手早餐",
-    "url": "https://www.bilibili.com/video/BV1Pvn26tEuN/",
-    "published_date": "2026-10-22",
-    "basis": "title_match",
-    "matched_text": "儿童拌饭",
-    "time_range": ""
-  },
-  {
-    "category": "米饭面点",
-    "dish": "儿童拌饭",
     "bvid": "BV18vaV6BEJs",
     "title": "30分钟下班快手菜，儿童拌饭，糙米饭，蛏子拌饭#海苔碎拌饭 #下班快手菜 #蛏子的家常做法",
     "url": "https://www.bilibili.com/video/BV18vaV6BEJs/",
@@ -10693,6 +10968,28 @@
   },
   {
     "category": "米饭面点",
+    "dish": "卤汁牛肉青菜汤面",
+    "bvid": "BV1NWnM6HEb3",
+    "title": "快手早餐系列，蒜香法棍，牛肉面，简餐#卤牛肉#厨房小妙招#蒜香黄油 #法棍",
+    "url": "https://www.bilibili.com/video/BV1NWnM6HEb3/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "卤汁牛肉青菜汤面",
+    "time_range": "00:00–00:15；00:48–01:08"
+  },
+  {
+    "category": "米饭面点",
+    "dish": "卤牛肉鸡蛋土豆杂蔬拼盘",
+    "bvid": "BV12CnF6vE9R",
+    "title": "减脂减脂餐思路分享，卤鸡腿，卤牛肉，简餐#一人食减脂餐 #生活化减脂 #减脂备餐 #干净饮食 #减脂餐思路",
+    "url": "https://www.bilibili.com/video/BV12CnF6vE9R/",
+    "published_date": "2026-10-20",
+    "basis": "verified_video",
+    "matched_text": "卤牛肉鸡蛋土豆杂蔬拼盘",
+    "time_range": "00:20–00:55；01:16–03:11"
+  },
+  {
+    "category": "米饭面点",
     "dish": "叉烧滑蛋饭",
     "bvid": "BV1Q4Y76WEG1",
     "title": "又嫩又感动#黯然销魂饭 #叉烧滑蛋饭 #焗鱼#无油烟厨房",
@@ -10848,17 +11145,6 @@
   {
     "category": "米饭面点",
     "dish": "咖喱炒饭",
-    "bvid": "BV1ehn36VEvZ",
-    "title": "厨房小白轻松搞定｜一锅肉酱意面+咖喱炒饭+炸生蚝#懒人快手菜 #干净饮食 #家常做饭 #营养搭配",
-    "url": "https://www.bilibili.com/video/BV1ehn36VEvZ/",
-    "published_date": "2026-10-18",
-    "basis": "title_match",
-    "matched_text": "咖喱炒饭",
-    "time_range": ""
-  },
-  {
-    "category": "米饭面点",
-    "dish": "咖喱炒饭",
     "bvid": "BV1pepw6MEsZ",
     "title": "厨房小白一定要做好吃！东南亚风味菜泰式虾律，咖喱炒饭；#东南亚风味#泰式虾律#凉拌菜#咖喱炒饭",
     "url": "https://www.bilibili.com/video/BV1pepw6MEsZ/",
@@ -10924,6 +11210,17 @@
   },
   {
     "category": "米饭面点",
+    "dish": "咖喱虾仁午餐肉蛋炒饭",
+    "bvid": "BV1ehn36VEvZ",
+    "title": "厨房小白轻松搞定｜一锅肉酱意面+咖喱炒饭+炸生蚝#懒人快手菜 #干净饮食 #家常做饭 #营养搭配",
+    "url": "https://www.bilibili.com/video/BV1ehn36VEvZ/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "咖喱虾仁午餐肉蛋炒饭",
+    "time_range": "00:16–00:54"
+  },
+  {
+    "category": "米饭面点",
     "dish": "咖喱鸡腿扒饭",
     "bvid": "BV1uZMR6hE1W",
     "title": "茶餐厅三大王牌饭｜粒粒金包银炒饭、叉烧炒饭、咖喱鸡腿扒饭#港式茶餐厅 #叉烧炒饭 #金包银炒饭 #咖喱鸡腿扒饭",
@@ -10946,6 +11243,39 @@
   },
   {
     "category": "米饭面点",
+    "dish": "土豆胡萝卜蒸豆拼盘",
+    "bvid": "BV1uaJy6ZEL6",
+    "title": "大菜简单做｜蒜香黄油海鲜 #高蛋白饮食 #家常减脂餐 #味噌汤 #不挨饿减脂",
+    "url": "https://www.bilibili.com/video/BV1uaJy6ZEL6/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "土豆胡萝卜蒸豆拼盘",
+    "time_range": "00:04–00:13；00:36–00:42"
+  },
+  {
+    "category": "米饭面点",
+    "dish": "土豆钢切燕麦杂粮饭（做法片段）",
+    "bvid": "BV1wKJd6LEY1",
+    "title": "这个搭配很赞！✅羊肚菌苹果炖瘦肉水✅海鱼不去鳞香煎✅黑椒贵妃肉粒✅豉油王炒鲜鱿",
+    "url": "https://www.bilibili.com/video/BV1wKJd6LEY1/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "土豆钢切燕麦杂粮饭（做法片段）",
+    "time_range": "00:12–00:17；01:52"
+  },
+  {
+    "category": "米饭面点",
+    "dish": "土豆钢切燕麦饭",
+    "bvid": "BV15Gn26VE6T",
+    "title": "岭南珠三角时令一餐｜瑶柱冬菇焖节瓜+西洋菜肉丸汤#瑶柱冬菇焖节瓜#西洋菜#香煎贵妃肉",
+    "url": "https://www.bilibili.com/video/BV15Gn26VE6T/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "土豆钢切燕麦饭",
+    "time_range": "00:28–00:38"
+  },
+  {
+    "category": "米饭面点",
     "dish": "土豆鸡蛋吞拿鱼三明治",
     "bvid": "BV1rKHV6wEzs",
     "title": "学会彩虹吃菜法，早餐不单调｜无油烟减脂餐#彩虹吃菜法 #减脂早餐 #生活化减脂 #无油烟厨房 #早餐搭配",
@@ -10954,6 +11284,17 @@
     "basis": "verified_video",
     "matched_text": "土豆鸡蛋吞拿鱼三明治",
     "time_range": "01:59–02:41"
+  },
+  {
+    "category": "米饭面点",
+    "dish": "奶油奶酪牛肉法棍三明治",
+    "bvid": "BV1Pvn26tEuN",
+    "title": "不开火一人简餐 法棍三明治 儿童拌饭#不开火美食 #一人食简餐 #法棍三明治 #儿童拌饭 #快手早餐",
+    "url": "https://www.bilibili.com/video/BV1Pvn26tEuN/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "奶油奶酪牛肉法棍三明治",
+    "time_range": "01:04–01:45"
   },
   {
     "category": "米饭面点",
@@ -10998,6 +11339,17 @@
     "basis": "title_match",
     "matched_text": "奶油猪",
     "time_range": ""
+  },
+  {
+    "category": "米饭面点",
+    "dish": "姜蓉猪肉饼吐司三明治",
+    "bvid": "BV1Fmnq6bE7i",
+    "title": "入秋早餐｜西洋菜丸子汤+花生酱香蕉三明治，暖乎乎西洋菜丸子汤｜花生酱香蕉三明治｜汉堡肉饼｜家常早餐｜秋季早餐",
+    "url": "https://www.bilibili.com/video/BV1Fmnq6bE7i/",
+    "published_date": "2026-10-21",
+    "basis": "verified_video",
+    "matched_text": "姜蓉猪肉饼吐司三明治",
+    "time_range": "00:00–00:52；00:55–00:59；01:43–02:10"
   },
   {
     "category": "米饭面点",
@@ -11250,17 +11602,6 @@
     "published_date": "2026-02-20",
     "basis": "title_match",
     "matched_text": "杂粮饭",
-    "time_range": ""
-  },
-  {
-    "category": "米饭面点",
-    "dish": "汉堡",
-    "bvid": "BV1Fmnq6bE7i",
-    "title": "入秋早餐｜西洋菜丸子汤+花生酱香蕉三明治，暖乎乎西洋菜丸子汤｜花生酱香蕉三明治｜汉堡肉饼｜家常早餐｜秋季早餐",
-    "url": "https://www.bilibili.com/video/BV1Fmnq6bE7i/",
-    "published_date": "2026-10-21",
-    "basis": "title_match",
-    "matched_text": "汉堡",
     "time_range": ""
   },
   {
@@ -11691,6 +12032,17 @@
     "basis": "title_match",
     "matched_text": "潮汕牛肉粿条",
     "time_range": ""
+  },
+  {
+    "category": "米饭面点",
+    "dish": "潮汕粿肉丸子海鲜粿条",
+    "bvid": "BV1LnnE6PESq",
+    "title": "懒人高效备餐✨卤牛肉｜黑椒牛肉粒｜潮汕炸粿肉丸粿条，猪肉选购#电饭锅卤牛肉 #黑椒牛肉粒  #猪肉部位挑选 #早餐分享",
+    "url": "https://www.bilibili.com/video/BV1LnnE6PESq/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "潮汕粿肉丸子海鲜粿条",
+    "time_range": "03:22–04:18"
   },
   {
     "category": "米饭面点",
@@ -12245,17 +12597,6 @@
   {
     "category": "米饭面点",
     "dish": "牛肉三文治",
-    "bvid": "BV1wfJD6eEWu",
-    "title": "快手早餐，牛肉三明治，卤牛肉，muji必买单品#早餐#厨房好物#卤牛肉#南方菜市场",
-    "url": "https://www.bilibili.com/video/BV1wfJD6eEWu/",
-    "published_date": "2026-10-16",
-    "basis": "title_match",
-    "matched_text": "牛肉三明治",
-    "time_range": ""
-  },
-  {
-    "category": "米饭面点",
-    "dish": "牛肉三文治",
     "bvid": "BV1ijhx6jEgT",
     "title": "快手早餐系列，牛肉蛋治#三明治#快手早餐#牛肉三文治 #一人",
     "url": "https://www.bilibili.com/video/BV1ijhx6jEgT/",
@@ -12472,6 +12813,17 @@
     "basis": "title_match",
     "matched_text": "牛肉菠萝炒饭",
     "time_range": ""
+  },
+  {
+    "category": "米饭面点",
+    "dish": "牛肉青豆鸡蛋杂蔬炒饭",
+    "bvid": "BV1Pvn26tEuN",
+    "title": "不开火一人简餐 法棍三明治 儿童拌饭#不开火美食 #一人食简餐 #法棍三明治 #儿童拌饭 #快手早餐",
+    "url": "https://www.bilibili.com/video/BV1Pvn26tEuN/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "牛肉青豆鸡蛋杂蔬炒饭",
+    "time_range": "00:18–01:01"
   },
   {
     "category": "米饭面点",
@@ -13202,17 +13554,6 @@
   {
     "category": "米饭面点",
     "dish": "肉酱意面",
-    "bvid": "BV1ehn36VEvZ",
-    "title": "厨房小白轻松搞定｜一锅肉酱意面+咖喱炒饭+炸生蚝#懒人快手菜 #干净饮食 #家常做饭 #营养搭配",
-    "url": "https://www.bilibili.com/video/BV1ehn36VEvZ/",
-    "published_date": "2026-10-18",
-    "basis": "title_match",
-    "matched_text": "肉酱意面",
-    "time_range": ""
-  },
-  {
-    "category": "米饭面点",
-    "dish": "肉酱意面",
     "bvid": "BV1dXh263Efx",
     "title": "懒人福音｜一锅出番茄肉酱意面，肉酱做法简单#肉酱意面#肉酱意面简单做法#一锅出快手菜",
     "url": "https://www.bilibili.com/video/BV1dXh263Efx/",
@@ -13619,6 +13960,17 @@
   },
   {
     "category": "米饭面点",
+    "dish": "芝士牛肉鸡蛋煎三明治",
+    "bvid": "BV1wfJD6eEWu",
+    "title": "快手早餐，牛肉三明治，卤牛肉，muji必买单品#早餐#厨房好物#卤牛肉#南方菜市场",
+    "url": "https://www.bilibili.com/video/BV1wfJD6eEWu/",
+    "published_date": "2026-10-16",
+    "basis": "verified_video",
+    "matched_text": "芝士牛肉鸡蛋煎三明治",
+    "time_range": "00:00–01:19"
+  },
+  {
+    "category": "米饭面点",
     "dish": "花生酱三明治",
     "bvid": "BV1ctpX65Eez",
     "title": "早餐换花样｜高蛋白三明治+维C满满的彩椒，广式牛腩乌冬太香#快手早餐 #早餐吃什么 #家庭早餐 #虾滑三明治 #花生酱三明治",
@@ -13627,6 +13979,17 @@
     "basis": "title_match",
     "matched_text": "花生酱三明治",
     "time_range": ""
+  },
+  {
+    "category": "米饭面点",
+    "dish": "花生酱香蕉吐司三明治",
+    "bvid": "BV1Fmnq6bE7i",
+    "title": "入秋早餐｜西洋菜丸子汤+花生酱香蕉三明治，暖乎乎西洋菜丸子汤｜花生酱香蕉三明治｜汉堡肉饼｜家常早餐｜秋季早餐",
+    "url": "https://www.bilibili.com/video/BV1Fmnq6bE7i/",
+    "published_date": "2026-10-21",
+    "basis": "verified_video",
+    "matched_text": "花生酱香蕉吐司三明治",
+    "time_range": "00:55–00:59；01:43–02:10"
   },
   {
     "category": "米饭面点",
@@ -13762,6 +14125,17 @@
   },
   {
     "category": "米饭面点",
+    "dish": "蒜香黄油欧芹法棍",
+    "bvid": "BV1NWnM6HEb3",
+    "title": "快手早餐系列，蒜香法棍，牛肉面，简餐#卤牛肉#厨房小妙招#蒜香黄油 #法棍",
+    "url": "https://www.bilibili.com/video/BV1NWnM6HEb3/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "蒜香黄油欧芹法棍",
+    "time_range": "00:16–00:43；01:10–01:18"
+  },
+  {
+    "category": "米饭面点",
     "dish": "蒸饺",
     "bvid": "BV1GQ9RByEbW",
     "title": "懒人一锅出，肉蛋菜全齐，蘑菇奶油意面，鸡蛋羹，蒸饺#一锅出 #轻食简餐#快手菜 #无油烟厨房",
@@ -13879,17 +14253,6 @@
     "published_date": "2026-07-24",
     "basis": "title_match",
     "matched_text": "藜麦拌饭",
-    "time_range": ""
-  },
-  {
-    "category": "米饭面点",
-    "dish": "藜麦饭",
-    "bvid": "BV1Ecpo6JEm1",
-    "title": "说是减脂餐也不是不行#一人食 #家常简餐 #好好吃饭 #日常轻食 #藜麦饭",
-    "url": "https://www.bilibili.com/video/BV1Ecpo6JEm1/",
-    "published_date": "2026-10-12",
-    "basis": "title_match",
-    "matched_text": "藜麦饭",
     "time_range": ""
   },
   {
@@ -15038,6 +15401,28 @@
   },
   {
     "category": "米饭面点",
+    "dish": "麦片鸡蛋猕猴桃可可碗",
+    "bvid": "BV1NQpq6kEhi",
+    "title": "一碗回甘橄榄汤，一碟盐焗鸡，便是广东人的晚餐#广东家常 #老广的味道 #橄榄汤 #盐焗鸡",
+    "url": "https://www.bilibili.com/video/BV1NQpq6kEhi/",
+    "published_date": "2026-10-13",
+    "basis": "verified_video",
+    "matched_text": "麦片鸡蛋猕猴桃可可碗",
+    "time_range": "00:20–00:35"
+  },
+  {
+    "category": "米饭面点",
+    "dish": "黄油牛肉黄瓜法棍三明治",
+    "bvid": "BV1vgn26yER7",
+    "title": "生活化减脂早餐｜法棍三明治｜厨房小妙招#5分钟早餐 #法棍三明治 #快手早餐 #生活化减脂 #干净碳水",
+    "url": "https://www.bilibili.com/video/BV1vgn26yER7/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "黄油牛肉黄瓜法棍三明治",
+    "time_range": "00:00–01:30"
+  },
+  {
+    "category": "米饭面点",
     "dish": "黄豆糙米饭团",
     "bvid": "BV1pGxY6eEi5",
     "title": "日常备餐有四种哦糙米饭，花胶冻，茄汁黄豆#减脂人的一日三餐 #茄汁黄豆#糙米饭 #备餐",
@@ -15221,17 +15606,6 @@
     "published_date": "2025-08-09",
     "basis": "title_match",
     "matched_text": "冬阴功汤",
-    "time_range": ""
-  },
-  {
-    "category": "汤羹粥",
-    "dish": "味噌汤",
-    "bvid": "BV1uaJy6ZEL6",
-    "title": "大菜简单做｜蒜香黄油海鲜 #高蛋白饮食 #家常减脂餐 #味噌汤 #不挨饿减脂",
-    "url": "https://www.bilibili.com/video/BV1uaJy6ZEL6/",
-    "published_date": "2026-10-15",
-    "basis": "title_match",
-    "matched_text": "味噌汤",
     "time_range": ""
   },
   {
@@ -15676,6 +16050,17 @@
   },
   {
     "category": "汤羹粥",
+    "dish": "橄榄陈皮猪骨鸡脚汤",
+    "bvid": "BV1NQpq6kEhi",
+    "title": "一碗回甘橄榄汤，一碟盐焗鸡，便是广东人的晚餐#广东家常 #老广的味道 #橄榄汤 #盐焗鸡",
+    "url": "https://www.bilibili.com/video/BV1NQpq6kEhi/",
+    "published_date": "2026-10-13",
+    "basis": "verified_video",
+    "matched_text": "橄榄陈皮猪骨鸡脚汤",
+    "time_range": "00:53–01:25；02:48–02:54"
+  },
+  {
+    "category": "汤羹粥",
     "dish": "沙虫炖汤",
     "bvid": "BV1udybBCEjB",
     "title": "好吃！超简单的3分钟早餐，紫菜饭团我家孩子最爱的早餐之一，因为吃得真的很快#沙虫炖汤#火腿芝士三明治 #茶餐厅美食",
@@ -15772,6 +16157,17 @@
     "basis": "title_match",
     "matched_text": "淮山肉饼鸡蛋汤",
     "time_range": ""
+  },
+  {
+    "category": "汤羹粥",
+    "dish": "淮山胡萝卜排骨汤（做法片段）",
+    "bvid": "BV1t7nh69EBF",
+    "title": "粤菜隐藏做法｜肉饼垫底蒸鱼，鲜汁全锁在肉饼里#粤菜家常菜 #肉饼蒸鱼#鱼骨豆腐汤 #广东",
+    "url": "https://www.bilibili.com/video/BV1t7nh69EBF/",
+    "published_date": "2026-10-23",
+    "basis": "verified_video",
+    "matched_text": "淮山胡萝卜排骨汤（做法片段）",
+    "time_range": "00:32–00:42；01:20–01:23；02:04"
   },
   {
     "category": "汤羹粥",
@@ -16091,6 +16487,17 @@
     "basis": "title_match",
     "matched_text": "牛肉粥",
     "time_range": ""
+  },
+  {
+    "category": "汤羹粥",
+    "dish": "牛肉豆腐裙带菜味噌汤",
+    "bvid": "BV1uaJy6ZEL6",
+    "title": "大菜简单做｜蒜香黄油海鲜 #高蛋白饮食 #家常减脂餐 #味噌汤 #不挨饿减脂",
+    "url": "https://www.bilibili.com/video/BV1uaJy6ZEL6/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "牛肉豆腐裙带菜味噌汤",
+    "time_range": "00:51–00:53；02:03–02:17"
   },
   {
     "category": "汤羹粥",
@@ -16436,17 +16843,6 @@
   {
     "category": "汤羹粥",
     "dish": "瘦肉水",
-    "bvid": "BV1wKJd6LEY1",
-    "title": "这个搭配很赞！✅羊肚菌苹果炖瘦肉水✅海鱼不去鳞香煎✅黑椒贵妃肉粒✅豉油王炒鲜鱿",
-    "url": "https://www.bilibili.com/video/BV1wKJd6LEY1/",
-    "published_date": "2026-10-19",
-    "basis": "title_match",
-    "matched_text": "瘦肉水",
-    "time_range": ""
-  },
-  {
-    "category": "汤羹粥",
-    "dish": "瘦肉水",
     "bvid": "BV1staN63Efc",
     "title": "小孩汤，瘦肉水，苹果肉桂牛肉，肉丸子，菜心拌饭#儿童餐#拌饭#广东汤 #狮子头",
     "url": "https://www.bilibili.com/video/BV1staN63Efc/",
@@ -16520,6 +16916,17 @@
     "basis": "title_match",
     "matched_text": "白汁蘑菇汤",
     "time_range": ""
+  },
+  {
+    "category": "汤羹粥",
+    "dish": "白菜豆芽牛肉丸排骨汤",
+    "bvid": "BV1FsJ86TEwP",
+    "title": "厨房小白懒人快手菜✨贵妃肉切粒爆炒彩椒；排骨先煲汤，捞出部分快速改做糖醋排骨。一锅多用，有菜有汤，一餐全部搞定。 #一排两吃 #贵妃肉 #糖醋排骨",
+    "url": "https://www.bilibili.com/video/BV1FsJ86TEwP/",
+    "published_date": "2026-10-16",
+    "basis": "verified_video",
+    "matched_text": "白菜豆芽牛肉丸排骨汤",
+    "time_range": "00:38–00:54；01:10–01:21；02:04–02:08"
   },
   {
     "category": "汤羹粥",
@@ -16798,6 +17205,17 @@
   },
   {
     "category": "汤羹粥",
+    "dish": "羊肚菌苹果炖瘦肉水",
+    "bvid": "BV1wKJd6LEY1",
+    "title": "这个搭配很赞！✅羊肚菌苹果炖瘦肉水✅海鱼不去鳞香煎✅黑椒贵妃肉粒✅豉油王炒鲜鱿",
+    "url": "https://www.bilibili.com/video/BV1wKJd6LEY1/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "羊肚菌苹果炖瘦肉水",
+    "time_range": "00:00–00:11；00:18–00:25；01:44–01:50"
+  },
+  {
+    "category": "汤羹粥",
     "dish": "胡椒牛肉汤",
     "bvid": "BV1yaxe6zEkP",
     "title": "猪肚鸡太麻烦？吃它！冬天暖fufu的汤，胡椒牛肉汤，鱼露墨鱼#胡椒牛肉汤 #牛肉汤#冬天汤 #墨鱼的家常做法",
@@ -16926,17 +17344,6 @@
     "published_date": "2025-12-23",
     "basis": "title_match",
     "matched_text": "花胶猪肚鸡",
-    "time_range": ""
-  },
-  {
-    "category": "汤羹粥",
-    "dish": "花胶鸡",
-    "bvid": "BV1NKJq6YERT",
-    "title": "女生秋冬别错过！花胶鸡汤+卤牛肉，温润滋补#秋冬进补 #女生汤水 #花胶鸡 #卤牛肉 #家常滋补汤",
-    "url": "https://www.bilibili.com/video/BV1NKJq6YERT/",
-    "published_date": "2026-10-17",
-    "basis": "title_match",
-    "matched_text": "花胶鸡",
     "time_range": ""
   },
   {
@@ -17073,6 +17480,17 @@
   },
   {
     "category": "汤羹粥",
+    "dish": "虫草花红枣花胶鸡汤",
+    "bvid": "BV1NKJq6YERT",
+    "title": "女生秋冬别错过！花胶鸡汤+卤牛肉，温润滋补#秋冬进补 #女生汤水 #花胶鸡 #卤牛肉 #家常滋补汤",
+    "url": "https://www.bilibili.com/video/BV1NKJq6YERT/",
+    "published_date": "2026-10-17",
+    "basis": "verified_video",
+    "matched_text": "虫草花红枣花胶鸡汤",
+    "time_range": "00:00–00:25；00:53–00:58；01:51–02:05"
+  },
+  {
+    "category": "汤羹粥",
     "dish": "虫草花鸡汤",
     "bvid": "BV1M4G9zmEHM",
     "title": "广东月子靓汤-花胶炖鸡#广东炖汤 #花胶鸡汤 #虫草花鸡汤",
@@ -17147,6 +17565,28 @@
     "basis": "title_match",
     "matched_text": "裙带菜豆腐汤",
     "time_range": ""
+  },
+  {
+    "category": "汤羹粥",
+    "dish": "西洋菜姜丝肉丸汤",
+    "bvid": "BV1Fmnq6bE7i",
+    "title": "入秋早餐｜西洋菜丸子汤+花生酱香蕉三明治，暖乎乎西洋菜丸子汤｜花生酱香蕉三明治｜汉堡肉饼｜家常早餐｜秋季早餐",
+    "url": "https://www.bilibili.com/video/BV1Fmnq6bE7i/",
+    "published_date": "2026-10-21",
+    "basis": "verified_video",
+    "matched_text": "西洋菜姜丝肉丸汤",
+    "time_range": "00:00–00:30；00:52–00:55；01:00–01:42"
+  },
+  {
+    "category": "汤羹粥",
+    "dish": "西洋菜手工肉丸汤",
+    "bvid": "BV15Gn26VE6T",
+    "title": "岭南珠三角时令一餐｜瑶柱冬菇焖节瓜+西洋菜肉丸汤#瑶柱冬菇焖节瓜#西洋菜#香煎贵妃肉",
+    "url": "https://www.bilibili.com/video/BV15Gn26VE6T/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "西洋菜手工肉丸汤",
+    "time_range": "00:00–00:15；00:39–01:09；01:27"
   },
   {
     "category": "汤羹粥",
@@ -17249,14 +17689,14 @@
   },
   {
     "category": "汤羹粥",
-    "dish": "鱼骨豆腐汤",
+    "dish": "鱼骨鱼头豆腐汤",
     "bvid": "BV1t7nh69EBF",
     "title": "粤菜隐藏做法｜肉饼垫底蒸鱼，鲜汁全锁在肉饼里#粤菜家常菜 #肉饼蒸鱼#鱼骨豆腐汤 #广东",
     "url": "https://www.bilibili.com/video/BV1t7nh69EBF/",
     "published_date": "2026-10-23",
-    "basis": "title_match",
-    "matched_text": "鱼骨豆腐汤",
-    "time_range": ""
+    "basis": "verified_video",
+    "matched_text": "鱼骨鱼头豆腐汤",
+    "time_range": "01:32–02:02"
   },
   {
     "category": "汤羹粥",
@@ -17909,6 +18349,17 @@
   },
   {
     "category": "甜品饮品",
+    "dish": "莓果坚果可可酸奶碗配吐司",
+    "bvid": "BV1RXJ66oEiW",
+    "title": "一人食🍓强烈安利这顿酸奶碗早餐！简单又丰富#酸奶碗 #自制早餐 #简单营养早餐#一人食",
+    "url": "https://www.bilibili.com/video/BV1RXJ66oEiW/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "莓果坚果可可酸奶碗配吐司",
+    "time_range": "00:00–00:13；00:20–00:26；00:36–01:16"
+  },
+  {
+    "category": "甜品饮品",
     "dish": "蓝莓坚果可可酸奶碗",
     "bvid": "BV15Nn96wEUz",
     "title": "上班族的快手菜，下班10分钟的营养简餐x#一人食#简餐#快手菜#上班族的便当做法",
@@ -18108,17 +18559,6 @@
   {
     "category": "甜品饮品",
     "dish": "酸奶碗",
-    "bvid": "BV1RXJ66oEiW",
-    "title": "一人食🍓强烈安利这顿酸奶碗早餐！简单又丰富#酸奶碗 #自制早餐 #简单营养早餐#一人食",
-    "url": "https://www.bilibili.com/video/BV1RXJ66oEiW/",
-    "published_date": "2026-10-15",
-    "basis": "title_match",
-    "matched_text": "酸奶碗",
-    "time_range": ""
-  },
-  {
-    "category": "甜品饮品",
-    "dish": "酸奶碗",
     "bvid": "BV1Kr6xBQEDx",
     "title": "减脂控油党可以试试，万物皆可水煎｜无需解冻｜又快又好吃｜节能高效｜少油腻一样香脆#水煎 #早餐灵感 #酸奶碗 #减脂人的饮食",
     "url": "https://www.bilibili.com/video/BV1Kr6xBQEDx/",
@@ -18162,6 +18602,17 @@
   },
   {
     "category": "甜品饮品",
+    "dish": "陈皮紫苏梗水",
+    "bvid": "BV1RXJ66oE9B",
+    "title": "在家轻松复刻餐厅里的高级料理。香喷喷的紫苏黑椒雪花牛肉，牛肉鲜嫩，再加上紫苏独特的香气。#紫苏雪花牛肉 #黑椒牛肉 #一人食 #家常简餐",
+    "url": "https://www.bilibili.com/video/BV1RXJ66oE9B/",
+    "published_date": "2026-10-15",
+    "basis": "verified_video",
+    "matched_text": "陈皮紫苏梗水",
+    "time_range": "01:57–02:03；02:16–02:45"
+  },
+  {
+    "category": "甜品饮品",
     "dish": "陈皮红豆沙",
     "bvid": "BV11oMEzvEvu",
     "title": "外面奶茶店卖你10几块一杯的水蜜桃特饮在家可以做三大杯（减脂人换气泡水）还有广东经典汤水-红豆沙分享给你～#水蜜桃饮品 #黑椒牛扒饭 #陈皮红豆沙",
@@ -18184,6 +18635,17 @@
   },
   {
     "category": "甜品饮品",
+    "dish": "陈皮老姜禾秆草水",
+    "bvid": "BV1LnnE6PESq",
+    "title": "懒人高效备餐✨卤牛肉｜黑椒牛肉粒｜潮汕炸粿肉丸粿条，猪肉选购#电饭锅卤牛肉 #黑椒牛肉粒  #猪肉部位挑选 #早餐分享",
+    "url": "https://www.bilibili.com/video/BV1LnnE6PESq/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "陈皮老姜禾秆草水",
+    "time_range": "00:47–00:56"
+  },
+  {
+    "category": "甜品饮品",
     "dish": "香蕉奶昔",
     "bvid": "BV15C1GBrE1i",
     "title": "不用出去奶茶店买，无需加糖奶昔这样打出来就很好喝，你还可以试试它搭黄瓜味的哦；麦片牛奶、鸡腿米线、火龙果香蕉奶昔、开水烫菜，罗汉果龙眼茶#香蕉奶昔 #自制饮品",
@@ -18192,6 +18654,17 @@
     "basis": "title_match",
     "matched_text": "香蕉奶昔",
     "time_range": ""
+  },
+  {
+    "category": "甜品饮品",
+    "dish": "黄油牛奶咖啡",
+    "bvid": "BV1vgn26yER7",
+    "title": "生活化减脂早餐｜法棍三明治｜厨房小妙招#5分钟早餐 #法棍三明治 #快手早餐 #生活化减脂 #干净碳水",
+    "url": "https://www.bilibili.com/video/BV1vgn26yER7/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "黄油牛奶咖啡",
+    "time_range": "04:04–04:21"
   },
   {
     "category": "调味与备餐",
@@ -18203,6 +18676,17 @@
     "basis": "title_match",
     "matched_text": "凉拌汁",
     "time_range": ""
+  },
+  {
+    "category": "调味与备餐",
+    "dish": "卤汁分装冷冻",
+    "bvid": "BV1NWnM6HEb3",
+    "title": "快手早餐系列，蒜香法棍，牛肉面，简餐#卤牛肉#厨房小妙招#蒜香黄油 #法棍",
+    "url": "https://www.bilibili.com/video/BV1NWnM6HEb3/",
+    "published_date": "2026-10-18",
+    "basis": "verified_video",
+    "matched_text": "卤汁分装冷冻",
+    "time_range": "00:00–00:15"
   },
   {
     "category": "调味与备餐",
@@ -18283,6 +18767,17 @@
   },
   {
     "category": "调味与备餐",
+    "dish": "短时冷冻后剥虾仁",
+    "bvid": "BV1vgn26yER7",
+    "title": "生活化减脂早餐｜法棍三明治｜厨房小妙招#5分钟早餐 #法棍三明治 #快手早餐 #生活化减脂 #干净碳水",
+    "url": "https://www.bilibili.com/video/BV1vgn26yER7/",
+    "published_date": "2026-10-22",
+    "basis": "verified_video",
+    "matched_text": "短时冷冻后剥虾仁",
+    "time_range": "02:35–03:49"
+  },
+  {
+    "category": "调味与备餐",
     "dish": "肉桂苹果酱",
     "bvid": "BV1K5oPYuEUN",
     "title": "脱水的苹果扔了可惜，做肉桂苹果酱抹面包👏，猪杂米粉三五分钟出餐方便快捷#肉桂苹果酱 #快手早餐 #苹果酱",
@@ -18302,6 +18797,17 @@
     "basis": "verified_video",
     "matched_text": "花胶蒸软冷藏泡发",
     "time_range": "02:17–02:48"
+  },
+  {
+    "category": "调味与备餐",
+    "dish": "花胶蒸软泡发与分装",
+    "bvid": "BV1NKJq6YERT",
+    "title": "女生秋冬别错过！花胶鸡汤+卤牛肉，温润滋补#秋冬进补 #女生汤水 #花胶鸡 #卤牛肉 #家常滋补汤",
+    "url": "https://www.bilibili.com/video/BV1NKJq6YERT/",
+    "published_date": "2026-10-17",
+    "basis": "verified_video",
+    "matched_text": "花胶蒸软泡发与分装",
+    "time_range": "00:07–00:14"
   },
   {
     "category": "调味与备餐",
@@ -18687,5 +19193,16 @@
     "basis": "title_match",
     "matched_text": "虾滑",
     "time_range": ""
+  },
+  {
+    "category": "调味与备餐",
+    "dish": "黑椒肉粒腌法（猪肉示范）",
+    "bvid": "BV1LnnE6PESq",
+    "title": "懒人高效备餐✨卤牛肉｜黑椒牛肉粒｜潮汕炸粿肉丸粿条，猪肉选购#电饭锅卤牛肉 #黑椒牛肉粒  #猪肉部位挑选 #早餐分享",
+    "url": "https://www.bilibili.com/video/BV1LnnE6PESq/",
+    "published_date": "2026-10-19",
+    "basis": "verified_video",
+    "matched_text": "黑椒肉粒腌法（猪肉示范）",
+    "time_range": "01:40–02:25"
   }
 ]

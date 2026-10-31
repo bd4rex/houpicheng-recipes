@@ -1,0 +1,94 @@
+[
+  {
+    "bvid":"BV1FsJ86TEwP","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与全时段画面；放大00:34确认蛋羹用排骨汤约100毫升，结合00:53中火7分钟；本期肉粒明确不预腌。",
+    "pending_segments":["木瓜和芭乐只切盘，不另列菜谱；排骨汤在片头已经煮好，其前期做法不补写。"],
+    "pending_segments_en":["Papaya and guava are only cut and plated. The pork rib broth is already cooked at the start, so its earlier preparation is not invented."],
+    "recipes":[
+      {"name":"话梅糖醋排骨鸡翅","name_en":"Sweet and sour ribs and chicken wings with preserved plums","category":"猪肉","kind":"dish","time_ranges":"00:05–00:31；01:28–01:31；02:00–02:05",
+       "ingredients":"煲汤后捞出的熟排骨、鸡翅、糖、醋、酱油、话梅、排骨汤。",
+       "quantities":"话梅2颗；排骨、鸡翅、糖醋酱油和汤的用量未给出。",
+       "steps":["把已煲汤的熟排骨捞入小锅，再放几只鸡翅。","加入糖、醋、酱油和2颗话梅，舀入少量排骨汤。","加盖煮至鸡翅熟透、味道融合，再收汁后出锅。"],
+       "missing":"鸡翅此前是否已熟、收汁时长、糖醋比例和火力未交代；排骨是熟的，不代表整锅一开始全部食材都熟。"},
+      {"name":"排骨汤蒸鸡蛋羹","name_en":"Steamed egg custard with pork rib broth","category":"蛋豆蔬菜","kind":"dish","time_ranges":"00:33–00:38；00:44–00:56；01:08–01:10；02:08–02:11",
+       "ingredients":"鸡蛋、已煮好的排骨汤；出锅画面淋少量深色调味汁，名称未明确。",
+       "quantities":"画面为1只鸡蛋，排骨汤约100毫升，中火蒸7分钟。",
+       "steps":["鸡蛋打散，加入约100毫升排骨汤拌匀。","倒入小碗，放在蒸层里，与下层汤锅同炉加热。","中火蒸7分钟，取出；原片出锅另淋少量深色调味汁。"],
+       "missing":"蛋的大小、汤温、蒸制起算点以及最后调味汁的名称未说明；原片没有明确额外加盐。"},
+      {"name":"白菜豆芽牛肉丸排骨汤","name_en":"Cabbage bean sprout and beef meatball soup in rib broth","category":"汤羹粥","kind":"dish","time_ranges":"00:38–00:54；01:10–01:21；02:04–02:08",
+       "ingredients":"现成排骨汤、白菜、豆芽、牛肉丸、芹菜粒、盐；另提到前一天的萝卜。",
+       "quantities":"与上层蛋羹同炉，中火加热约7分钟；配菜份量未说明。",
+       "steps":["在已煮好的排骨汤中加入白菜、豆芽、牛肉丸及原片提及的萝卜。","上面放蒸层蒸蛋羹，下层继续煮汤。","配菜煮熟后加入芹菜粒和盐调味。"],
+       "missing":"排骨汤前期做法、牛肉丸是否熟制、萝卜此前熟度和具体水量未给出。"},
+      {"name":"免腌黑椒彩椒贵妃肉粒","name_en":"Unmarinated guifei pork cubes with peppers and black pepper sauce","category":"猪肉","kind":"dish","time_ranges":"00:00–00:04；00:56–01:07；01:22–01:57",
+       "ingredients":"贵妃猪肉、彩椒、洋葱、蒜、黑椒酱、少量油。",
+       "quantities":"黑椒酱1勺；肉重、勺容量和煎炒时间未说明。",
+       "steps":["猪肉切成小粒，本期明确不提前腌制。","直接下锅煎至表面焦褐、煎熟。","加入彩椒、洋葱和蒜翻炒，再加1勺黑椒酱炒匀出锅。"],
+       "missing":"没有给肉粒尺寸和火力；表面焦褐不是通用的内部熟透判据。"}
+    ]
+  },
+  {
+    "bvid":"BV1wfJD6eEWu","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕和4张全时段画面；歌曲覆盖部分步骤，按实际动作记录煎夹馅、加芝士、卤牛腱。",
+    "pending_segments":["01:20之后有市场购物，03:04之后为不锈钢厨具介绍，均不计菜谱。"],
+    "pending_segments_en":["Market shopping after 01:20 and the stainless-steel kitchenware presentation after 03:04 are not recipes."],
+    "recipes":[
+      {"name":"芝士牛肉鸡蛋煎三明治","name_en":"Pan toasted beef egg and cheese sandwich","category":"米饭面点","kind":"dish","time_ranges":"00:00–01:19",
+       "ingredients":"吐司、牛肉末、紫洋葱、鸡蛋、芝士碎、少量油；外侧抹的浅色油脂画面似黄油，未口述确认。",
+       "quantities":"画面使用1只鸡蛋；作者说肉多可用2只以便黏合。随餐坚果约10克，肉和面包重量未给。",
+       "steps":["紫洋葱切碎，下锅喷少量油，加入牛肉末炒熟、铺匀。","打入鸡蛋拌合，盖两片吐司让蛋肉馅黏在面包上，翻面。","馅料面撒芝士碎，把两片合成三明治。","外侧抹少量浅色油脂，再把两面煎至酥黄，切开；原片配黄瓜和约10克坚果。"],
+       "missing":"牛肉是否提前调味、芝士品种、外侧油脂确切名称和煎制时间未给出。"},
+      {"name":"电饭锅米酒卤牛腱","name_en":"Rice cooker braised beef shank with rice wine","category":"牛羊肉","kind":"dish","time_ranges":"02:16–03:03",
+       "ingredients":"牛腱、洋葱、桂皮、八角、香叶、陈皮、冰糖、酱油、盐、广东米酒、水、少量油。香料由画面辨认。",
+       "quantities":"2条牛腱、约半碗酱油；煮好后焖2至3小时。肉重、碗容量、米酒量及煮制总时间未明确。",
+       "steps":["牛腱整理后放电饭锅内。","洋葱和香料用少量油炒香，加水把锅中香味带入电饭锅。","加入陈皮、冰糖、半碗酱油、少许盐和一点广东米酒，启动煮制。","作者说明煮完后再加盖焖2至3小时。"],
+       "missing":"本片没有明确读出煮制分钟数和水量；不直接套用另一条卤牛腱视频的48分钟。"}
+    ]
+  },
+  {
+    "bvid":"BV1uaJy6ZEL6","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕及全时段画面；核对压力锅15分钟屏幕字样、鱼片先煎后盛出，以及墨鱼虾仁另加黄油蒜末的顺序。",
+    "pending_segments":["作者对同批头足类食材前称墨鱼、白灼时称鱿鱼，两种称呼按所在片段保留；水果和陈皮相关闲聊不作为菜谱。"],
+    "pending_segments_en":["The creator calls the cephalopod cuttlefish earlier and squid during blanching. The names used in each segment are retained. Fruit preparation and unrelated chatter are not additional recipes."],
+    "recipes":[
+      {"name":"蒜香黄油海鲜拼盘","name_en":"Garlic butter seafood platter","category":"鱼虾海鲜","kind":"dish","time_ranges":"00:14–00:35；00:52–01:59",
+       "ingredients":"鱼、墨鱼、虾仁、黄油、蒜末、柠檬皮、柠檬片、黑胡椒盐、少量食用油。鱼种未明确。",
+       "quantities":"买了2条鱼和1只一斤多的墨鱼，但盘中实际用量未称；无煎制分钟数。",
+       "steps":["鱼起肉后再切除中间残留的小骨，整理成鱼片；墨鱼切花刀、分块。","少量油下锅，鱼片两面煎好先盛出。","墨鱼和虾仁另下锅煎，变色后加入刨下的柠檬皮、黄油和蒜末。","用黑胡椒盐调味，翻拌后与鱼片同盘；鱼片也撒少量黑胡椒盐，配柠檬片。"],
+       "missing":"实际海鲜重量、花刀深度、黄油蒜末比例和熟度参数未说明；不沿用作者对热量的简化说法。"},
+      {"name":"白灼鱿鱼西兰苔配芥末酱油","name_en":"Blanched squid and broccolini with wasabi soy dip","category":"鱼虾海鲜","kind":"dish","time_ranges":"00:35–00:51；02:19–02:24",
+       "ingredients":"头足类海鲜（白灼段称鱿鱼）、西兰苔、芥末、酱油、水。",
+       "quantities":"没有给份量、焯煮时间或蘸汁比例。",
+       "steps":["西兰苔先在水中煮熟捞出。","处理好的鱿鱼块放水中烫熟，沥水后与青菜装盘。","芥末与酱油放蘸碟，配着食用。"],
+       "missing":"本片前面称墨鱼，白灼段改称鱿鱼，不能确认是否为同一只；各自所需熟制时间未给。"},
+      {"name":"牛肉豆腐裙带菜味噌汤","name_en":"Miso soup with beef tofu and wakame","category":"汤羹粥","kind":"dish","time_ranges":"00:51–00:53；02:03–02:17",
+       "ingredients":"牛肉片、豆腐、裙带菜、少量蒜蓉、味噌、水。",
+       "quantities":"味噌只说一小坨；其他用量未给。",
+       "steps":["锅中水煮裙带菜，放入牛肉片、豆腐和少量蒜蓉煮熟。","最后把味噌化入汤中，拌匀后盛出。"],
+       "missing":"味噌品种、盐度、肉重、水量及加味噌时温度未说明。"},
+      {"name":"土豆胡萝卜蒸豆拼盘","name_en":"Steamed potatoes carrots and beans","category":"米饭面点","kind":"dish","time_ranges":"00:04–00:13；00:36–00:42",
+       "ingredients":"土豆、胡萝卜、泡发后冷冻的黄豆和鹰嘴豆、水；锅内另有颜色较深的块根，品种未明确。",
+       "quantities":"压力锅画面提示15分钟；起算点、食材重量和最低用水量未给。",
+       "steps":["土豆、胡萝卜等块状食材放压力锅内；黄豆和鹰嘴豆另用小杯装好，同锅蒸制。","按本片所示压约15分钟，完成泄压后取出，豆子可配杂粮饭。"],
+       "missing":"未给豆子泡发时间、水量、块根确切种类和压力锅型号。"}
+    ]
+  },
+  {
+    "bvid":"BV1RXJ66oE9B","reviewed_on":"2026-10-31",
+    "evidence":"已读字幕与全时段概览，核对牛肉腌料、先煎后加蔬菜及最后放紫苏；米饭仅复热。",
+    "pending_segments":["冷冻米饭只示范微波复热3分钟，未单列煮饭配方；后半段再次腌肉是同一做法的备餐，不重复计数。"],
+    "pending_segments_en":["Frozen cooked rice is only reheated for 3 minutes, so no rice-cooking recipe is claimed. The later marinade repeats the same method and is not counted again."],
+    "recipes":[
+      {"name":"紫苏黑椒吊龙牛肉","name_en":"Shiso and black pepper diaolong beef","category":"牛羊肉","kind":"dish","time_ranges":"00:00–00:54；01:08–01:42；02:04–02:16",
+       "ingredients":"吊龙牛肉、黑胡椒盐、小苏打、玉米淀粉、油、酱油、糖、水、三色彩椒、蒜、洋葱、紫苏叶。",
+       "quantities":"牛肉切约一指宽，腌约半小时；所有调料比例与肉重未说明。",
+       "steps":["牛肉切成较厚小块，加黑胡椒盐、少量小苏打、玉米淀粉、油、酱油、糖和水拌匀，腌约半小时。","彩椒、洋葱切块，蒜整理好，紫苏摘叶。","牛肉下锅先煎至表面上色，翻面后加入彩椒、洋葱和蒜。","临近出锅加入紫苏叶，炒匀后盛出。提前备的同款肉盖好放冰箱冷藏。"],
+       "missing":"小苏打和淀粉用量、煎炒温度及时间未给；这一条没有明确另加黑椒酱。"},
+      {"name":"陈皮紫苏梗水","name_en":"Dried tangerine peel and shiso stem infusion","category":"甜品饮品","kind":"dish","time_ranges":"01:57–02:03；02:16–02:45",
+       "ingredients":"摘叶后留下的紫苏梗、陈皮、水。",
+       "quantities":"陈皮只说少量，未给煮泡时间和比例。",
+       "steps":["把紫苏梗与少量陈皮放入泡茶容器，加水浸泡或煮饮；原片展示过滤后饮用。"],
+       "missing":"具体采用煮还是热水浸泡、温度和时长未交代，不添加保健功效。"}
+    ]
+  }
+]

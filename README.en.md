@@ -12,15 +12,15 @@ As of 2026-10-31, pagination of the accessible upload catalogue has been exhaust
 |---|---:|---|
 | Main list | 1,222 | Reviewed non-cooking items removed; remaining content still needs individual review |
 | Excluded | 4 | Travel, hotels, shopping or dining out |
-| Dish and preparation index terms | 501 | Mostly from original titles; this is not a count of completed recipes |
-| Dish-to-video references | 1,699 | One video may contain several dishes |
-| Recipe videos reviewed | 13 | Subtitles cross-checked against visual content |
-| Recipes documented | 39 | Reviewed recipe entries; variations are retained separately |
-| Preparation methods | 2 | Soaking, marinating and other preparations, counted separately |
-| Cooking clues in title | 1,141 | Video content not individually verified yet |
+| Dish and preparation index terms | 566 | Mostly from original titles; this is not a count of completed recipes |
+| Dish-to-video references | 1,746 | One video may contain several dishes |
+| Recipe videos reviewed | 33 | Subtitles cross-checked against visual content |
+| Recipes documented | 104 | Reviewed recipe entries; variations are retained separately |
+| Preparation methods | 6 | Soaking, marinating and other preparations, counted separately |
+| Cooking clues in title | 1,121 | Video content not individually verified yet |
 | Inconclusive titles | 68 | Priority content-review queue |
 
-The main list spans 2025-02-04 through 2026-10-30. **1,209 videos remain unverified at the content level**. The list does not establish that every remaining item contains cooking.
+The main list spans 2025-02-04 through 2026-10-30. **1,189 videos remain unverified at the content level**. The list does not establish that every remaining item contains cooking.
 
 ## Browse
 

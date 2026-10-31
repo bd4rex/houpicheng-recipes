@@ -23,3 +23,13 @@
 - Retained unresolved ingredients, quantities, heat settings and segment gaps; corrected automatic subtitle errors for short minute ranges.
 - Recipe content now takes priority. Historical Excel and Word exports remain old snapshots; final output formats are deferred until content is complete.
 - Both language versions, navigation, progress and source relations were checked together. Content commit `8787b72edc43def803f629f3856922710b3f8cea` was pushed to remote `main`; Git object hashes matched the local version for all 62 files.
+
+## 2026-10-31 19:32 Review of 20 more videos
+
+- Baseline: `060e599106b022b18dd6ce741dff9ec1f5d0c5c7`; local and remote `main` matched before this update.
+- Reviewed Chinese subtitles, four-second visual overviews across the full duration, and key on-screen details for 20 more videos, adding 65 recipes and 4 preparation methods.
+- Totals: 33 reviewed videos, 104 recipes and 6 preparation methods; the main list still contains 1,222 videos, of which 1,189 await individual content review.
+- Added fish steamed over pork, fish-bone tofu soup, rice-cooker beef shank, sweet-sour ribs, shiso beef, squid and lotus root with XO sauce, seasoned steamed chicken and other dishes; differences between titles and actual ingredients remain explicit.
+- Plated prepared foods, shopping presentations and spoken alternatives are not counted as dishes made on camera. Missing quantities, temperatures and timings remain visible.
+- Updated paired recipe pages and directories. The broader clue index has 566 dish or preparation terms and 1,746 video links; historical downloads remain snapshots.
+- Checked 20 source BVID/CID pairs and subtitle digests, 110 recipe or preparation anchors, and the links and bilingual structure of 80 Markdown files; no broken links were found.

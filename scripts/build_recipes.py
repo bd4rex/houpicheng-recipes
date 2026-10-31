@@ -7,7 +7,11 @@ import json,re,collections
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'data';PAGES=ROOT/'recipes'
 SOURCE={v['bv_id']:v for v in json.loads((DATA/'source_catalogue.json').read_text())}
-TRANSLATIONS=json.loads((DATA/'recipe_batch_20261031.en.json').read_text())
+TRANSLATIONS={}
+for translation_file in sorted(DATA.glob('recipe_batch_*.en.json')):
+    translated=json.loads(translation_file.read_text())
+    assert not (TRANSLATIONS.keys() & translated.keys()), 'Duplicate video translation'
+    TRANSLATIONS.update(translated)
 CATEGORIES={'鸡鸭禽肉':'Poultry','猪肉':'Pork','牛羊肉':'Beef and lamb','鱼虾海鲜':'Fish and seafood','蛋豆蔬菜':'Eggs tofu and vegetables','米饭面点':'Rice noodles and bread','汤羹粥':'Soups and congee','甜品饮品':'Desserts and drinks','调味与备餐':'Preparation methods'}
 NOTES_EN={
  'BV1pGxY6eEi5':['At 03:08–03:38 another white string-like ingredient is stewed with milk. It resembles bird nest but the ingredient and cooking time are not explicitly identified, so it is not included as a usable recipe.'],
@@ -45,7 +49,7 @@ def main():
                 text+=f'**{"Confirmed amounts and times" if en else "原片明确的用量和时间"}**: {t["quantities"]}\n\n'
                 for i,s in enumerate(t['steps'],1):text+=f'{i}. {s}\n'
                 text+=f'\n**{"Missing details" if en else "未明确的信息"}**: {t["missing"]}\n\n'
-            notes=NOTES_EN.get(bid,[]) if en else v.get('pending_segments',[])
+            notes=v.get('pending_segments_en',NOTES_EN.get(bid,[])) if en else v.get('pending_segments',[])
             assert bool(notes)==bool(v.get('pending_segments',[]))
             if notes:
                 text+=f'## {"Segment notes" if en else "片段说明"}\n\n'
