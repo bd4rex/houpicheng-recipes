@@ -32,6 +32,7 @@ ALIASES={
 }
 REMOVED_CANON={'白切肉','油浸番茄'}
 EXCLUDED={
+ 'BV1AAksB2Ep4':('自媒体拍摄工具、剪辑和账号收益经验分享；全片内嵌字幕及12秒间隔画面抽查未见做菜过程。','Discussion of filming tools, editing and creator-account income; on-screen captions across the video and visual sampling every 12 seconds show no cooking process.'),
  'BV14iXoBzEY1':('锅底去污及厨房清洁经验介绍；4秒间隔全时段画面和画面内字幕抽查未见食材制作过程。','Pan-bottom stain removal and kitchen-cleaning discussion; four-second visual sampling across the video and on-screen captions show no food preparation.'),
  'BV1SYA3zgEtk':('香港观光巴士与旅行路线，全时段画面抽查未见做菜。','Hong Kong sightseeing bus and travel route; no cooking found in sampled scenes across the full duration.'),
  'BV1KMZjBNEVp':('香港外出用餐和购物记录，全时段画面抽查未见做菜。','Hong Kong dining and shopping diary; no cooking found in sampled scenes across the full duration.'),
@@ -42,12 +43,13 @@ EXCLUDED={
  'BV1yZjo6mEko':('餐具、厨具和砧板的尺寸、价格及使用感受介绍；4秒间隔全时段画面及画面内字幕抽查未见做菜过程。','Kitchenware, tableware and chopping-board sizes, prices and usage impressions; four-second visual sampling across the full duration and on-screen captions show no cooking process.'),
 }
 EXCLUDED_REVIEW_METHOD={
+ 'BV1AAksB2Ep4':'全片内嵌字幕文字核对及12秒间隔全时段画面抽查，共26帧',
  'BV14iXoBzEY1':'原标题、4秒间隔全时段画面及画面内字幕抽查',
  'BV1QMHx6EEZB':'完整中文字幕与4秒间隔全时段画面抽查',
  'BV1XPad6fEZn':'原标题与4秒间隔全时段画面抽查',
  'BV1yZjo6mEko':'4秒间隔全时段画面与画面内字幕抽查；错配的独立字幕已弃用',
 }
-EXCLUDED_REVIEW_DATE={'BV1yZjo6mEko':'2026-11-01','BV14iXoBzEY1':'2026-11-01'}
+EXCLUDED_REVIEW_DATE={'BV1yZjo6mEko':'2026-11-01','BV14iXoBzEY1':'2026-11-01','BV1AAksB2Ep4':'2026-11-02'}
 SAMPLE='BV12D4FzaEDY'
 TITLE_COMPARISON_EXCLUSIONS={'BV1yaxe6zEkP':{'猪肚鸡'}}
 SAMPLE_DISHES={'烤青花鱼':'00:04–00:26；02:08–02:18','姜葱炒鸡':'01:08–01:18；01:39–02:08','葱香虾球':'01:19–01:38','蒜蓉淋汁青菜':'00:26–00:42','蒜香干辣椒炒包菜':'00:43–01:07'}

@@ -1,0 +1,200 @@
+[
+  {
+    "bvid": "BV16ucMzGE1C",
+    "reviewed_on": "2026-11-02",
+    "review_method": "已核对原片内嵌字幕、沙拉制作段画面及疑点文字；后段旅行内容不计菜谱。未确认的参数和食材保持未知。",
+    "review_method_en": "On-screen captions, salad-preparation visuals and uncertain screen text were checked. Later travel content is not recipe material. Unconfirmed ingredients and parameters remain unknown.",
+    "evidence": "本条单独核对1秒字幕取样、首张缩小画面概览及00:32–00:43完整画面文字。确认沙拉配料；杯中食物只确认微波1分钟，底料不明，未另列配方。",
+    "pending_segments": [
+      "00:33–00:45另将杯中食物微波约1分钟，但其底料和全部用料未确认，暂不单列菜谱；这个时间不属于沙拉步骤。",
+      "卤牛肉已事先做好，片中没有卤制过程。约00:56后转为旅行内容。",
+      "原片关于饱腹时长及身体状态的个人描述不作为菜谱功效结论。"
+    ],
+    "pending_segments_en": [
+      "At 00:33–00:45 another food in a cup is microwaved for about one minute, but its base and complete ingredients are unconfirmed; it is not listed separately. That time does not belong to the salad.",
+      "The beef was braised beforehand; the braising process is absent. Travel footage starts around 00:56.",
+      "Personal remarks about satiety duration and physical condition are not treated as recipe efficacy findings."
+    ],
+    "recipes": [
+      {
+        "name": "柠檬橄榄油卤牛肉鸡蛋牛油果沙拉",
+        "name_en": "Braised beef egg and avocado salad with lemon and olive oil",
+        "category": "牛羊肉",
+        "kind": "dish",
+        "time_ranges": "00:00–00:33；00:46–00:55",
+        "ingredients": "甩干水的混合叶菜、熟鸡蛋、预先卤好的牛肉、牛油果、橄榄油、黑胡椒盐、柠檬、坚果。",
+        "quantities": "原片说煮了1个鸡蛋、坚果放几颗；牛肉和蔬菜重量、牛油果用量及调味比例未给。",
+        "steps": [
+          "把已经甩干水的混合叶菜放到盘中，加入切开的熟鸡蛋。",
+          "把卤牛肉和牛油果切片后铺上。",
+          "喷少量橄榄油，撒黑胡椒盐，挤入柠檬汁。",
+          "放几颗坚果，组合成一盘沙拉。"
+        ],
+        "missing": "叶菜和坚果的具体品种、牛肉卤制配方、煮蛋时长、牛油果数量、橄榄油和柠檬汁用量未明确。"
+      }
+    ]
+  },
+  {
+    "bvid": "BV1ioFpzkEEP",
+    "reviewed_on": "2026-11-02",
+    "review_method": "已核对原片内嵌字幕、两种巧克力零食的制作画面及关火提示。未明确的用量、温度和时间保持未知。",
+    "review_method_en": "On-screen captions, the two chocolate-snack preparations and the instruction to turn off the heat were checked. Unstated amounts, temperatures and times remain unknown.",
+    "evidence": "本条单独读取字幕文字和两张缩小概览，另核对00:37小幅文字图，确认OCR的美火实际为关火。两种甜度版本分开记录。",
+    "pending_segments": [
+      "原片称第一种用的是无糖巧克力，未核实包装完整配料表，不据此计算糖分或营养值。",
+      "02:04后为打泡器冲调饮品及工具介绍，全部用料未确认，不另列配方。",
+      "关于放冰箱几天仍酥脆的体验不作为保质期参数。"
+    ],
+    "pending_segments_en": [
+      "The creator calls the chocolate in the first version sugar-free; the complete ingredient label was not verified, so no sugar or nutrition calculation is made.",
+      "After 02:04 the video demonstrates a frother and beverage preparation; complete ingredients are unconfirmed and no separate recipe is listed.",
+      "Remarks about remaining crisp for days in the refrigerator are not treated as a shelf-life specification."
+    ],
+    "recipes": [
+      {
+        "name": "盐味黄油巧克力扁桃仁",
+        "name_en": "Almonds coated with salted butter chocolate",
+        "category": "甜品饮品",
+        "kind": "dish",
+        "time_ranges": "00:10–00:20；01:03–01:29",
+        "ingredients": "巧克力（原片称无糖）、黄油、少量盐、扁桃仁。",
+        "quantities": "黄油只说一块、盐只说一点；巧克力和扁桃仁重量、隔水融化温度及凝固时间未给。",
+        "steps": [
+          "巧克力放容器中，加入一块黄油和少量盐。",
+          "把容器放入热水中，隔水融化并拌匀。",
+          "按画面裹上扁桃仁，一部分逐颗分开放在白色托盘中，另一部分装在袋中摊开。",
+          "冷藏或冷冻至凝固，再将逐颗的取下、袋装的切片；原片没有给具体时长。"
+        ],
+        "missing": "巧克力成分、扁桃仁是否预先烘烤、各项比例、水温、冷藏或冷冻温度及保质期未说明。"
+      },
+      {
+        "name": "蜂蜜糖浆黄油巧克力扁桃仁",
+        "name_en": "Almonds with honey syrup butter and chocolate",
+        "category": "甜品饮品",
+        "kind": "dish",
+        "time_ranges": "00:20–01:02；01:30–02:03",
+        "ingredients": "白砂糖、盐、黄油、巧克力、蜂蜜、扁桃仁。",
+        "quantities": "各项用量均未给；糖加热至出现大泡时关火是原片明确的操作提示。",
+        "steps": [
+          "锅中放白砂糖和盐，加热至画面所示的大泡状态后关火。",
+          "加入黄油、巧克力和蜂蜜，利用余热搅拌。",
+          "加入扁桃仁拌合，倒进垫纸的盒中摊开。",
+          "放至凝固后分成小块，原片称这一版更甜。"
+        ],
+        "missing": "糖加热时是否另加水、糖温、各原料比例、容器尺寸、冷却方式和凝固时长未明确。"
+      }
+    ]
+  },
+  {
+    "bvid": "BV1AkzSBLEmw",
+    "reviewed_on": "2026-11-02",
+    "review_method": "已核对内嵌字幕、制作段画面及关键配料文字；明确保留1个鸡蛋、100毫升牛奶和温水泡的原片信息，其余缺项不补写。",
+    "review_method_en": "On-screen captions, preparation visuals and key ingredient text were checked. One egg, 100 ml milk and warm-water soaking are retained as explicit source information; missing details are not supplied.",
+    "evidence": "本条单独核对文字、两张缩小概览和若干全画面OCR文字；松饼粉料身份未确认。确认两味松饼、黄油蓝莓酱及奇亚籽温水泡发。",
+    "pending_segments": [
+      "01:19–01:35将剩余牛奶倒入有蓝莓残留的锅中加热，再倒入两个碗；碗底混合物的完整配料未确认，暂不单列配方。",
+      "后段杯中饮品还加入其他材料，但完整品种与比例未明确，只记录已确认的奇亚籽泡发步骤。",
+      "约02:18后为家庭聊天，不计菜谱。"
+    ],
+    "pending_segments_en": [
+      "At 01:19–01:35 leftover milk is heated in the pan with blueberry residue and poured into two bowls. The mixtures already in the bowls are not fully identified, so no separate recipe is listed.",
+      "Other ingredients are later added to the cup, but the complete beverage and ratios are unconfirmed; only the confirmed chia-soaking method is recorded.",
+      "Family conversation after about 02:18 is not recipe content."
+    ],
+    "recipes": [
+      {
+        "name": "平底锅松饼配蜂蜜或蓝莓酱",
+        "name_en": "Pan-cooked pancakes with honey or blueberry sauce",
+        "category": "米饭面点",
+        "kind": "dish",
+        "time_ranges": "00:03–00:10；00:20–00:42；00:47–00:57；01:11–01:18",
+        "ingredients": "鸡蛋、牛奶、画面倒入的包装粉料；浇料为酸奶附带的蜂蜜或本期黄油蓝莓酱。",
+        "quantities": "原片明确1个鸡蛋、100毫升牛奶；粉料种类与克数没有确认。",
+        "steps": [
+          "把1个鸡蛋、100毫升牛奶和画面中的粉料拌成面糊。",
+          "面糊分次倒入平底锅，煎成圆饼，翻面后煎另一面，依次盛出。",
+          "分成两种味道：一部分使用酸奶附带的蜂蜜，另一部分淋本期制作的黄油蓝莓酱。"
+        ],
+        "missing": "粉料是预拌粉还是其他配方粉、粉重、是否另加糖或泡打粉、锅内用油、火力及每面煎制时长未明确。"
+      },
+      {
+        "name": "黄油冷冻蓝莓酱",
+        "name_en": "Butter sauce made with frozen blueberries",
+        "category": "甜品饮品",
+        "kind": "dish",
+        "time_ranges": "00:00–00:03；00:43–00:46；00:57–01:18",
+        "ingredients": "冷冻蓝莓、黄油。",
+        "quantities": "黄油以小块加入，具体重量、蓝莓用量和加热时长未给。",
+        "steps": [
+          "冷冻蓝莓下平底锅加热，加入黄油。",
+          "边加热边用铲子压散、翻拌成酱状。",
+          "按画面将酱淋到煎好的松饼上。"
+        ],
+        "missing": "没有明确糖、水或其他调味的添加量；火力、稠度标准、冷却保存方法和保质期未给。"
+      },
+      {
+        "name": "奇亚籽温水泡发",
+        "name_en": "Soaking chia seeds in warm water",
+        "category": "调味与备餐",
+        "kind": "preparation",
+        "time_ranges": "00:11–00:19；01:39–01:47",
+        "ingredients": "奇亚籽、温水。",
+        "quantities": "画面文字明确温水泡，未给水温、种子水比例或泡发时长。",
+        "steps": [
+          "把奇亚籽舀入杯中，按画面用温水泡并搅拌。",
+          "后续镜头中种子已吸水变稠，再搅匀；杯中后加饮品材料未完全确认，不补写其配方。"
+        ],
+        "missing": "奇亚籽克数、水量、温水具体温度、所需等待时间和泡好后的保存条件未知。"
+      }
+    ]
+  },
+  {
+    "bvid": "BV1vQzpBWEpH",
+    "reviewed_on": "2026-11-02",
+    "review_method": "已核对原片内嵌字幕与热饮、贝果制作段画面；微波1分钟只归到贝果复热。后段成品点心安排及冰柜介绍不计新配方。",
+    "review_method_en": "On-screen captions and the hot-drink and bagel preparations were checked. The one-minute microwave time belongs only to reheating the bagel. Later ready-made dim-sum arrangements and freezer discussion are not new recipes.",
+    "evidence": "本条单独核对字幕文字、首张缩小概览及01:20–01:56小幅片段概览，确认生可可粉、肉桂、牛奶、盐，以及孜然牛肉片煎蛋贝果。",
+    "pending_segments": [
+      "无糖巧克力块替代可可粉，以及锅或微波加热，是原片口述的可选方案，不另计现场制作版本。",
+      "01:33后为购入干蒸点心放入电饭锅及水果打包，未展示点心配方；约01:58后为冰柜介绍。",
+      "标题和口述的减脂、低负担描述不作为本条营养或健康结论。"
+    ],
+    "pending_segments_en": [
+      "Replacing cocoa powder with sugar-free chocolate and heating in a pan or microwave are spoken alternatives, not separately counted preparations.",
+      "After 01:33 purchased dim sum is arranged in a rice cooker and fruit is packed; the dim-sum recipe is absent. Freezer discussion starts around 01:58.",
+      "Weight-management and lightness claims in the title or narration are not treated as nutrition or health conclusions."
+    ],
+    "recipes": [
+      {
+        "name": "肉桂盐味热可可",
+        "name_en": "Hot cocoa with cinnamon and a little salt",
+        "category": "甜品饮品",
+        "kind": "dish",
+        "time_ranges": "00:00–00:38；01:24–01:29",
+        "ingredients": "生可可粉、肉桂粉、牛奶、少量盐；糖按原片说法为可选。",
+        "quantities": "肉桂粉和盐只说一点；可可粉、牛奶用量及加热温度未给。",
+        "steps": [
+          "生可可粉加入少量肉桂粉，用一点牛奶先调开。",
+          "倒入热牛奶，搅匀。",
+          "按原片加入一点盐；是否加糖由个人口味选择，原片未给糖量。"
+        ],
+        "missing": "可可粉克数、肉桂粉比例、牛奶品种与容量、加热温度和时间、盐糖用量未明确。"
+      },
+      {
+        "name": "孜然牛肉煎蛋贝果",
+        "name_en": "Bagel with cumin beef slices and a pan-cooked egg",
+        "category": "米饭面点",
+        "kind": "dish",
+        "time_ranges": "00:39–01:23",
+        "ingredients": "贝果、蛋液、包装标注的孜然牛肉片；煎蛋上的白色配料未能确认。",
+        "quantities": "贝果微波复热1分钟；微波功率、蛋液用量和煎制时长未给。",
+        "steps": [
+          "用较小的碟子支起贝果，让部分底面悬空，按原片微波复热1分钟。",
+          "蛋液倒入小平底锅，用铲子把蛋液聚拢成一块，随后加盖继续加热。",
+          "贝果横切，放入现成孜然牛肉片和煎好的蛋，再盖上另一半。"
+        ],
+        "missing": "贝果初始储存温度、微波功率、蛋液完整配方、白色配料品种、用油量和火力未说明；不从奶香味推定配料。"
+      }
+    ]
+  }
+]

@@ -2,7 +2,7 @@
 
 # Recipe directory and index
 
-This directory contains **198 recipe entries and 10 preparation methods from 63 reviewed videos**. Different versions of a dish remain separate. This is an incomplete collection; missing quantities and heat settings are stated in each entry.
+This directory contains **205 recipe entries and 11 preparation methods from 67 reviewed videos**. Different versions of a dish remain separate. This is an incomplete collection; missing quantities and heat settings are stated in each entry.
 
 [All video titles and pending clues](../docs/VIDEO_LIST.en.md) · [Progress](../README.en.md)
 
@@ -42,6 +42,7 @@ This directory contains **198 recipe entries and 10 preparation methods from 63 
 | [Ginger beef and fried eggs with peppers and onion](BV1yJaH6DE7V.en.md#r01) | 2026-09-29 | 00:00–00:42 |
 | [Cumin beef with onion](BV1w3HK61EqC.en.md#r01) | 2026-10-24 | 00:03–00:32；00:51–01:09 |
 | [Covered pan beef and mixed vegetables](BV1J9HV6FEjG.en.md#r01) | 2026-10-25 | 00:00–00:54 |
+| [Braised beef egg and avocado salad with lemon and olive oil](BV16ucMzGE1C.en.md#r01) | 2026-02-09 | 00:00–00:33；00:46–00:55 |
 | [Beef shrimp and mushrooms with lemon zest and pepper](BV1oJpg6UE4K.en.md#r01) | 2026-10-10 | 00:00–00:25；00:32–00:34 |
 | [Mild rice cooker braised beef shank](BV1LnnE6PESq.en.md#r01) | 2026-10-19 | 00:00–00:38；04:20–04:36 |
 | [Rice cooker braised beef shank with rice wine](BV1wfJD6eEWu.en.md#r02) | 2026-10-16 | 02:16–03:03 |
@@ -158,9 +159,11 @@ This directory contains **198 recipe entries and 10 preparation methods from 63 
 | [Potato egg and tuna sandwich](BV1rKHV6wEzs.en.md#r04) | 2026-10-25 | 01:59–02:41 |
 | [Cream cheese and beef baguette sandwich](BV1Pvn26tEuN.en.md#r03) | 2026-10-22 | 01:04–01:45 |
 | [Ginger pork patty toast sandwich](BV1Fmnq6bE7i.en.md#r01) | 2026-10-21 | 00:00–00:52；00:55–00:59；01:43–02:10 |
+| [Bagel with cumin beef slices and a pan-cooked egg](BV1vQzpBWEpH.en.md#r02) | 2026-01-22 | 00:39–01:23 |
 | [Rice mixed with sushi vinegar and seaweed](BV17Ujg6MEt7.en.md#r05) | 2026-06-16 | 02:15–02:25 |
 | [Low heat folded eggs with buttered baguette](BV1aDpF6mEUr.en.md#r01) | 2026-10-06 | 00:00–01:03 |
 | [Corn cooked in its husk with steamed eggs](BV1yJaH6DEvb.en.md#r02) | 2026-09-29 | 00:03–00:13；01:08–01:18 |
+| [Pan-cooked pancakes with honey or blueberry sauce](BV1AkzSBLEmw.en.md#r01) | 2026-01-25 | 00:03–00:10；00:20–00:42；00:47–00:57；01:11–01:18 |
 | [Cantonese beef brisket noodle soup](BV1hWp76FEXo.en.md#r02) | 2026-10-11 | 00:55–01:19；01:54–02:14 |
 | [Cantonese beef brisket udon with greens](BV1ctpX65Eez.en.md#r03) | 2026-10-12 | 02:15–02:54 |
 | [Microwave oat and egg bowl with cocoa](BV1bqxM6gERy.en.md#r02) | 2026-10-27 | 00:40–01:26 |
@@ -234,14 +237,18 @@ This directory contains **198 recipe entries and 10 preparation methods from 63 
 | [Lightly salted corn cooking water](BV1CqHa6XERx.en.md#r04) | 2026-10-03 | 02:20–02:34 |
 | [Corn silk and Job's tears cooking water](BV1yJaH6DEvb.en.md#r03) | 2026-09-29 | 00:04–00:10；00:38–00:47；01:42–01:46 |
 | [Milk coffee mixed in a bottle with pre-frozen ice](BV1VwVB6YEeW.en.md#r02) | 2026-06-02 | 01:07–01:39 |
+| [Almonds coated with salted butter chocolate](BV1ioFpzkEEP.en.md#r01) | 2026-02-07 | 00:10–00:20；01:03–01:29 |
 | [Fish maw milk jelly with dates longan and ginger](BV1pGxY6eEi5.en.md#r01) | 2026-10-30 | 00:00–00:44；01:48–02:14 |
 | [Warm cocoa milk with cinnamon and chia seeds](BV1aDpF6mEUr.en.md#r02) | 2026-10-06 | 01:04–01:29 |
+| [Hot cocoa with cinnamon and a little salt](BV1vQzpBWEpH.en.md#r01) | 2026-01-22 | 00:00–00:38；01:24–01:29 |
 | [Cogongrass sugarcane corn and water-chestnut drink with eggs steamed above](BV1cRNW6HEjm.en.md#r01) | 2026-07-11 | 00:00–00:10；00:28–00:37；00:46–01:14 |
 | [Berry nut and cocoa yogurt bowl with toast](BV1RXJ66oEiW.en.md#r01) | 2026-10-15 | 00:00–00:13；00:20–00:26；00:36–01:16 |
 | [Steamed pumpkin with fermented sweet rice](BV1EB5x6VEah.en.md#r04) | 2026-05-11 | 00:11–00:18；01:47–02:05 |
 | [Blueberry nut and cocoa yogurt bowl](BV15Nn96wEUz.en.md#r02) | 2026-10-26 | 00:51–01:07 |
+| [Almonds with honey syrup butter and chocolate](BV1ioFpzkEEP.en.md#r02) | 2026-02-07 | 00:20–01:02；01:30–02:03 |
 | [Dried tangerine peel and shiso stem infusion](BV1RXJ66oE9B.en.md#r02) | 2026-10-15 | 01:57–02:03；02:16–02:45 |
 | [Dried tangerine peel ginger and rice straw infusion](BV1LnnE6PESq.en.md#r04) | 2026-10-19 | 00:47–00:56 |
+| [Butter sauce made with frozen blueberries](BV1AkzSBLEmw.en.md#r02) | 2026-01-25 | 00:00–00:03；00:43–00:46；00:57–01:18 |
 | [Coffee with butter and milk](BV1vgn26yER7.en.md#r03) | 2026-10-22 | 04:04–04:21 |
 
 ## Preparation methods
@@ -252,6 +259,7 @@ This directory contains **198 recipe entries and 10 preparation methods from 63 
 | [Freezing braising liquid in portions](BV1NWnM6HEb3.en.md#r04) | 2026-10-18 | 00:00–00:15 |
 | [Advance marinade for char siu style pork](BV179pb6uEDX.en.md#r04) | 2026-10-09 | 00:18–00:27；03:03–03:10 |
 | [Basic marinade for stir fried beef](BV1rKHV6wEzs.en.md#r05) | 2026-10-25 | 02:55–03:13 |
+| [Soaking chia seeds in warm water](BV1AkzSBLEmw.en.md#r03) | 2026-01-25 | 00:11–00:19；01:39–01:47 |
 | [Preparing frozen cooked rice for fried rice](BV1pepw6MEsZ.en.md#r04) | 2026-10-06 | 00:51–01:04 |
 | [Peeling shrimp after brief freezing](BV1vgn26yER7.en.md#r02) | 2026-10-22 | 02:35–03:49 |
 | [Steaming and soaking dried fish maw](BV13Msd6kEsP.en.md#r02) | 2026-10-29 | 02:17–02:48 |
@@ -323,4 +331,8 @@ This directory contains **198 recipe entries and 10 preparation methods from 63 
 - [我最爱的做饭模式，家常简易餐｜快手+轻食+营养](BV1EB5x6VEah.en.md) — 4 entries
 - [分享一下我减肥控糖的小经验。要是馋精致碳水，又想让血糖稳一点吃碳水之前，先吃蔬菜。#先吃菜后吃碳水#减脂饮食#低升糖吃法#抗炎饮食](BV1DsPmzLEhQ.en.md) — 2 entries
 - [祝大家好运连年包罗万有，大吉大利新年快乐～特殊原因需要提前安排，一家人在一起任何时候都是团圆日#年夜饭菜单提前曝光了 #过年了 #广东人的年夜饭 #佛跳墙](BV1qpZxB2E9h.en.md) — 2 entries
+- [但是它真的很稳，越瘦的人越不舍得长胖，40+的生活化减脂，就是把清淡吃成日常。走过很多地方、尝遍各地美食，早过了贪恋辣条甜食的年纪，一份料超足的清爽沙拉](BV16ucMzGE1C.en.md) — 1 entries
+- [减脂人的小零食，懒人乱做版#巧克力控 #无糖巧克力 #扁桃仁巧克力](BV1ioFpzkEEP.en.md) — 2 entries
+- [减脂人的欺骗餐和孩子喜欢的果酱松饼，自制果酱无添加吃多少做多少甚好#自制果酱 #松饼 #奇亚籽怎么吃 #欺骗餐](BV1AkzSBLEmw.en.md) — 3 entries
+- [身材管理必冲的冬日热饮！生可可别闲置了这样做，暖身又低卡 #生可可粉神仙吃法  #冬日低卡热饮  #身材管理饮品#热可可](BV1vQzpBWEpH.en.md) — 2 entries
 - [便宜到离谱的青花鱼，烤完无小刺还巨好吃；姜葱炒鸡加点盐焗粉吧；30块一斤的沙姜省了#姜葱炒鸡#烤青花鱼 #干辣椒发霉 #厚皮橙](BV12D4FzaEDY.en.md) — 5 entries

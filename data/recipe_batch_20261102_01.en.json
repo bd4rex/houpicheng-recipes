@@ -1,0 +1,92 @@
+{
+  "BV16ucMzGE1C": [
+    {
+      "ingredients": "Dried-off mixed salad leaves, cooked egg, previously braised beef, avocado, olive oil, black-pepper salt, lemon and nuts.",
+      "quantities": "The creator mentions one cooked egg and a few nuts. Beef/vegetable weights, avocado quantity and dressing ratios are not given.",
+      "steps": [
+        "Put the dried-off mixed leaves on a plate and add the cut cooked egg.",
+        "Slice and arrange the prepared beef and avocado over the leaves.",
+        "Spray with a little olive oil, add pepper salt and squeeze over lemon juice.",
+        "Finish with a few nuts."
+      ],
+      "missing": "Leaf and nut varieties, beef braising recipe, egg-boiling time, avocado count and oil/lemon quantities are unspecified."
+    }
+  ],
+  "BV1ioFpzkEEP": [
+    {
+      "ingredients": "Chocolate described by the creator as sugar-free, butter, a little salt and almonds.",
+      "quantities": "One piece of butter and a little salt are mentioned. Chocolate/almond weights, water-bath temperature and setting time are absent.",
+      "steps": [
+        "Put the chocolate in a container with a piece of butter and a little salt.",
+        "Stand the container in hot water to melt the mixture and stir.",
+        "Coat the almonds; place some individually on the white tray and spread another portion in a bag.",
+        "Refrigerate or freeze until set, then lift off the individual pieces and slice the bagged portion. No duration is given."
+      ],
+      "missing": "Chocolate composition, prior almond roasting, ratios, water temperature, chilling/freezing temperature and shelf life are unspecified."
+    },
+    {
+      "ingredients": "White sugar, salt, butter, chocolate, honey and almonds.",
+      "quantities": "No quantities are supplied. Turning off the heat when large bubbles appear is explicitly shown.",
+      "steps": [
+        "Heat the white sugar and salt in a pan until the large-bubble stage shown, then turn off the heat.",
+        "Stir in butter, chocolate and honey using the residual heat.",
+        "Mix in almonds and spread into a paper-lined container.",
+        "Leave to set and divide into small pieces; the creator calls this version sweeter."
+      ],
+      "missing": "Any added water, sugar temperature, ingredient ratios, container size, cooling method and setting duration are unspecified."
+    }
+  ],
+  "BV1AkzSBLEmw": [
+    {
+      "ingredients": "Egg, milk and the packaged powder poured in on screen; topped with the honey supplied with a yogurt cup or this video's butter-blueberry sauce.",
+      "quantities": "One egg and 100 ml milk are explicitly stated. Powder identity and weight are unconfirmed.",
+      "steps": [
+        "Mix one egg, 100 ml milk and the powder shown into a batter.",
+        "Pour portions into a frying pan, cook round pancakes, turn and cook the other side, and remove them in batches.",
+        "Make two toppings: the yogurt cup's supplied honey on some pancakes and the butter-blueberry sauce on the others."
+      ],
+      "missing": "Whether the powder is a pancake mix, its weight, any additional sugar or baking powder, pan oil, heat and cooking time per side are unspecified."
+    },
+    {
+      "ingredients": "Frozen blueberries and butter.",
+      "quantities": "Butter is added in small pieces without a weight. Blueberry quantity and cooking time are absent.",
+      "steps": [
+        "Heat frozen blueberries in a frying pan and add butter.",
+        "Press and stir the fruit while heating to form a sauce.",
+        "Spoon the sauce over the cooked pancakes as shown."
+      ],
+      "missing": "Amounts of any sugar, water or other seasoning are not specified. Heat, target consistency, cooling/storage instructions and shelf life are absent."
+    },
+    {
+      "ingredients": "Chia seeds and warm water.",
+      "quantities": "Warm-water soaking is explicitly written on screen. Temperature, seed/water ratio and duration are not given.",
+      "steps": [
+        "Spoon chia seeds into a cup, add warm water as shown and stir.",
+        "Later the seeds have absorbed water and thickened; stir again. The remaining beverage ingredients are unconfirmed and are not reconstructed."
+      ],
+      "missing": "Seed weight, water volume, exact temperature, soaking time and storage conditions are unknown."
+    }
+  ],
+  "BV1vQzpBWEpH": [
+    {
+      "ingredients": "Raw cacao powder, cinnamon powder, milk and a little salt. Sugar is optional in the source.",
+      "quantities": "Only a little cinnamon and salt are mentioned. Cocoa/milk quantities and heating temperature are absent.",
+      "steps": [
+        "Mix cacao powder and a little cinnamon with a small amount of milk first.",
+        "Add hot milk and stir.",
+        "Add a little salt as demonstrated. The creator leaves added sugar to taste without specifying a quantity."
+      ],
+      "missing": "Cacao weight, cinnamon ratio, milk type and volume, heating temperature/time and salt/sugar quantities are unspecified."
+    },
+    {
+      "ingredients": "Bagel, beaten egg and packaged cumin beef slices. A white ingredient on the egg could not be identified.",
+      "quantities": "The bagel is microwaved for one minute. Microwave power, egg quantity and pan-cooking time are absent.",
+      "steps": [
+        "Support the bagel on a smaller plate so part of its underside is raised, and microwave for the stated one minute.",
+        "Pour beaten egg into a small frying pan, gather it into one portion with a spatula, then cover to continue cooking.",
+        "Split the bagel, add the prepared cumin beef slices and cooked egg, and close with the other half."
+      ],
+      "missing": "Initial bagel storage temperature, microwave power, full egg mixture, the white ingredient, oil quantity and heat are unspecified. A milky aroma is not used to infer ingredients."
+    }
+  ]
+}

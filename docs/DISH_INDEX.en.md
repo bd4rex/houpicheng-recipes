@@ -2,7 +2,7 @@
 
 # Dish index
 
-662 original-language dish and preparation terms with 1827 video references. Titles provide provisional clues; they do not establish complete recipes. Only links marked reviewed have been checked against video content. Read the [recipe directory](../recipes/INDEX.en.md) for the actual methods.
+670 original-language dish and preparation terms with 1835 video references. Titles provide provisional clues; they do not establish complete recipes. Only links marked reviewed have been checked against video content. Read the [recipe directory](../recipes/INDEX.en.md) for the actual methods.
 
 ## Poultry
 
@@ -130,6 +130,7 @@
 | 孜然牛肉 | 4 | [2025-11-27 BV1k3SMBDEmF](https://www.bilibili.com/video/BV1k3SMBDEmF/) · [2025-09-21 BV1usWAzTEZt](https://www.bilibili.com/video/BV1usWAzTEZt/) · [2025-08-02 BV1sFh8z9Eq3](https://www.bilibili.com/video/BV1sFh8z9Eq3/) · [2025-07-26 BV1cj8tz3Ep3](https://www.bilibili.com/video/BV1cj8tz3Ep3/) |
 | 少油焖牛肉杂蔬 | 1 | [2026-10-25 BV1J9HV6FEjG reviewed](https://www.bilibili.com/video/BV1J9HV6FEjG/) |
 | 广式牛腩 | 18 | [2026-08-28 BV1dgtA6gEbP](https://www.bilibili.com/video/BV1dgtA6gEbP/) · [2026-05-12 BV1425K6KENo](https://www.bilibili.com/video/BV1425K6KENo/) · [2026-03-15 BV14HwKzJE7m](https://www.bilibili.com/video/BV14HwKzJE7m/) · [2026-01-19 BV16WkYBPE2m](https://www.bilibili.com/video/BV16WkYBPE2m/) · [2025-11-25 BV14KUmBeEYG](https://www.bilibili.com/video/BV14KUmBeEYG/) · [2025-11-17 BV146CYBjEEh](https://www.bilibili.com/video/BV146CYBjEEh/) · [2025-10-31 BV1hJ1TBQEy2](https://www.bilibili.com/video/BV1hJ1TBQEy2/) · [2025-09-17 BV1MqpWzREpi](https://www.bilibili.com/video/BV1MqpWzREpi/) · [2025-09-16 BV1Vdp6z2EhS](https://www.bilibili.com/video/BV1Vdp6z2EhS/) · [2025-08-26 BV1sAvwzQEX4](https://www.bilibili.com/video/BV1sAvwzQEX4/) · [2025-08-22 BV1cBYfzMEQV](https://www.bilibili.com/video/BV1cBYfzMEQV/) · [2025-08-15 BV167bHzHEkf](https://www.bilibili.com/video/BV167bHzHEkf/) · [2025-08-14 BV1Nnbzz5EYy](https://www.bilibili.com/video/BV1Nnbzz5EYy/) · [2025-07-23 BV1BKboz2EHD](https://www.bilibili.com/video/BV1BKboz2EHD/) · [2025-07-15 BV1Wju1zrE8w](https://www.bilibili.com/video/BV1Wju1zrE8w/) · [2025-06-30 BV1kngkzNEad](https://www.bilibili.com/video/BV1kngkzNEad/) · [2025-06-07 BV1nsTyz8EhX](https://www.bilibili.com/video/BV1nsTyz8EhX/) · [2025-06-05 BV1JgTszMESC](https://www.bilibili.com/video/BV1JgTszMESC/) |
+| 柠檬橄榄油卤牛肉鸡蛋牛油果沙拉 | 1 | [2026-02-09 BV16ucMzGE1C reviewed](https://www.bilibili.com/video/BV16ucMzGE1C/) |
 | 柠檬皮黑胡椒牛肉虾仁 | 1 | [2026-10-10 BV1oJpg6UE4K reviewed](https://www.bilibili.com/video/BV1oJpg6UE4K/) |
 | 沙茶酱牛肉 | 1 | [2025-04-23 BV1wHL8zyEnP](https://www.bilibili.com/video/BV1wHL8zyEnP/) |
 | 泉水牛肉 | 1 | [2026-05-13 BV1YW516sEzY](https://www.bilibili.com/video/BV1YW516sEzY/) |
@@ -403,10 +404,12 @@
 | 奶油意面 | 2 | [2026-08-02 BV1r7396SEcg](https://www.bilibili.com/video/BV1r7396SEcg/) · [2026-05-03 BV1GQ9RByEbW](https://www.bilibili.com/video/BV1GQ9RByEbW/) |
 | 奶油猪 | 2 | [2025-12-21 BV1tDq1BiEqQ](https://www.bilibili.com/video/BV1tDq1BiEqQ/) · [2025-12-21 BV1TXq1BNETH](https://www.bilibili.com/video/BV1TXq1BNETH/) |
 | 姜蓉猪肉饼吐司三明治 | 1 | [2026-10-21 BV1Fmnq6bE7i reviewed](https://www.bilibili.com/video/BV1Fmnq6bE7i/) |
+| 孜然牛肉煎蛋贝果 | 1 | [2026-01-22 BV1vQzpBWEpH reviewed](https://www.bilibili.com/video/BV1vQzpBWEpH/) |
 | 寿司醋海苔拌饭 | 1 | [2026-06-16 BV17Ujg6MEt7 reviewed](https://www.bilibili.com/video/BV17Ujg6MEt7/) |
 | 寿司饭团 | 1 | [2025-12-31 BV1JsiNBMEDa](https://www.bilibili.com/video/BV1JsiNBMEDa/) |
 | 小火折叠滑蛋配黄油法棍 | 1 | [2026-10-06 BV1aDpF6mEUr reviewed](https://www.bilibili.com/video/BV1aDpF6mEUr/) |
 | 带皮甜玉米同蒸鸡蛋 | 1 | [2026-09-29 BV1yJaH6DEvb reviewed](https://www.bilibili.com/video/BV1yJaH6DEvb/) |
+| 平底锅松饼配蜂蜜或蓝莓酱 | 1 | [2026-01-25 BV1AkzSBLEmw reviewed](https://www.bilibili.com/video/BV1AkzSBLEmw/) |
 | 广式云吞面 | 6 | [2026-02-09 BV1LdcKzAEdC](https://www.bilibili.com/video/BV1LdcKzAEdC/) · [2026-02-04 BV1J6fdBzEqm](https://www.bilibili.com/video/BV1J6fdBzEqm/) · [2025-06-02 BV1vC72zHEG1](https://www.bilibili.com/video/BV1vC72zHEG1/) · [2025-04-09 BV1FPdbYFEgh](https://www.bilibili.com/video/BV1FPdbYFEgh/) · [2025-03-14 BV1kGQgYKEsC](https://www.bilibili.com/video/BV1kGQgYKEsC/) · [2025-03-10 BV1m8R3YWEjZ](https://www.bilibili.com/video/BV1m8R3YWEjZ/) |
 | 广式牛腩汤粉 | 1 | [2026-10-11 BV1hWp76FEXo reviewed](https://www.bilibili.com/video/BV1hWp76FEXo/) |
 | 广式牛腩青菜乌冬 | 1 | [2026-10-12 BV1ctpX65Eez reviewed](https://www.bilibili.com/video/BV1ctpX65Eez/) |
@@ -663,11 +666,13 @@
 | 玉米须茶 | 1 | [2025-06-24 BV1MnKgz3EFt](https://www.bilibili.com/video/BV1MnKgz3EFt/) |
 | 玉米须薏仁水 | 1 | [2026-09-29 BV1yJaH6DEvb reviewed](https://www.bilibili.com/video/BV1yJaH6DEvb/) |
 | 瓶装冰块奶咖 | 1 | [2026-06-02 BV1VwVB6YEeW reviewed](https://www.bilibili.com/video/BV1VwVB6YEeW/) |
+| 盐味黄油巧克力扁桃仁 | 1 | [2026-02-07 BV1ioFpzkEEP reviewed](https://www.bilibili.com/video/BV1ioFpzkEEP/) |
 | 红枣桂圆姜汁花胶冻 | 1 | [2026-10-30 BV1pGxY6eEi5 reviewed](https://www.bilibili.com/video/BV1pGxY6eEi5/) |
 | 红糖糯米莲藕 | 1 | [2025-10-19 BV1mJsNz3Ezs](https://www.bilibili.com/video/BV1mJsNz3Ezs/) |
 | 红豆薏仁水 | 3 | [2026-04-23 BV199oaBRENa](https://www.bilibili.com/video/BV199oaBRENa/) · [2025-09-08 BV1rraRzREhW](https://www.bilibili.com/video/BV1rraRzREhW/) · [2025-05-12 BV1dVELzeELz](https://www.bilibili.com/video/BV1dVELzeELz/) |
 | 罗汉果桂圆茶 | 1 | [2025-11-02 BV1dYyoBAEDA](https://www.bilibili.com/video/BV1dYyoBAEDA/) |
 | 肉桂奇亚籽可可热奶 | 1 | [2026-10-06 BV1aDpF6mEUr reviewed](https://www.bilibili.com/video/BV1aDpF6mEUr/) |
+| 肉桂盐味热可可 | 1 | [2026-01-22 BV1vQzpBWEpH reviewed](https://www.bilibili.com/video/BV1vQzpBWEpH/) |
 | 芒果奶昔 | 8 | [2026-06-20 BV1hijE6EEVE](https://www.bilibili.com/video/BV1hijE6EEVE/) · [2026-06-17 BV1aXLR6JETV](https://www.bilibili.com/video/BV1aXLR6JETV/) · [2025-09-07 BV1MoY3zSEQc](https://www.bilibili.com/video/BV1MoY3zSEQc/) · [2025-07-19 BV1VQu9zSEbY](https://www.bilibili.com/video/BV1VQu9zSEbY/) · [2025-07-03 BV1MF3YzQEuX](https://www.bilibili.com/video/BV1MF3YzQEuX/) · [2025-07-02 BV1dG3sz6EPy](https://www.bilibili.com/video/BV1dG3sz6EPy/) · [2025-05-20 BV1oSEfzZEzX](https://www.bilibili.com/video/BV1oSEfzZEzX/) · [2025-05-08 BV1s25KzjEV9](https://www.bilibili.com/video/BV1s25KzjEV9/) |
 | 芒果西米露 | 5 | [2026-06-07 BV1M8Es6vE2S](https://www.bilibili.com/video/BV1M8Es6vE2S/) · [2026-06-02 BV18UVB6cEyP](https://www.bilibili.com/video/BV18UVB6cEyP/) · [2026-06-01 BV1G6Vo6JEco](https://www.bilibili.com/video/BV1G6Vo6JEco/) · [2025-10-10 BV1bz4EzXEa7](https://www.bilibili.com/video/BV1bz4EzXEa7/) · [2025-05-31 BV1837cz1EP1](https://www.bilibili.com/video/BV1837cz1EP1/) |
 | 花胶炖牛奶 | 1 | [2025-10-28 BV12zyzBNEeH](https://www.bilibili.com/video/BV12zyzBNEeH/) |
@@ -676,6 +681,7 @@
 | 蒸南瓜拌酒酿 | 1 | [2026-05-11 BV1EB5x6VEah reviewed](https://www.bilibili.com/video/BV1EB5x6VEah/) |
 | 蓝莓坚果可可酸奶碗 | 1 | [2026-10-26 BV15Nn96wEUz reviewed](https://www.bilibili.com/video/BV15Nn96wEUz/) |
 | 蓝莓奶昔 | 10 | [2026-08-07 BV1uou46HEo2](https://www.bilibili.com/video/BV1uou46HEo2/) · [2026-01-27 BV13Z6KBuEag](https://www.bilibili.com/video/BV13Z6KBuEag/) · [2025-10-12 BV1bJ4MzdEaL](https://www.bilibili.com/video/BV1bJ4MzdEaL/) · [2025-08-02 BV1sFh8z9Eq3](https://www.bilibili.com/video/BV1sFh8z9Eq3/) · [2025-07-25 BV1mZbDz2EsG](https://www.bilibili.com/video/BV1mZbDz2EsG/) · [2025-07-22 BV1Crgnz3EEH](https://www.bilibili.com/video/BV1Crgnz3EEH/) · [2025-05-24 BV1Z8jszoET5](https://www.bilibili.com/video/BV1Z8jszoET5/) · [2025-04-19 BV1p75HzHEaU](https://www.bilibili.com/video/BV1p75HzHEaU/) · [2025-04-05 BV1TNR9YrEut](https://www.bilibili.com/video/BV1TNR9YrEut/) · [2025-03-30 BV1ewZvYrEec](https://www.bilibili.com/video/BV1ewZvYrEec/) |
+| 蜂蜜糖浆黄油巧克力扁桃仁 | 1 | [2026-02-07 BV1ioFpzkEEP reviewed](https://www.bilibili.com/video/BV1ioFpzkEEP/) |
 | 西米露 | 3 | [2026-07-04 BV1jTMw6REnd](https://www.bilibili.com/video/BV1jTMw6REnd/) · [2025-07-17 BV1EcgNzWEe2](https://www.bilibili.com/video/BV1EcgNzWEe2/) · [2025-05-20 BV1oSEfzZEzX](https://www.bilibili.com/video/BV1oSEfzZEzX/) |
 | 赤小豆薏仁茶 | 4 | [2025-11-14 BV17uCKB9Emd](https://www.bilibili.com/video/BV17uCKB9Emd/) · [2025-09-25 BV1oNnxzqEZW](https://www.bilibili.com/video/BV1oNnxzqEZW/) · [2025-09-08 BV1pRaQzJEK6](https://www.bilibili.com/video/BV1pRaQzJEK6/) · [2025-06-16 BV1w9MvzkE8Z](https://www.bilibili.com/video/BV1w9MvzkE8Z/) |
 | 酸奶碗 | 4 | [2026-02-01 BV1Kr6xBQEDx](https://www.bilibili.com/video/BV1Kr6xBQEDx/) · [2026-01-27 BV1X66uB7EYc](https://www.bilibili.com/video/BV1X66uB7EYc/) · [2026-01-21 BV1XRz3BQEzj](https://www.bilibili.com/video/BV1XRz3BQEzj/) · [2025-02-20 BV13pAJe6EV3](https://www.bilibili.com/video/BV13pAJe6EV3/) |
@@ -683,6 +689,7 @@
 | 陈皮红豆沙 | 2 | [2025-06-11 BV11oMEzvEvu](https://www.bilibili.com/video/BV11oMEzvEvu/) · [2025-04-05 BV1TNR9YrEut](https://www.bilibili.com/video/BV1TNR9YrEut/) |
 | 陈皮老姜禾秆草水 | 1 | [2026-10-19 BV1LnnE6PESq reviewed](https://www.bilibili.com/video/BV1LnnE6PESq/) |
 | 香蕉奶昔 | 1 | [2025-11-01 BV15C1GBrE1i](https://www.bilibili.com/video/BV15C1GBrE1i/) |
+| 黄油冷冻蓝莓酱 | 1 | [2026-01-25 BV1AkzSBLEmw reviewed](https://www.bilibili.com/video/BV1AkzSBLEmw/) |
 | 黄油牛奶咖啡 | 1 | [2026-10-22 BV1vgn26yER7 reviewed](https://www.bilibili.com/video/BV1vgn26yER7/) |
 
 ## Sauces and meal preparation
@@ -694,6 +701,7 @@
 | 卤汁分装冷冻 | 1 | [2026-10-18 BV1NWnM6HEb3 reviewed](https://www.bilibili.com/video/BV1NWnM6HEb3/) |
 | 叉烧风味猪肉提前腌制 | 1 | [2026-10-09 BV179pb6uEDX reviewed](https://www.bilibili.com/video/BV179pb6uEDX/) |
 | 基础炒牛肉腌法 | 1 | [2026-10-25 BV1rKHV6wEzs reviewed](https://www.bilibili.com/video/BV1rKHV6wEzs/) |
+| 奇亚籽温水泡发 | 1 | [2026-01-25 BV1AkzSBLEmw reviewed](https://www.bilibili.com/video/BV1AkzSBLEmw/) |
 | 姜葱酱 | 1 | [2026-06-25 BV1sr7a6jECM](https://www.bilibili.com/video/BV1sr7a6jECM/) |
 | 广式牛腩酱料 | 1 | [2026-01-19 BV16WkYBPE2m](https://www.bilibili.com/video/BV16WkYBPE2m/) |
 | 汉堡酱 | 1 | [2026-07-27 BV19XgZ6EExp](https://www.bilibili.com/video/BV19XgZ6EExp/) |

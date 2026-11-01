@@ -99,3 +99,41 @@
 - Content commit `2fca14045f7f9ab4b9e03206ae522b9c6f56f8eb` was pushed successfully. A live remote-head check matches the local commit, covering 190 tracked files.
 - Added eight reviewed cooking videos and 25 recipes, with two non-cooking exclusions. Totals are 63 reviewed videos, 198 recipes, 10 preparation methods and 1,155 videos awaiting review.
 - Original videos, complete subtitles and browser-session material remain in the local source directory. This publication confirmation was added after the content push succeeded.
+
+## 2026-11-02 01:01 Save individual review of BV16ucMzGE1C
+
+- Following the user's instruction, finish and save each video before moving to the next. Batch `20261102_01` is 1/5 complete.
+- Added 1 recipes and 0 preparation methods; synchronized both languages, indexes and progress. Unstated source parameters remain unknown.
+- Totals: 64 reviewed cooking videos, 199 recipes, 10 preparation methods and 1154 videos awaiting review.
+- Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
+
+## 2026-11-02 01:31 Save individual review of BV1ioFpzkEEP
+
+- Following the user's instruction, finish and save each video before moving to the next. Batch `20261102_01` is 2/5 complete.
+- Added 2 recipes and 0 preparation methods; synchronized both languages, indexes and progress. Unstated source parameters remain unknown.
+- Totals: 65 reviewed cooking videos, 201 recipes, 10 preparation methods and 1153 videos awaiting review.
+- Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
+
+## 2026-11-02 02:03 Save individual review of BV1AkzSBLEmw
+
+- Following the user's instruction, finish and save each video before moving to the next. Batch `20261102_01` is 3/5 complete.
+- Added 2 recipes and 1 preparation methods; synchronized both languages, indexes and progress. Unstated source parameters remain unknown.
+- Totals: 66 reviewed cooking videos, 203 recipes, 11 preparation methods and 1152 videos awaiting review.
+- Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
+
+## 2026-11-02 02:24 Save individual review of BV1vQzpBWEpH
+
+- Following the user's instruction, finish and save each video before moving to the next. Batch `20261102_01` is 4/5 complete.
+- Added 2 recipes and 0 preparation methods; synchronized both languages, indexes and progress. Unstated source parameters remain unknown.
+- Totals: 67 reviewed cooking videos, 205 recipes, 11 preparation methods and 1151 videos awaiting review.
+- Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
+
+## 2026-11-02 02:40 Complete individual-video batch 20261102_01
+
+- Reviewed and saved five videos one at a time. Added four cooking videos, seven recipes and one warm-water chia-soaking method. Excluded creator-filming/income discussion `BV1AAksB2Ep4` with its source and reason retained.
+- Used text first and reduced visual previews as needed. The final non-cooking video was checked through on-screen captions and a 12-second visual overview; the sampling method is explicitly recorded.
+- Retained explicit parameters including one egg, 100 ml milk and one minute for bagel reheating. Unconfirmed powder, white ingredients, cup contents and ratios remain unknown.
+- Totals: 67 reviewed cooking videos, 205 recipes and 11 preparation methods; 1,217 main-list videos, nine exclusions and 1,150 videos pending review. Next priority video: `BV1okieBEEqT`.
+- Synchronized both languages, recipes, indexes, exclusions and progress. This batch will be published after final validation.
+
+- 02:46 Validated the five source CIDs, file hashes and actual durations, 216 recipe/preparation registry entries and local links in 148 Markdown files. New paired step counts and time ranges match, with no broken links.

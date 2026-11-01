@@ -5623,10 +5623,10 @@
     "published_date": "2026-02-09",
     "published_at": "2026-02-09T17:16:08+08:00",
     "duration_seconds": 132,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "柠檬橄榄油卤牛肉鸡蛋牛油果沙拉",
+    "categories": "牛羊肉",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 440,
@@ -5688,10 +5688,10 @@
     "published_date": "2026-02-07",
     "published_at": "2026-02-07T12:42:25+08:00",
     "duration_seconds": 163,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "盐味黄油巧克力扁桃仁；蜂蜜糖浆黄油巧克力扁桃仁",
+    "categories": "甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 445,
@@ -6052,10 +6052,10 @@
     "published_date": "2026-01-25",
     "published_at": "2026-01-25T11:57:21+08:00",
     "duration_seconds": 170,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "平底锅松饼配蜂蜜或蓝莓酱；黄油冷冻蓝莓酱；奇亚籽温水泡发",
+    "categories": "米饭面点；甜品饮品；调味与备餐",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 473,
@@ -6156,10 +6156,10 @@
     "published_date": "2026-01-22",
     "published_at": "2026-01-22T11:41:26+08:00",
     "duration_seconds": 161,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "肉桂盐味热可可；孜然牛肉煎蛋贝果",
+    "categories": "甜品饮品；米饭面点",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 481,
@@ -6250,19 +6250,6 @@
     "status": "title_cooking_lead",
     "dishes": "广式牛腩；广式牛腩酱料",
     "categories": "牛羊肉；调味与备餐",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
-  },
-  {
-    "catalogue_id": 488,
-    "bvid": "BV1AAksB2Ep4",
-    "title": "自媒体不是非要花大价钱买设备、学技巧，核心就是真实+坚持，花最少的钱，把能赚的钱都赚了，这才是普通人做自媒体的核心逻辑。#自媒体创业 #短视频怎么拍才有流量",
-    "url": "https://www.bilibili.com/video/BV1AAksB2Ep4/",
-    "published_date": "2026-01-18",
-    "published_at": "2026-01-18T10:14:27+08:00",
-    "duration_seconds": 312,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
     "source_basis": "原标题线索，尚未逐条核对视频内容"
   },
   {

@@ -190,7 +190,7 @@ for lang in ['zh','en']:
     write(f'docs/DISH_INDEX{suffix}.md',text)
 
     text=f"[{'中文' if en else 'English'}](EXCLUDED{'' if en else '.en'}.md)\n\n# {'Excluded videos' if en else '已剔除的视频'}\n\n"
-    text+=('These videos are excluded from the main list and dish index. Review used titles, available subtitles, and scenes sampled every four or five seconds across the full duration, not frame-by-frame viewing. The per-video method is recorded in data/excluded.json. Links and reasons remain available for rechecking.\n\n' if en else '以下条目已从主清单和菜名索引剔除。核对使用原标题、可用字幕及覆盖全时段的4或5秒间隔画面抽查，并非逐帧观看；各条具体方法记在data/excluded.json，保留链接与理由以便复查。\n\n')
+    text+=('These videos are excluded from the main list and dish index. Review used titles, available subtitles, and scenes sampled at fixed intervals across the full duration, not frame-by-frame viewing. The per-video method and interval are recorded in data/excluded.json. Links and reasons remain available for rechecking.\n\n' if en else '以下条目已从主清单和菜名索引剔除。核对使用原标题、可用字幕及覆盖全时段的定间隔画面抽查，并非逐帧观看；各条具体方法和间隔记在data/excluded.json，保留链接与理由以便复查。\n\n')
     text+=('| Video | Reason |\n|---|---|\n' if en else '| 视频 | 剔除原因 |\n|---|---|\n')
     for r in E:text+=f"| [{cell(r['title'])}]({r['url']}) | {r['reason_en'] if en else r['reason']} |\n"
     write(f'docs/EXCLUDED{suffix}.md',text)
