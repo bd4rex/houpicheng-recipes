@@ -32,17 +32,22 @@ ALIASES={
 }
 REMOVED_CANON={'白切肉','油浸番茄'}
 EXCLUDED={
+ 'BV14iXoBzEY1':('锅底去污及厨房清洁经验介绍；4秒间隔全时段画面和画面内字幕抽查未见食材制作过程。','Pan-bottom stain removal and kitchen-cleaning discussion; four-second visual sampling across the video and on-screen captions show no food preparation.'),
  'BV1SYA3zgEtk':('香港观光巴士与旅行路线，全时段画面抽查未见做菜。','Hong Kong sightseeing bus and travel route; no cooking found in sampled scenes across the full duration.'),
  'BV1KMZjBNEVp':('香港外出用餐和购物记录，全时段画面抽查未见做菜。','Hong Kong dining and shopping diary; no cooking found in sampled scenes across the full duration.'),
  'BV1LHtpzyEBD':('香港澳门交通、住宿、购物与外出用餐，全时段画面抽查未见做菜。','Hong Kong and Macao transport, hotels, shopping and dining; no cooking found in sampled scenes across the full duration.'),
  'BV1Votjz4EEw':('酒店与旅行提醒，展示吃杯面而无菜谱制作过程。','Hotel and travel tips; eating instant noodles, with no recipe preparation shown.'),
  'BV1QMHx6EEZB':('直播聊天讲述账号名字与买橙经历，完整字幕及全时段画面抽查未见做菜。','Livestream conversation about the account name and an orange purchase; no cooking found in the complete subtitles or sampled scenes across the full duration.'),
  'BV1XPad6fEZn':('锅底去油垢清洁示范，全时段画面抽查未见食材或做菜过程。','Demonstration of removing grease from pan bottoms; no ingredients or cooking found in sampled scenes across the full duration.'),
+ 'BV1yZjo6mEko':('餐具、厨具和砧板的尺寸、价格及使用感受介绍；4秒间隔全时段画面及画面内字幕抽查未见做菜过程。','Kitchenware, tableware and chopping-board sizes, prices and usage impressions; four-second visual sampling across the full duration and on-screen captions show no cooking process.'),
 }
 EXCLUDED_REVIEW_METHOD={
+ 'BV14iXoBzEY1':'原标题、4秒间隔全时段画面及画面内字幕抽查',
  'BV1QMHx6EEZB':'完整中文字幕与4秒间隔全时段画面抽查',
  'BV1XPad6fEZn':'原标题与4秒间隔全时段画面抽查',
+ 'BV1yZjo6mEko':'4秒间隔全时段画面与画面内字幕抽查；错配的独立字幕已弃用',
 }
+EXCLUDED_REVIEW_DATE={'BV1yZjo6mEko':'2026-11-01','BV14iXoBzEY1':'2026-11-01'}
 SAMPLE='BV12D4FzaEDY'
 TITLE_COMPARISON_EXCLUSIONS={'BV1yaxe6zEkP':{'猪肚鸡'}}
 SAMPLE_DISHES={'烤青花鱼':'00:04–00:26；02:08–02:18','姜葱炒鸡':'01:08–01:18；01:39–02:08','葱香虾球':'01:19–01:38','蒜蓉淋汁青菜':'00:26–00:42','蒜香干辣椒炒包菜':'00:43–01:07'}
@@ -74,7 +79,7 @@ def main():
         bvid=v['bv_id'];title=v['title'];date=datetime.fromtimestamp(v['pubtime'],ZoneInfo('Asia/Shanghai'))
         base={'catalogue_id':n,'bvid':bvid,'title':title,'url':f'https://www.bilibili.com/video/{bvid}/','published_date':date.strftime('%Y-%m-%d'),'published_at':date.isoformat(),'duration_seconds':v['duration']}
         if bvid in EXCLUDED:
-            excluded.append({**base,'reason':EXCLUDED[bvid][0],'reason_en':EXCLUDED[bvid][1],'review_method':EXCLUDED_REVIEW_METHOD.get(bvid,'标题与5秒间隔全时段场景抽查'),'reviewed_on':'2026-10-31'})
+            excluded.append({**base,'reason':EXCLUDED[bvid][0],'reason_en':EXCLUDED[bvid][1],'review_method':EXCLUDED_REVIEW_METHOD.get(bvid,'标题与5秒间隔全时段场景抽查'),'reviewed_on':EXCLUDED_REVIEW_DATE.get(bvid,'2026-10-31')})
             continue
         matches=[]
         for d in dictionary:

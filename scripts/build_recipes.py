@@ -37,7 +37,12 @@ def main():
             text=f'[{"中文" if en else "English"}]({other})\n\n'
             text+=f'# {"Recipes from this video" if en else "本期菜谱"}\n\n'
             text+=f'[{original["title"]}]({url})\n\n'
-            text+=(f'Published {date}. Subtitles, visual overviews and key details were reviewed. Missing source parameters remain explicit.\n\n' if en else f'发布于 {date}。已核对字幕、全片画面概览及关键细节；原片未明确的参数保留缺项。\n\n')
+            review_method=v.get('review_method_en' if en else 'review_method')
+            if review_method:
+                assert v.get('review_method') and v.get('review_method_en'), 'Review method needs both languages'
+                text+=(f'Published {date}. {review_method}\n\n' if en else f'发布于 {date}。{review_method}\n\n')
+            else:
+                text+=(f'Published {date}. Subtitles, visual overviews and key details were reviewed. Missing source parameters remain explicit.\n\n' if en else f'发布于 {date}。已核对字幕、全片画面概览及关键细节；原片未明确的参数保留缺项。\n\n')
             text+=f'[{"Recipe directory" if en else "返回菜谱目录"}](INDEX{suffix}.md)\n\n'
             for n,r in enumerate(v['recipes'],1):
                 t=tr[n-1] if en else r

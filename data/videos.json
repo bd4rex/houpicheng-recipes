@@ -1580,10 +1580,10 @@
     "published_date": "2026-08-10",
     "published_at": "2026-08-10T20:25:20+08:00",
     "duration_seconds": 180,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "彩椒土豆咖喱鸡；平底锅芝士焗开背虾；黄脚立泥鯭鱿鱼汤；搅拌杯西瓜汁",
+    "categories": "鸡鸭禽肉；鱼虾海鲜；汤羹粥；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 125,
@@ -2061,10 +2061,10 @@
     "published_date": "2026-07-17",
     "published_at": "2026-07-17T20:43:31+08:00",
     "duration_seconds": 133,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "冬瓜玉米薏仁瘦肉汤；陈皮蒸鱼同蒸鱿鱼；肉末青菜玉米炒饭；熟牛腩生菜捞粗面",
+    "categories": "汤羹粥；鱼虾海鲜；米饭面点",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 162,
@@ -2126,10 +2126,10 @@
     "published_date": "2026-07-11",
     "published_at": "2026-07-11T11:04:22+08:00",
     "duration_seconds": 112,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "茅根竹蔗玉米马蹄水同锅蒸蛋；白灼菜心配煎肉肠",
+    "categories": "甜品饮品；蛋豆蔬菜",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 167,
@@ -2444,19 +2444,6 @@
     "source_basis": "原标题线索，尚未逐条核对视频内容"
   },
   {
-    "catalogue_id": 191,
-    "bvid": "BV1yZjo6mEko",
-    "title": "好用不贵厨房好物分享#厨房好物 #厚皮橙 #餐具 #厨具",
-    "url": "https://www.bilibili.com/video/BV1yZjo6mEko/",
-    "published_date": "2026-06-24",
-    "published_at": "2026-06-24T21:49:20+08:00",
-    "duration_seconds": 455,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
-  },
-  {
     "catalogue_id": 192,
     "bvid": "BV1oSj96xEKR",
     "title": "多吃长肌肉少吃掉秤，学生快手高蛋白早餐｜牛肉饼鸡腿扒三明治#学生早餐 #早八人早餐 #便携三明治 #厨房好物分享",
@@ -2633,10 +2620,10 @@
     "published_date": "2026-06-16",
     "published_at": "2026-06-16T19:43:04+08:00",
     "duration_seconds": 172,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "姜葱砂锅焗鱼；沙姜鸡腿啫啫煲；电饭锅同蒸鸡蛋羹；咸蛋瘦肉生菜汤；寿司醋海苔拌饭",
+    "categories": "鱼虾海鲜；鸡鸭禽肉；蛋豆蔬菜；汤羹粥；米饭面点",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 206,
@@ -2945,10 +2932,10 @@
     "published_date": "2026-06-02",
     "published_at": "2026-06-02T12:33:53+08:00",
     "duration_seconds": 157,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "酸奶罐头鱼鸡蛋沙拉法棍；瓶装冰块奶咖",
+    "categories": "米饭面点；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 230,
@@ -3426,10 +3413,10 @@
     "published_date": "2026-05-11",
     "published_at": "2026-05-11T19:11:57+08:00",
     "duration_seconds": 146,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "蒜瓣香煎牛排；三文鱼生菜胡萝卜拌饭；黑胡椒盐拌花菜木耳胡萝卜；蒸南瓜拌酒酿",
+    "categories": "牛羊肉；米饭面点；蛋豆蔬菜；甜品饮品",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 267,
@@ -4498,19 +4485,6 @@
     "source_basis": "原标题线索，尚未逐条核对视频内容"
   },
   {
-    "catalogue_id": 349,
-    "bvid": "BV14iXoBzEY1",
-    "title": "如果你有锅底很难清洗的烦恼试试这个，有效，但有异味记得带口罩手套通风操作（烧热不用非常热，太热油污净喷上去就挥发了）#锅底黑垢怎么去除 #厨房小妙招",
-    "url": "https://www.bilibili.com/video/BV14iXoBzEY1/",
-    "published_date": "2026-03-30",
-    "published_at": "2026-03-30T10:13:27+08:00",
-    "duration_seconds": 61,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
-  },
-  {
     "catalogue_id": 350,
     "bvid": "BV1RGXXBzErD",
     "title": "排骨汤这样做一举三得简单又好吃，炒牛河｜醉虾｜晚餐#炒牛河#香菇排骨汤 #牛肉炒河粉",
@@ -4999,10 +4973,10 @@
     "published_date": "2026-03-09",
     "published_at": "2026-03-09T10:48:56+08:00",
     "duration_seconds": 189,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "红葱蒜香拌芹菜包菜洋葱；黄油煎面包配牛油果煎蛋",
+    "categories": "蛋豆蔬菜；米饭面点",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 389,
@@ -5480,10 +5454,10 @@
     "published_date": "2026-02-15",
     "published_at": "2026-02-15T19:13:58+08:00",
     "duration_seconds": 107,
-    "status": "needs_content_review",
-    "dishes": "",
-    "categories": "",
-    "source_basis": "原标题线索，尚未逐条核对视频内容"
+    "status": "verified_cooking",
+    "dishes": "萝卜海鲜鲍汁盆菜；西洋菜陈肾瘦肉炖汤",
+    "categories": "鱼虾海鲜；汤羹粥",
+    "source_basis": "视频字幕与画面已核对"
   },
   {
     "catalogue_id": 426,

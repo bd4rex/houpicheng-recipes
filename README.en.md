@@ -10,17 +10,17 @@ The catalogue snapshot was collected on 2026-10-31, when pagination of accessibl
 
 | Item | Count | Meaning |
 |---|---:|---|
-| Main list | 1,220 | Reviewed non-cooking items removed; remaining content still needs individual review |
-| Excluded | 6 | Travel, hotels, dining out, conversation or cleaning without cooking |
-| Dish and preparation index terms | 637 | Mostly from original titles; this is not a count of completed recipes |
-| Dish-to-video references | 1,802 | One video may contain several dishes |
-| Recipe videos reviewed | 55 | Subtitles cross-checked against visual content |
-| Recipes documented | 173 | Reviewed recipe entries; variations are retained separately |
+| Main list | 1,218 | Reviewed non-cooking items removed; remaining content still needs individual review |
+| Excluded | 8 | Travel, hotels, dining out, conversation, cleaning or kitchenware presentations without cooking |
+| Dish and preparation index terms | 662 | Mostly from original titles; this is not a count of completed recipes |
+| Dish-to-video references | 1,827 | One video may contain several dishes |
+| Recipe videos reviewed | 63 | Subtitles cross-checked against visual content |
+| Recipes documented | 198 | Reviewed recipe entries; variations are retained separately |
 | Preparation methods | 10 | Soaking, marinating and other preparations, counted separately |
 | Cooking clues in title | 1,099 | Video content not individually verified yet |
-| Inconclusive titles | 66 | Priority content-review queue |
+| Inconclusive titles | 56 | Priority content-review queue |
 
-The main list spans 2025-02-04 through 2026-10-30. **1,165 videos remain unverified at the content level**. The list does not establish that every remaining item contains cooking.
+The main list spans 2025-02-04 through 2026-10-30. **1,155 videos remain unverified at the content level**. The list does not establish that every remaining item contains cooking.
 
 ## Browse
 
@@ -42,9 +42,10 @@ Dish names are the primary index and ingredient categories are secondary. Retain
 - `data/source_catalogue.json`: necessary public catalogue fields for 1,226 videos.
 - `data/videos.csv`, `data/videos.json`: main list after exclusions.
 - `data/dish_index.csv`, `data/dish_dictionary.json`: provisional references and normalization dictionary.
-- `data/review_queue.csv`: 66 inconclusive titles awaiting priority review.
+- `data/review_queue.csv`: 56 inconclusive titles awaiting priority review.
 - `data/excluded.csv`: exclusion reasons and original links.
 - `data/progress.json`: progress snapshot distinguishing catalogue completion from unfinished recipe extraction.
+- `data/review_batch_*.json`: batch review records with selected videos, evidence summaries, exclusion reasons and the next priority video ID.
 
 These commands rebuild derived lists and Markdown from the saved snapshot. They do not fetch new videos or change pending items to verified automatically:
 

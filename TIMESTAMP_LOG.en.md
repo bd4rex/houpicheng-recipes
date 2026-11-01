@@ -45,3 +45,50 @@
 - Distinguished the 2026-10-31 catalogue snapshot from the 2026-11-01 recipe update, so the later writing date does not imply a fresh catalogue crawl.
 - Checked BVID, CID, subtitle digests and time ranges for all 22 new cooking sources, 183 recipe or preparation anchors and the links and bilingual structure of 124 Markdown files; no broken links were found.
 - Content commit `1c991f80482a36ca2b4e76e2bd04b5b07db85016` was pushed to remote `main`; the remote commit matched and all 168 file blob hashes matched locally.
+
+## 2026-11-01 16:19 Review five videos from the priority queue
+
+- Local baseline: `cf7a188`. Continued with the first five entries in the previous priority queue, under batch `20261101_02`.
+- Four cooking videos added 15 recipes; one kitchenware presentation was excluded with its reason retained. `BV1beuZ6BEgP` has a rights-dispute title but actually contains cooking, so it was retained and documented.
+- Totals: 59 reviewed cooking videos, 188 recipes and 10 preparation methods. The main list has 1,219 videos, with seven exclusions, 1,160 videos still awaiting content review and 61 in the priority queue.
+- Reviewed visual overviews sampled every four seconds across this batch and key frames. Three cooking videos were checked through on-screen captions; the fourth also had usable standalone Chinese subtitles. Mismatched subtitle files returned for three videos were rejected. The automatic subtitle naming almonds was corrected to Job’s tears using the source screen text.
+- Already-plated salad and layered cake were not counted as new recipes. A three-minute clay-pot timer was not treated as a complete universal cooking duration. Unconfirmed ingredients, liquids, ratios and heat remain unknown.
+- Synchronized Chinese and English recipes, indexes, exclusions and progress. The index now contains 652 dish/preparation terms and 1,817 video references. Evidence summaries and the continuation ID are saved in `data/review_batch_20261101_02.json`; the next priority video is `BV1VwVB6YEeW`.
+- Validated 198 recipe/preparation registry entries, local links in 132 Markdown files, and time ranges and paired step counts for all 15 new recipes, with no broken links. Raw subtitles and videos remain only in the sibling source-material directory.
+- Saved locally only; no Git commit or remote push was performed for this batch.
+
+## 2026-11-01 18:52 Save individual review of BV1VwVB6YEeW
+
+- Following the user's instruction, finish and save each video before moving to the next. Batch `20261101_03` is 1/5 complete.
+- Added 2 recipes and 0 preparation methods; synchronized both languages, indexes and progress. Unstated source parameters remain unknown.
+- Totals: 60 reviewed cooking videos, 190 recipes, 10 preparation methods and 1159 videos awaiting review.
+- Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
+
+## 2026-11-01 19:29 Save individual review of BV1EB5x6VEah
+
+- Following the user's instruction, finish and save each video before moving to the next. Batch `20261101_03` is 2/5 complete.
+- Added 4 recipes and 0 preparation methods; synchronized both languages, indexes and progress. Unstated source parameters remain unknown.
+- Totals: 61 reviewed cooking videos, 194 recipes, 10 preparation methods and 1158 videos awaiting review.
+- Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
+
+## 2026-11-01 19:42 Exclude individually reviewed video BV14iXoBzEY1
+
+- Checked this video alone using four-second visual sampling across its duration and on-screen captions. It covers pan and kitchen cleaning without food preparation; the exclusion reason and evidence hash are saved.
+- Batch `20261101_03` is 3/5 complete. Totals: eight exclusions, 1,218 main-list videos, 61 reviewed cooking videos, 194 recipes, 10 preparation methods and 1,157 videos pending review.
+- Synchronized both languages, exclusions, catalogue and progress. Removed this entry from the main and priority lists. Saved locally without pushing.
+
+## 2026-11-01 20:34 Save individual review of BV1DsPmzLEhQ
+
+- Following the user's instruction, finish and save each video before moving to the next. Batch `20261101_03` is 4/5 complete.
+- Added 2 recipes and 0 preparation methods; synchronized both languages, indexes and progress. Unstated source parameters remain unknown.
+- Totals: 62 reviewed cooking videos, 196 recipes, 10 preparation methods and 1156 videos awaiting review.
+- Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
+
+## 2026-11-01 22:25 Save individual review of BV1qpZxB2E9h
+
+- Following the user's instruction, finish and save each video before moving to the next. Batch `20261101_03` is 5/5 complete.
+- Added 2 recipes and 0 preparation methods; synchronized both languages, indexes and progress. Unstated source parameters remain unknown.
+- Totals: 63 reviewed cooking videos, 198 recipes, 10 preparation methods and 1155 videos awaiting review.
+- Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
+
+- 22:36 All five videos in this batch have been saved individually: four cooking videos, 10 recipes and one cleaning-video exclusion. Verified five source hashes/durations, 208 registry entries and local links in 140 Markdown files, with no broken links. Next priority video: `BV16ucMzGE1C`.

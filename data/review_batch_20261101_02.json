@@ -1,0 +1,121 @@
+{
+  "batch_id": "20261101_02",
+  "completed_at": "2026-11-01T16:19:44+08:00",
+  "status": "completed",
+  "selection": "更新前 data/review_queue.csv 中的前5条未核验视频",
+  "baseline_commit": "cf7a188",
+  "processed_videos": 5,
+  "new_recipe_videos": 4,
+  "new_recipes": 15,
+  "new_preparations": 0,
+  "new_exclusions": 1,
+  "videos": [
+    {
+      "bvid": "BV1beuZ6BEgP",
+      "cid": 40783514477,
+      "source_url": "https://www.bilibili.com/video/BV1beuZ6BEgP/",
+      "decision": "verified_cooking",
+      "new_recipes": 4,
+      "evidence": {
+        "video_sha256": "69ec995f6da244aae92958d80236bac4d2f5a39b980111bc93fb04d2e7f3d5b4",
+        "video_duration_seconds": 179.933,
+        "visual_overview_interval_seconds": 4,
+        "visual_overview_frames": 45,
+        "source_directory_relative_to_raw_materials": "work/recipe_review/BV1beuZ6BEgP",
+        "subtitle_method": "原片画面内嵌字幕；未采用独立字幕文件。",
+        "on_screen_caption_sampling_seconds": 1,
+        "local_ocr_sha256": "6c75e081edefab129f1d8751568bf06340b78bb3bb3031d84a42087c9d0976fe",
+        "ocr_is_auxiliary": true,
+        "rejected_subtitle_reason": "独立字幕超过本片时长，且内容为无关手机话题；未使用。"
+      }
+    },
+    {
+      "bvid": "BV1hDNR6sEED",
+      "cid": 40017594006,
+      "source_url": "https://www.bilibili.com/video/BV1hDNR6sEED/",
+      "decision": "verified_cooking",
+      "new_recipes": 4,
+      "evidence": {
+        "video_sha256": "7d26040fbcb37c84f6e84d2ff0e890a20046055ef681ddb1ac52894f20241465",
+        "video_duration_seconds": 132.667,
+        "visual_overview_interval_seconds": 4,
+        "visual_overview_frames": 33,
+        "source_directory_relative_to_raw_materials": "work/recipe_review/BV1hDNR6sEED",
+        "standalone_subtitle_sha256": "23e5742158e3533eb0a833479b95ffc6f21c8d193d0be103d73cb1d8105473d0",
+        "subtitle_method": "中文字幕与原片内嵌字幕、画面交叉核对；杏仁误识别已按画面纠正为薏仁。"
+      }
+    },
+    {
+      "bvid": "BV1cRNW6HEjm",
+      "cid": 39839859257,
+      "source_url": "https://www.bilibili.com/video/BV1cRNW6HEjm/",
+      "decision": "verified_cooking",
+      "new_recipes": 2,
+      "evidence": {
+        "video_sha256": "5f63008b6bef8ea2616dcbc1fe68c112a8b72cc1dacef11d6844c4c14d8da24e",
+        "video_duration_seconds": 111.107,
+        "visual_overview_interval_seconds": 4,
+        "visual_overview_frames": 28,
+        "source_directory_relative_to_raw_materials": "work/recipe_review/BV1cRNW6HEjm",
+        "subtitle_method": "原片画面内嵌字幕；未采用独立字幕文件。",
+        "on_screen_caption_sampling_seconds": 1,
+        "local_ocr_sha256": "c27df71528ea36e418f8a2f48e5c1066d5c3484b0ad4ad61561e8a2ed5c09e95",
+        "ocr_is_auxiliary": true,
+        "rejected_subtitle_reason": "独立字幕轨道内容与本片不符且超时；未使用。"
+      }
+    },
+    {
+      "bvid": "BV1yZjo6mEko",
+      "cid": 39373635766,
+      "source_url": "https://www.bilibili.com/video/BV1yZjo6mEko/",
+      "decision": "excluded_non_cooking",
+      "new_recipes": 0,
+      "evidence": {
+        "video_sha256": "bf857fa53d4aa4f4c07fc0d63c89266b8de2a571f291d17b750af1afc164e4cf",
+        "video_duration_seconds": 454.067,
+        "visual_overview_interval_seconds": 4,
+        "visual_overview_frames": 114,
+        "source_directory_relative_to_raw_materials": "work/recipe_review/BV1yZjo6mEko",
+        "subtitle_method": "原片画面内嵌字幕；未采用独立字幕文件。",
+        "rejected_subtitle_reason": "独立字幕讨论无关服装话题，即使未超过视频总长也不可采用。"
+      }
+    },
+    {
+      "bvid": "BV17Ujg6MEt7",
+      "cid": 39164248572,
+      "source_url": "https://www.bilibili.com/video/BV17Ujg6MEt7/",
+      "decision": "verified_cooking",
+      "new_recipes": 5,
+      "evidence": {
+        "video_sha256": "b91d0a7c4c330990eb820b556be519a2ea8093f3edb9b31aa8060de2312c8ddc",
+        "video_duration_seconds": 171.6,
+        "visual_overview_interval_seconds": 4,
+        "visual_overview_frames": 43,
+        "source_directory_relative_to_raw_materials": "work/recipe_review/BV17Ujg6MEt7",
+        "subtitle_method": "原片画面内嵌字幕；未采用独立字幕文件。",
+        "on_screen_caption_sampling_seconds": 1,
+        "local_ocr_sha256": "66a024b6365e29268cd9affa2c972f82a294c4937b3848e8ab8255c05f549e40",
+        "ocr_is_auxiliary": true,
+        "standalone_subtitle_capture_note": "浏览器字幕元数据未成功保存；仅用已下载原片的画面内嵌字幕和关键帧核验。"
+      }
+    }
+  ],
+  "progress_after": {
+    "main_list_count": 1219,
+    "excluded_count": 7,
+    "reviewed_recipe_videos": 59,
+    "reviewed_recipes": 188,
+    "reviewed_preparations": 10,
+    "unreviewed_content_count": 1160
+  },
+  "next_priority_bvid": "BV1VwVB6YEeW",
+  "raw_materials_directory": "../厚皮橙菜谱整理_20261031",
+  "publication_status": "Saved locally; no Git commit or remote push performed in this batch.",
+  "validation": {
+    "registry_entries": 198,
+    "markdown_files": 132,
+    "broken_links": 0,
+    "new_recipe_time_ranges": "passed",
+    "bilingual_step_counts": "matched"
+  }
+}

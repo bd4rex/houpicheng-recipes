@@ -30,7 +30,7 @@ write('README.md',f'''[English](README.en.md)
 | 项目 | 数量 | 含义 |
 |---|---:|---|
 | 主清单 | {M['main_list_count']:,} | 已剔除本轮核对的非做菜视频，其他内容仍待逐条核验 |
-| 已剔除 | {M['excluded_count']} | 旅行、酒店、外出用餐、聊天或清洁等无做菜内容 |
+| 已剔除 | {M['excluded_count']} | 旅行、酒店、外出用餐、聊天、清洁或厨具介绍等无做菜内容 |
 | 菜名与备餐索引词 | {M['indexed_dish_count']} | 主要来自原标题，不是已完成菜谱数量 |
 | 菜名与视频对应关系 | {M['dish_video_links']:,} | 一条视频可以对应多道菜 |
 | 已核菜谱视频 | {M['reviewed_recipe_videos']} | 字幕和画面已交叉核对 |
@@ -64,6 +64,7 @@ write('README.md',f'''[English](README.en.md)
 - `data/review_queue.csv`：{M['status_counts']['needs_content_review']} 条标题含糊的优先待核视频。
 - `data/excluded.csv`：剔除原因和原链接。
 - `data/progress.json`：明确区分目录完成与菜谱未完成的进度快照。
+- `data/review_batch_*.json`：分批核验记录，保存本批视频、证据摘要、剔除原因和下一条优先待核编号。
 
 以下命令只重建这份快照的派生清单和 Markdown，不会抓取新视频，也不会自动把待核改为已核：
 
@@ -102,7 +103,7 @@ The catalogue snapshot was collected on {M.get('catalogue_as_of',M['as_of'])}, w
 | Item | Count | Meaning |
 |---|---:|---|
 | Main list | {M['main_list_count']:,} | Reviewed non-cooking items removed; remaining content still needs individual review |
-| Excluded | {M['excluded_count']} | Travel, hotels, dining out, conversation or cleaning without cooking |
+| Excluded | {M['excluded_count']} | Travel, hotels, dining out, conversation, cleaning or kitchenware presentations without cooking |
 | Dish and preparation index terms | {M['indexed_dish_count']} | Mostly from original titles; this is not a count of completed recipes |
 | Dish-to-video references | {M['dish_video_links']:,} | One video may contain several dishes |
 | Recipe videos reviewed | {M['reviewed_recipe_videos']} | Subtitles cross-checked against visual content |
@@ -136,6 +137,7 @@ Dish names are the primary index and ingredient categories are secondary. Retain
 - `data/review_queue.csv`: {M['status_counts']['needs_content_review']} inconclusive titles awaiting priority review.
 - `data/excluded.csv`: exclusion reasons and original links.
 - `data/progress.json`: progress snapshot distinguishing catalogue completion from unfinished recipe extraction.
+- `data/review_batch_*.json`: batch review records with selected videos, evidence summaries, exclusion reasons and the next priority video ID.
 
 These commands rebuild derived lists and Markdown from the saved snapshot. They do not fetch new videos or change pending items to verified automatically:
 

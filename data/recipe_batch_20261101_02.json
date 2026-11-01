@@ -1,0 +1,287 @@
+[
+  {
+    "bvid": "BV1beuZ6BEgP",
+    "reviewed_on": "2026-11-01",
+    "evidence": "原始标题谈维权，但画面实际包含咖喱鸡、芝士虾、杂鱼鱿鱼汤和西瓜汁。核对全时段4秒概览、1秒内嵌字幕取样及关键帧。接口字幕长达1337秒且为无关手机话题，已拒绝使用。",
+    "pending_segments": [
+      "02:04–02:20展示冰镇秋葵、熟牛肉和牛油果拼盘，并提到芥末酱油；没有展示前期制作，不另计菜谱。"
+    ],
+    "pending_segments_en": [
+      "At 02:04–02:20 a finished platter of chilled okra, cooked beef and avocado is presented with a mention of wasabi and soy sauce. Its preparation is not shown, so it is not counted separately."
+    ],
+    "recipes": [
+      {
+        "name": "彩椒土豆咖喱鸡",
+        "name_en": "Chicken curry with potatoes and peppers",
+        "category": "鸡鸭禽肉",
+        "kind": "dish",
+        "time_ranges": "00:04–00:11；00:43–01:10",
+        "ingredients": "鸡肉、土豆、胡萝卜、红黄绿彩椒、咖喱酱、盐、花生油、淀粉、姜、水；另有未逐项说明的香料。",
+        "quantities": "原片此段明确说加水焖约10分钟；鸡肉、蔬菜和咖喱酱用量未给。",
+        "steps": [
+          "鸡肉用盐、花生油、淀粉和姜拌好，先下锅煎炒，盛出备用。",
+          "锅中炒香料、胡萝卜和土豆，加入咖喱酱和水，把鸡肉倒回一起焖；本段口述约10分钟，未说明精确起算点。",
+          "加入切块彩椒继续翻拌加热后装碗，可配饭。画面后段另倒入一小碗液体，成分未说明。"
+        ],
+        "missing": "腌制时长、用火大小、香料组成、后加液体成分和最后加热时长未明确；不将其补写成椰奶或淀粉水。"
+      },
+      {
+        "name": "平底锅芝士焗开背虾",
+        "name_en": "Butterflied shrimp with melted cheese in a frying pan",
+        "category": "鱼虾海鲜",
+        "kind": "dish",
+        "time_ranges": "00:19–00:43；01:11–01:30；01:36–01:49",
+        "ingredients": "虾、油、马苏里拉奶酪；画面提示可搭配黑胡椒、盐、欧芹等。",
+        "quantities": "未给虾和奶酪的重量、煎制或加盖焗制的时长。",
+        "steps": [
+          "按画面剥去虾身外壳，保留头尾，剪开背部并去虾线。",
+          "沿展开后的虾身中部再剪断连接处，原片解释这样煎时较不容易卷起。",
+          "虾下油锅摊开煎，变色后在虾肉上放马苏里拉奶酪。",
+          "依画面加盖焗至奶酪融化后装盘；黑胡椒、盐和欧芹是屏幕列出的可选搭配，没有给固定配比。"
+        ],
+        "missing": "虾的具体规格、用油量、翻面次数、火力和固定调味组合未说明。"
+      },
+      {
+        "name": "黄脚立泥鯭鱿鱼汤",
+        "name_en": "Mixed fish and squid soup",
+        "category": "汤羹粥",
+        "kind": "dish",
+        "time_ranges": "00:12–00:18；01:30–01:36；01:50–02:02",
+        "ingredients": "黄脚立、泥鯭、鱿鱼（名称按画面字幕记录）、姜片、芹菜、水、盐、油、黑胡椒；另有浅色瓜块，品种未确认。",
+        "quantities": "只说少量油、最后一把芹菜；水量、鱼重和煮汤时长未给。",
+        "steps": [
+          "砂锅水开后放油和盐，放入切块的浅色瓜类并盖上锅盖煮。",
+          "随后把鱼、鱿鱼和可见的姜片放入汤中煮。",
+          "最后加入一把芹菜，按字幕再加黑胡椒，煮好后上桌。"
+        ],
+        "missing": "瓜的具体品种、鱼和鱿鱼的清理过程、下料后的煮制时长和火力未明确。"
+      },
+      {
+        "name": "搅拌杯西瓜汁",
+        "name_en": "Blended watermelon juice",
+        "category": "甜品饮品",
+        "kind": "dish",
+        "time_ranges": "02:22–02:33；02:43–02:49",
+        "ingredients": "西瓜、画面加入的瓶装水。",
+        "quantities": "没有给西瓜重量、加水量或搅打时间。",
+        "steps": [
+          "把西瓜瓤切挖成块，放入搅拌杯。",
+          "按画面加入瓶装水，盖好搅打后分装到杯中。"
+        ],
+        "missing": "没有明确说明是否去籽、是否加冰或加糖，不补写这些处理。"
+      }
+    ],
+    "review_method": "已核对原片画面内字幕、4秒间隔全时段画面概览及关键细节；未采用不匹配或未取得的独立字幕文件。原片未明确的参数保留缺项。",
+    "review_method_en": "On-screen captions, visual overviews sampled every four seconds, and key details were reviewed. Mismatched or unavailable standalone subtitle files were not used. Missing source parameters remain explicit."
+  },
+  {
+    "bvid": "BV1hDNR6sEED",
+    "reviewed_on": "2026-11-01",
+    "evidence": "核对30段有效中文字幕、全时段4秒画面概览及关键帧。00:04画面明确写薏仁，纠正自动字幕杏仁；不把玉米粒误记为鸡蛋。",
+    "pending_segments": [
+      "蒸层中的小盘蛋羹样食物只展示入锅和成品，未展示蛋液调配，不单独计菜谱。",
+      "牛腩是此前焖好并分装冷冻的，本期只记录与面条、生菜组合的过程，不补写牛腩卤焖配方。"
+    ],
+    "pending_segments_en": [
+      "A small dish resembling steamed egg is shown entering the steamer and as a finished dish, but mixing the egg liquid is not shown; it is not counted separately.",
+      "The beef brisket was previously braised and frozen in portions. This entry records only its combination with noodles and lettuce, not a new brisket recipe."
+    ],
+    "recipes": [
+      {
+        "name": "冬瓜玉米薏仁瘦肉汤",
+        "name_en": "Winter melon corn and Job’s tears soup with lean pork",
+        "category": "汤羹粥",
+        "kind": "dish",
+        "time_ranges": "00:00–00:11；00:57–01:05；01:08–01:13",
+        "ingredients": "带皮冬瓜、玉米、薏仁、少量瘦肉、水；收尾加入绿色香草和葱段，香草品种未口述明确。",
+        "quantities": "薏仁和瘦肉只说少量；未给总水量和煮汤时间。",
+        "steps": [
+          "带皮冬瓜和玉米放入锅中，加入薏仁、少量瘦肉和水。",
+          "锅上加蒸层，同步蒸本期鱼和鱿鱼。",
+          "煮好后把软化的冬瓜分成小块，加入画面中的绿色香草和葱段，盛汤。"
+        ],
+        "missing": "薏仁是否预泡、瘦肉腌料、盐量、火候和总时长未说明；不采用字幕误识别的杏仁。"
+      },
+      {
+        "name": "陈皮蒸鱼同蒸鱿鱼",
+        "name_en": "Fish and squid steamed with dried tangerine peel",
+        "category": "鱼虾海鲜",
+        "kind": "dish",
+        "time_ranges": "00:11–00:20；00:52–00:57；01:04–01:07",
+        "ingredients": "鱼、鱿鱼、陈皮丝；盘中可见姜丝，成品另淋加热过的调味汁。",
+        "quantities": "只说放几条鱿鱼，未给鱼重、陈皮量或蒸制时长。",
+        "steps": [
+          "鱼摆在蒸盘中，放上可见的姜丝和陈皮丝。",
+          "把鱿鱼同放入盘中，置于汤锅上方蒸层，加盖蒸。",
+          "蒸好后取出，按画面淋入另锅加热的调味汁。"
+        ],
+        "missing": "鱼的品种、鱼和鱿鱼的前处理及腌料、调味汁成分和比例、火力与时长未明确。"
+      },
+      {
+        "name": "肉末青菜玉米炒饭",
+        "name_en": "Fried rice with minced meat greens and corn",
+        "category": "米饭面点",
+        "kind": "dish",
+        "time_ranges": "00:20–00:24；00:26–00:51",
+        "ingredients": "已拌调料的肉末、切碎的青菜及菜梗、玉米粒、熟米饭、酱油类调味汁。",
+        "quantities": "米饭是前一晚煮好的；各项用量、炒制时长未给。",
+        "steps": [
+          "先把已拌调料的肉末下锅炒散。",
+          "加入切碎的青菜、菜梗和玉米粒翻炒，按画面加入酱油类调味汁。",
+          "倒入熟米饭，压散并与肉菜炒匀。"
+        ],
+        "missing": "肉末的肉类品种及完整腌料、青菜品种、米饭中深色颗粒的名称、油盐用量和火力未说明；未见本段加入鸡蛋。"
+      },
+      {
+        "name": "熟牛腩生菜捞粗面",
+        "name_en": "Thick noodles tossed with prepared beef brisket and lettuce",
+        "category": "米饭面点",
+        "kind": "dish",
+        "time_ranges": "01:34–02:12",
+        "ingredients": "预先焖好的牛腩及汁、粗面、生菜、水。",
+        "quantities": "牛腩此前已焖好并分装冷冻；未给复热、煮面或烫菜时间。",
+        "steps": [
+          "把已煮的粗面与准备好的牛腩及汁在碗中拌匀。",
+          "另锅将生菜烫熟，夹入牛腩面碗中。"
+        ],
+        "missing": "没有展示本次牛腩解冻复热及粗面下锅的完整过程；牛腩调味配方和面条份量未给。"
+      }
+    ]
+  },
+  {
+    "bvid": "BV1cRNW6HEjm",
+    "reviewed_on": "2026-11-01",
+    "evidence": "按全时段4秒概览和1秒画面内字幕核对，00:07配料文字确认玉米、胡萝卜、马蹄、茅根、竹蔗、薏仁、玉米须。接口字幕各轨道与本片不符，未采用。",
+    "pending_segments": [
+      "三色千层糕只作成品介绍，没有制作过程；水果仅展示，不单独计菜谱。",
+      "原片谈到的保健和幼儿喂食经验不作为本条制作参数或功效结论。"
+    ],
+    "pending_segments_en": [
+      "The three-color layered cake is presented already made, and fruit is only displayed; neither is counted as a recipe here.",
+      "Health and infant-feeding remarks in the source are not treated as recipe parameters or efficacy findings."
+    ],
+    "recipes": [
+      {
+        "name": "茅根竹蔗玉米马蹄水同锅蒸蛋",
+        "name_en": "Cogongrass sugarcane corn and water-chestnut drink with eggs steamed above",
+        "category": "甜品饮品",
+        "kind": "dish",
+        "time_ranges": "00:00–00:10；00:28–00:37；00:46–01:14",
+        "ingredients": "茅根、竹蔗、玉米及玉米须、胡萝卜、马蹄、薏仁、水；上层同蒸带壳鸡蛋。",
+        "quantities": "画面蒸4只带壳鸡蛋；其他数量、水量和总时间未给。",
+        "steps": [
+          "把切段的竹蔗、玉米、胡萝卜、马蹄、茅根和玉米须加入水锅，再加入薏仁。",
+          "上面放蒸层和带壳鸡蛋，加盖同煮同蒸。",
+          "煮好后捞出可食用的玉米、胡萝卜和马蹄等，汤水倒入壶和杯中；原片说放凉后饮用。"
+        ],
+        "missing": "原料清洗方法、薏仁预泡、总水量、火力、蛋的蒸制时长及是否另加糖均未说明。"
+      },
+      {
+        "name": "白灼菜心配煎肉肠",
+        "name_en": "Blanched choy sum with pan-fried sausages",
+        "category": "蛋豆蔬菜",
+        "kind": "dish",
+        "time_ranges": "00:21–00:27；00:38–00:45",
+        "ingredients": "现成肉肠、菜心、水；其他调味未明确。",
+        "quantities": "未给肉肠份量、菜心重量和煎烫时长。",
+        "steps": [
+          "菜心按画面切整齐，放入沸水中烫熟，捞出装盘。",
+          "把现成肉肠煎至表面上色，夹到菜心上一起上桌。"
+        ],
+        "missing": "肉肠的制作配方不在本片；用油量、是否另加盐或酱汁、火力和时间未说明。"
+      }
+    ],
+    "review_method": "已核对原片画面内字幕、4秒间隔全时段画面概览及关键细节；未采用不匹配或未取得的独立字幕文件。原片未明确的参数保留缺项。",
+    "review_method_en": "On-screen captions, visual overviews sampled every four seconds, and key details were reviewed. Mismatched or unavailable standalone subtitle files were not used. Missing source parameters remain explicit."
+  },
+  {
+    "bvid": "BV17Ujg6MEt7",
+    "reviewed_on": "2026-11-01",
+    "evidence": "核对全时段4秒概览、1秒画面内字幕及关键帧；记录两个砂锅3分钟计时、1只鸡腿、蛋液热水和粽子里的咸蛋。不把盖边液体或后续时间猜成固定参数。",
+    "pending_segments": [
+      "焗鱼与焗鸡在同一段设置3分钟计时，入锅先后不同，且后面还有开盖加菜、再盖加热；不能将3分钟写成两个菜完整且通用的总熟制时间。"
+    ],
+    "pending_segments_en": [
+      "Both clay pots share a three-minute timer in the clip, but they start at different moments and are reopened for greens before further covered heating. Three minutes is not documented as a complete, universal cooking time for either dish."
+    ],
+    "recipes": [
+      {
+        "name": "姜葱砂锅焗鱼",
+        "name_en": "Ginger and scallion fish in a clay pot",
+        "category": "鱼虾海鲜",
+        "kind": "dish",
+        "time_ranges": "00:00–00:16；00:45–00:52；01:19–01:40；01:57–02:05",
+        "ingredients": "切块鱼、盐、花生油、姜、葱、红葱头、蒜；收尾可见香菜和葱段。",
+        "quantities": "鱼只明确用盐和花生油拌味。两个砂锅同设3分钟计时；完整总加热时间未给。",
+        "steps": [
+          "鱼块用盐和花生油拌味。",
+          "砂锅放油，把姜葱等可见香料炒一下，鱼块铺上，加盖焗。",
+          "原片与鸡煲同时设置3分钟计时；随后开盖放香菜和葱段，再盖回继续加热。"
+        ],
+        "missing": "鱼种、鱼块大小、腌制时长、油量、火力、前后各阶段时长和中途倒入盘中液体的成分未说明。"
+      },
+      {
+        "name": "沙姜鸡腿啫啫煲",
+        "name_en": "Chicken thigh clay pot with sand ginger",
+        "category": "鸡鸭禽肉",
+        "kind": "dish",
+        "time_ranges": "00:16–00:39；01:19–01:40；02:26–02:32",
+        "ingredients": "鸡腿肉、蚝油、生抽、盐、油、糖、姜、蒜、沙姜、葱、红葱头；收尾有香菜和葱段。画面腌料中另有未明确名称的白色粉料。",
+        "quantities": "原片说用1只鸡腿肉；两个砂锅同设3分钟计时，其余用量和完整总时长未给。",
+        "steps": [
+          "鸡腿肉切块，用字幕列出的蚝油、生抽、盐、油、糖、姜和蒜拌味；画面还有白色粉料，名称未说明。",
+          "砂锅放油，炒姜葱、红葱头、蒜等，再加沙姜和鸡肉翻拌，加盖焗。",
+          "与鱼锅同时设置3分钟计时，之后开盖加香菜、葱段，再盖上。",
+          "原片沿鸡煲盖边淋少量液体后继续加热；字幕写作“8+1”，具体品种和量未说明。"
+        ],
+        "missing": "鸡腿重量、白色粉料名称、腌制时间、沙姜量、盖边液体品种、火力和后段加热时间未知。"
+      },
+      {
+        "name": "电饭锅同蒸鸡蛋羹",
+        "name_en": "Egg custard steamed in a rice cooker",
+        "category": "蛋豆蔬菜",
+        "kind": "dish",
+        "time_ranges": "00:52–01:18；02:10–02:15",
+        "ingredients": "鸡蛋、盐、热水；成品画面另淋深色调味汁，品种未标明。",
+        "quantities": "画面使用1只鸡蛋；蛋水比例、热水温度和蒸制时间未说明。",
+        "steps": [
+          "把鸡蛋打入碗中，加盐和热水，搅匀后按画面用勺处理表面泡沫。",
+          "打开已在工作的电饭锅，将蛋液碗放在米饭上方，盖回继续加热。",
+          "成形后取出，画面另淋少量深色调味汁。"
+        ],
+        "missing": "未说明电饭锅模式、放入蛋液时米饭所在阶段、后续加热时间、蛋水比例以及调味汁名称。"
+      },
+      {
+        "name": "咸蛋瘦肉生菜汤",
+        "name_en": "Salted egg lean pork and lettuce soup",
+        "category": "汤羹粥",
+        "kind": "dish",
+        "time_ranges": "00:39–00:45；01:46–01:56；02:06–02:10",
+        "ingredients": "从粽子里取出的咸蛋、瘦猪肉、生菜、姜、生粉、盐、花生油、热水。",
+        "quantities": "原片明确咸蛋来自粽子；其数量、肉量和水量未给。",
+        "steps": [
+          "瘦猪肉按字幕用生粉、姜、盐和花生油拌好。",
+          "将粽子里的咸蛋在锅中炒散，按画面加入热水煮开。",
+          "放生菜和拌好的瘦肉煮熟，盛成汤。"
+        ],
+        "missing": "咸蛋前处理、是否只用蛋黄、额外用油量、下肉后的煮制时间和是否另加盐未明确。"
+      },
+      {
+        "name": "寿司醋海苔拌饭",
+        "name_en": "Rice mixed with sushi vinegar and seaweed",
+        "category": "米饭面点",
+        "kind": "dish",
+        "time_ranges": "02:15–02:25",
+        "ingredients": "熟白米饭、寿司醋、海苔丝或碎海苔。",
+        "quantities": "只说拌一点寿司醋；米饭量、醋量和海苔量未给。",
+        "steps": [
+          "向煮好的白米饭加入少量寿司醋，拌匀并分到碗中。",
+          "按画面撒海苔，搭配本期鸡煲等菜食用。"
+        ],
+        "missing": "没有给额外糖盐、米水比例或饭的温度要求，不从其他视频补入。"
+      }
+    ],
+    "review_method": "已核对原片画面内字幕、4秒间隔全时段画面概览及关键细节；未采用不匹配或未取得的独立字幕文件。原片未明确的参数保留缺项。",
+    "review_method_en": "On-screen captions, visual overviews sampled every four seconds, and key details were reviewed. Mismatched or unavailable standalone subtitle files were not used. Missing source parameters remain explicit."
+  }
+]

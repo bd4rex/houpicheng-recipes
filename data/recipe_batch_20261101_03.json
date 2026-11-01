@@ -1,0 +1,220 @@
+[
+  {
+    "bvid": "BV1VwVB6YEeW",
+    "reviewed_on": "2026-11-01",
+    "evidence": "单独核对本条47段中文字幕、两张全时段4秒画面概览；确认前半段制作鱼罐头酸奶沙拉法棍，后半段以预冻瓶装冰制作奶咖，末段为砧板介绍。",
+    "pending_segments": [
+      "咖啡液或牛奶先冻成冰是口述可选做法，未另算现场制作的配方。",
+      "01:58以后为砧板使用感受介绍，不计菜谱。"
+    ],
+    "pending_segments_en": [
+      "Freezing coffee or milk first is only a spoken alternative and is not counted as another recipe made on screen.",
+      "After 01:58 the video discusses a chopping board; this is not recipe content."
+    ],
+    "recipes": [
+      {
+        "name": "酸奶罐头鱼鸡蛋沙拉法棍",
+        "name_en": "Baguette with canned fish egg and yogurt salad",
+        "category": "米饭面点",
+        "kind": "dish",
+        "time_ranges": "00:00–00:17；00:31–01:06；01:39–01:56",
+        "ingredients": "法棍、罐头鱼、鸡蛋、黄瓜、紫洋葱、无糖酸奶；画面另使用研磨调味料，具体品种未明确。",
+        "quantities": "法棍只说切薄一点；鱼、鸡蛋、酸奶和蔬菜用量及烘烤时间未给。",
+        "steps": [
+          "鸡蛋放水锅中煮，法棍切薄片，放多士炉加热。",
+          "罐头鱼倒出沥去液体，黄瓜、紫洋葱和部分熟鸡蛋切碎，与鱼肉放在碗中。",
+          "加入无糖酸奶及画面中的研磨调味料，拌匀。",
+          "把沙拉铺到烤过的法棍上；剩余鸡蛋切半摆在旁边。"
+        ],
+        "missing": "罐头鱼的确切鱼种、原罐浸液、调味料品种、煮蛋时间、多士炉档位以及各项比例未明确。"
+      },
+      {
+        "name": "瓶装冰块奶咖",
+        "name_en": "Milk coffee mixed in a bottle with pre-frozen ice",
+        "category": "甜品饮品",
+        "kind": "dish",
+        "time_ranges": "01:07–01:39",
+        "ingredients": "预先在瓶中冻好的矿泉水冰块、咖啡、牛奶。",
+        "quantities": "原标题提到半瓶矿泉水冻冰；加料时口述提醒留一点空间，没有给毫升数或咖啡奶比例。",
+        "steps": [
+          "取出原片预先冻好冰块的矿泉水瓶。",
+          "按画面向瓶内加入咖啡，再倒入牛奶，留出空间。",
+          "盖紧后摇匀，作为早餐饮品。"
+        ],
+        "missing": "冷冻时长、瓶材适用条件、咖啡形态及浓度、咖啡和奶用量未说明；咖啡或牛奶直接冷冻仅作为原片口述的可选方案。"
+      }
+    ]
+  },
+  {
+    "bvid": "BV1EB5x6VEah",
+    "reviewed_on": "2026-11-01",
+    "review_method": "已核对原片内嵌字幕、4秒间隔全时段画面概览及必要细节；独立字幕文件未取得，未据此补写参数。",
+    "review_method_en": "On-screen captions, four-second visual sampling across the video and necessary details were checked. A standalone subtitle file was unavailable; missing parameters were not filled in.",
+    "evidence": "本条单独读取全时段概览和1秒取样的原片内嵌字幕，核对牛排、三文鱼拌饭、杂蔬和南瓜酒酿；未读取下一条视频材料。",
+    "pending_segments": [
+      "牛排价格、折扣和原片对不同肉色的口述不作为菜谱用量或固定熟度参数。"
+    ],
+    "pending_segments_en": [
+      "Steak prices, discounts and spoken descriptions of different meat colors are not treated as ingredient quantities or fixed doneness parameters."
+    ],
+    "recipes": [
+      {
+        "name": "蒜瓣香煎牛排",
+        "name_en": "Pan-seared steak with garlic cloves",
+        "category": "牛羊肉",
+        "kind": "dish",
+        "time_ranges": "00:00–00:10；00:18–00:34；01:11–01:35",
+        "ingredients": "牛排、蒜瓣；牛排是否预先调味及煎锅用油量未明确。",
+        "quantities": "画面同时煎两块大小不同的牛排；没有给重量、厚度、各面煎制时间。",
+        "steps": [
+          "牛排放平底锅中煎，加入蒜瓣。",
+          "翻面继续煎，随后取出放在板上，盖上锅盖暂放。",
+          "切成片后上桌，蒜瓣一同保留。"
+        ],
+        "missing": "牛排部位、完整调味、火力、煎制时间、中心温度和盖住暂放的时长未给。"
+      },
+      {
+        "name": "三文鱼生菜胡萝卜拌饭",
+        "name_en": "Rice with salmon lettuce and carrot",
+        "category": "米饭面点",
+        "kind": "dish",
+        "time_ranges": "00:11–00:18；00:35–01:10；02:06–02:17",
+        "ingredients": "三文鱼、紫洋葱、随饭蒸好的胡萝卜碎、生菜、熟米饭、黑胡椒盐、少量油。米饭混入的深色谷物未明确。",
+        "quantities": "油只说一点点，鱼和米饭重量、蔬菜比例未给。",
+        "steps": [
+          "取出随米饭同蒸的胡萝卜碎备用。",
+          "三文鱼切小块，与紫洋葱碎下锅煎炒。",
+          "将煎好的鱼和洋葱倒入熟米饭，加入胡萝卜碎和生菜碎。",
+          "加原片说明的配套黑胡椒盐及少量油，拌匀后盛盘。"
+        ],
+        "missing": "米饭谷物组成、胡萝卜蒸制时长、三文鱼煎制时间、黑胡椒盐用量和拌饭后是否继续加热未说明。"
+      },
+      {
+        "name": "黑胡椒盐拌花菜木耳胡萝卜",
+        "name_en": "Cauliflower wood-ear mushroom and carrot with pepper salt",
+        "category": "蛋豆蔬菜",
+        "kind": "dish",
+        "time_ranges": "00:18–00:40；01:35–01:46",
+        "ingredients": "花菜、木耳、胡萝卜、水、黑胡椒盐、喷入的食用油。",
+        "quantities": "没有给蔬菜和木耳重量、烫煮时间、盐或油量。",
+        "steps": [
+          "将画面中的花菜、木耳和胡萝卜在水锅中烫煮，捞出装盘。",
+          "把剩余黑胡椒盐撒入菜中，再喷油，拌匀。"
+        ],
+        "missing": "木耳泡发处理、各项下锅先后和具体烫煮时长、食用油品种未交代。"
+      },
+      {
+        "name": "蒸南瓜拌酒酿",
+        "name_en": "Steamed pumpkin with fermented sweet rice",
+        "category": "甜品饮品",
+        "kind": "dish",
+        "time_ranges": "00:11–00:18；01:47–02:05",
+        "ingredients": "南瓜、酒酿。",
+        "quantities": "酒酿只说放一点，南瓜重量、酒酿比例和蒸制时长未给。",
+        "steps": [
+          "取出煮饭时同蒸好的南瓜。",
+          "往南瓜中加入少量酒酿，再舀出南瓜和酒酿到小碗中拌合食用。"
+        ],
+        "missing": "南瓜切配过程、米饭烹饪模式、蒸制时间、酒酿品种及是否另加糖未说明。"
+      }
+    ]
+  },
+  {
+    "bvid": "BV1DsPmzLEhQ",
+    "reviewed_on": "2026-11-01",
+    "review_method": "已核对原片画面内嵌字幕及制作段关键画面；后段购物和粉丝寄送内容按字幕区分，不计入菜谱。缺少的参数保持未知。",
+    "review_method_en": "On-screen captions and cooking-segment visuals were checked. Later shopping and fan-parcel discussion was identified from the captions and excluded from recipes. Missing parameters remain unknown.",
+    "evidence": "单独读取本条1秒字幕取样和前两张4秒画面概览，确认蔬菜先烫后拌、红葱头为此前炸好，另有黄油煎面包、鸡蛋和牛油果组合。02:08后是购物和粉丝寄送话题，不抽取寄送名单。",
+    "pending_segments": [
+      "开头关于饮食顺序和血糖的个人经验仅属于原片话题，不作为本条菜谱的功效结论。",
+      "随餐饮品冲泡片段较短，全部用料未确认，不单独列配方。",
+      "02:08后的购物、蔬果价格和粉丝寄送话题不计菜谱。"
+    ],
+    "pending_segments_en": [
+      "Personal remarks about eating order and blood sugar are source commentary, not efficacy conclusions for these recipes.",
+      "The accompanying drink is prepared in a brief segment whose complete ingredients are not confirmed, so it is not listed separately.",
+      "Shopping, produce prices and fan-parcel discussion after 02:08 are not recipe content."
+    ],
+    "recipes": [
+      {
+        "name": "红葱蒜香拌芹菜包菜洋葱",
+        "name_en": "Celery cabbage and onion with fried shallots and garlic",
+        "category": "蛋豆蔬菜",
+        "kind": "dish",
+        "time_ranges": "00:00–00:59",
+        "ingredients": "芹菜、包菜、洋葱、干红辣椒、此前炸好的红葱头、蒜、生抽、醋、水。",
+        "quantities": "生抽和醋只说一点，三种蔬菜和配料的重量、烫煮时长未给。",
+        "steps": [
+          "将芹菜、包菜和洋葱放入水锅中烫煮，捞出放碗中。",
+          "干红辣椒掰开，和此前炸好的红葱头、蒜一起在锅中炒香。",
+          "把炒香的配料放入蔬菜，加入少量生抽和醋，拌匀。"
+        ],
+        "missing": "三种蔬菜的比例、红葱头原先炸制的方法、炒香时的油量、醋的品种、火候和各阶段时间未明确。"
+      },
+      {
+        "name": "黄油煎面包配牛油果煎蛋",
+        "name_en": "Butter-toasted bread with avocado and fried eggs",
+        "category": "米饭面点",
+        "kind": "dish",
+        "time_ranges": "01:00–01:39；01:44–02:07",
+        "ingredients": "面包、黄油、鸡蛋、牛油果；装盘配小番茄和画面中的莓果。",
+        "quantities": "画面煎2只鸡蛋，成品说是两人份；黄油量、牛油果量和煎制时长未给。",
+        "steps": [
+          "面包放入平底锅复热，翻面后加入少量黄油继续煎。",
+          "同锅打入两只鸡蛋，加盖加热，原片说明这样可以保持蛋表面的样子。",
+          "牛油果捣碎，铺在煎好的面包上，再放煎蛋。",
+          "分成两份，配小番茄和莓果装盘。"
+        ],
+        "missing": "面包的具体品种与厚度、是否提前解冻、煎锅火力、鸡蛋加热时长、牛油果是否另调味及莓果品种未说明。"
+      }
+    ]
+  },
+  {
+    "bvid": "BV1qpZxB2E9h",
+    "reviewed_on": "2026-11-01",
+    "review_method": "已逐条核对原片内嵌字幕、全时段4秒画面概览及必要细节；没有取得独立字幕文件，未用常见年夜饭配方补齐缺项。",
+    "review_method_en": "On-screen captions, four-second visual sampling across this video and necessary details were reviewed. No standalone subtitle file was obtained, and missing details were not filled from generic festive recipes.",
+    "evidence": "单独核对107秒视频的画面与内嵌字幕，确认盆菜层次及3盅西洋菜陈肾瘦肉汤；只摆盘的烧味、白切鸡、罗汉斋、生菜和饭不计新配方。",
+    "pending_segments": [
+      "00:43–01:21主要展示烧肉、烧鹅、白切鸡、罗汉斋、生菜、米饭及姜葱配料等成品，没有展示其制作过程，不单独计菜谱。",
+      "字幕中的吉祥祝语和汤品适合人群描述不作为营养或健康结论。"
+    ],
+    "pending_segments_en": [
+      "At 00:43–01:21 roast pork/goose, poached chicken, vegetarian vegetables, lettuce, rice and ginger-scallion accompaniments are mostly presented already made. Their preparation is not shown, so they are not counted separately.",
+      "Festive wishes and claims about suitable soup consumers are not treated as nutrition or health conclusions."
+    ],
+    "recipes": [
+      {
+        "name": "萝卜海鲜鲍汁盆菜",
+        "name_en": "Radish seafood and abalone-sauce clay-pot feast",
+        "category": "鱼虾海鲜",
+        "kind": "dish",
+        "time_ranges": "00:00–00:43",
+        "ingredients": "白萝卜、发菜鱼滑、海参、虾、鲍鱼、鲍汁、西兰花。",
+        "quantities": "白萝卜切圆片铺底，未给重量、配料比例、鲍汁量和总煮制时长。",
+        "steps": [
+          "白萝卜圆片铺在砂锅底部。",
+          "把已拌好的发菜鱼滑分成小团放入，再放海参、虾和鲍鱼。",
+          "淋入鲍汁，加盖加热；原片另倒入一小碗液体，成分未说明。",
+          "最后加入已处理好的西兰花，继续加热后整锅上桌。"
+        ],
+        "missing": "发菜鱼滑配比、海参泡发、鲍鱼是否预熟、鲍汁制作方法、后加液体成分、西兰花预处理以及火力和总时间未交代。"
+      },
+      {
+        "name": "西洋菜陈肾瘦肉炖汤",
+        "name_en": "Watercress soup with dried gizzard and lean pork",
+        "category": "汤羹粥",
+        "kind": "dish",
+        "time_ranges": "01:22–01:44",
+        "ingredients": "西洋菜、陈肾、南北杏、蜜枣、瘦肉、姜、陈皮、水；陈肾名称按字幕记录。",
+        "quantities": "画面分成3个炖盅；各盅肉量、配料数量、水量、炖制时间未给。",
+        "steps": [
+          "西洋菜分放炖盅，加入陈肾、南北杏和蜜枣。",
+          "按画面把瘦肉搅碎，分成肉团放入各盅，再加姜和陈皮。",
+          "炖盅盖好后放入电炖锅隔水炖；加水的完整过程、模式及设定时间未展示。"
+        ],
+        "missing": "陈肾具体品种及浸洗、南北杏比例、是否另加盐、盅内外水量、电炖锅模式和炖煮时长未明确。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "BV1VwVB6YEeW": [
+    {
+      "ingredients": "Baguette, canned fish, eggs, cucumber, red onion and unsweetened yogurt. A ground seasoning is also used but is not identified.",
+      "quantities": "The baguette is cut relatively thin; ingredient quantities and toasting time are not stated.",
+      "steps": [
+        "Boil the eggs and heat thin baguette slices in a toaster.",
+        "Drain the canned fish. Chop cucumber, red onion and some cooked egg and combine them with the fish.",
+        "Mix in unsweetened yogurt and the ground seasoning shown on screen.",
+        "Spread the salad over the toasted baguette and serve the remaining halved egg alongside."
+      ],
+      "missing": "Fish species, canning liquid, seasoning identity, egg-boiling time, toaster setting and all ratios are unspecified."
+    },
+    {
+      "ingredients": "Mineral-water ice already frozen inside a bottle, coffee and milk.",
+      "quantities": "The title mentions freezing half a bottle of water. The creator says to leave some space when adding ingredients, without giving volumes or ratios.",
+      "steps": [
+        "Take the bottle containing the pre-frozen mineral-water ice shown in the source.",
+        "Add coffee and then milk as demonstrated, leaving some room.",
+        "Close the bottle and shake to mix for breakfast."
+      ],
+      "missing": "Freezing time, container suitability, coffee form and strength, and coffee/milk quantities are not stated. Freezing coffee or milk directly is only a spoken alternative."
+    }
+  ],
+  "BV1EB5x6VEah": [
+    {
+      "ingredients": "Steaks and garlic cloves; any prior steak seasoning and the oil used for searing are unspecified.",
+      "quantities": "Two differently sized steaks are shown. Weights, thicknesses and cooking times per side are absent.",
+      "steps": [
+        "Put the steaks in a frying pan and add garlic cloves.",
+        "Turn and cook the other sides, transfer to a board and briefly cover with a pan lid.",
+        "Slice and serve with the garlic cloves."
+      ],
+      "missing": "Cut, full seasoning, heat, searing time, internal temperature and covered resting duration are not given."
+    },
+    {
+      "ingredients": "Salmon, red onion, chopped carrot steamed above the rice, lettuce, cooked rice, black-pepper salt and a little oil. The dark grains in the rice are not identified.",
+      "quantities": "Only a little oil is specified. Fish/rice weights and vegetable ratios are absent.",
+      "steps": [
+        "Remove the chopped carrot that was steamed with the rice.",
+        "Pan-cook small salmon pieces with chopped red onion.",
+        "Add the cooked fish and onion to the rice with the carrot and chopped lettuce.",
+        "Add the supplied pepper salt identified in the captions and a little oil, mix and plate."
+      ],
+      "missing": "Rice grain composition, carrot steaming time, salmon cooking time, pepper-salt amount and any further heating after mixing are unspecified."
+    },
+    {
+      "ingredients": "Cauliflower, wood-ear mushrooms, carrot, water, black-pepper salt and sprayed cooking oil.",
+      "quantities": "Vegetable and mushroom weights, blanching duration and seasoning/oil quantities are absent.",
+      "steps": [
+        "Cook the visible cauliflower, wood-ear mushrooms and carrot in a pot of water, then drain and plate.",
+        "Add the remaining pepper salt, spray with oil and mix."
+      ],
+      "missing": "Mushroom soaking/preparation, ingredient order, cooking times and oil type are not described."
+    },
+    {
+      "ingredients": "Pumpkin and fermented sweet rice.",
+      "quantities": "Only a little fermented rice is mentioned. Pumpkin weight, ratio and steaming duration are not stated.",
+      "steps": [
+        "Take out the pumpkin steamed while the rice cooked.",
+        "Add a little fermented sweet rice, then spoon pumpkin and fermented rice into a small bowl and mix."
+      ],
+      "missing": "Pumpkin preparation, rice-cooker mode, steaming duration, fermented-rice type and any added sugar are unspecified."
+    }
+  ],
+  "BV1DsPmzLEhQ": [
+    {
+      "ingredients": "Celery, cabbage, onion, dried red chili, previously fried shallots, garlic, light soy sauce, vinegar and water.",
+      "quantities": "Only a little soy sauce and vinegar is mentioned. Vegetable/seasoning weights and blanching time are absent.",
+      "steps": [
+        "Cook the celery, cabbage and onion in water, drain and place in a bowl.",
+        "Break the dried chili open and cook it with the previously fried shallots and garlic until fragrant.",
+        "Add the aromatic mixture to the vegetables, then mix in a little light soy sauce and vinegar."
+      ],
+      "missing": "Vegetable proportions, the earlier shallot-frying method, oil quantity, vinegar type, heat and stage timings are unspecified."
+    },
+    {
+      "ingredients": "Bread, butter, eggs and avocado, served with small tomatoes and the berries visible on screen.",
+      "quantities": "Two eggs are shown and the finished breakfast is described as two portions. Butter, avocado and cooking time are not quantified.",
+      "steps": [
+        "Warm the bread in a frying pan, turn it and add a little butter to continue toasting.",
+        "Crack two eggs into the same pan and cover to cook; the creator says this preserves their surface appearance.",
+        "Mash avocado, spread it on the toasted bread and top with the fried eggs.",
+        "Divide into two portions and plate with small tomatoes and berries."
+      ],
+      "missing": "Bread type and thickness, prior thawing, pan heat, egg cooking time, any additional avocado seasoning and berry variety are unspecified."
+    }
+  ],
+  "BV1qpZxB2E9h": [
+    {
+      "ingredients": "White radish, fish paste mixed with fat choi, sea cucumber, shrimp, abalone, abalone sauce and broccoli.",
+      "quantities": "Round radish slices form the base. Weights, ratios, sauce quantity and total cooking time are not given.",
+      "steps": [
+        "Line the clay pot with round slices of white radish.",
+        "Add small portions of the prepared fat-choi fish paste, followed by sea cucumber, shrimp and abalone.",
+        "Pour over abalone sauce and heat covered. Another small bowl of liquid is added without identifying its contents.",
+        "Add the pre-prepared broccoli near the end, continue heating and serve in the pot."
+      ],
+      "missing": "Fish-paste ratio, sea-cucumber soaking, whether abalone is pre-cooked, sauce recipe, additional liquid, broccoli preparation, heat and total duration are unspecified."
+    },
+    {
+      "ingredients": "Watercress, chen shen (dried gizzard, retaining the source term), southern/northern apricot kernels, candied dates, lean pork, ginger, dried tangerine peel and water.",
+      "quantities": "Three individual soup pots are shown. Per-pot meat, other quantities, water and cooking time are not given.",
+      "steps": [
+        "Divide watercress among the pots and add dried gizzard, apricot kernels and candied dates.",
+        "Mince the lean pork as shown, divide it into portions for the pots, then add ginger and dried tangerine peel.",
+        "Cover the pots and cook them in the electric water-bath stewing appliance. The complete water-adding process, mode and time setting are not shown."
+      ],
+      "missing": "Gizzard type and soaking/cleaning, kernel ratio, any extra salt, water inside and outside the pots, appliance mode and stewing duration are unspecified."
+    }
+  ]
+}
