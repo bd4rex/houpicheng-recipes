@@ -170,5 +170,11 @@
   "new_preparations": 0,
   "new_exclusions": 1,
   "completed_at": "2026-11-01T22:36:20+08:00",
-  "publication_status": "Saved locally; no commit or push performed."
+  "publication_status": "Published to origin/main; content commit verified against remote.",
+  "publication": {
+    "content_commit": "2fca14045f7f9ab4b9e03206ae522b9c6f56f8eb",
+    "branch": "main",
+    "verified_at": "2026-11-02T00:22:51+08:00",
+    "repository": "https://github.com/bd4rex/houpicheng-recipes"
+  }
 }

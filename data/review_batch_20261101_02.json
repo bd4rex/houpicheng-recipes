@@ -110,12 +110,18 @@
   },
   "next_priority_bvid": "BV1VwVB6YEeW",
   "raw_materials_directory": "../厚皮橙菜谱整理_20261031",
-  "publication_status": "Saved locally; no Git commit or remote push performed in this batch.",
+  "publication_status": "Published to origin/main; content commit verified against remote.",
   "validation": {
     "registry_entries": 198,
     "markdown_files": 132,
     "broken_links": 0,
     "new_recipe_time_ranges": "passed",
     "bilingual_step_counts": "matched"
+  },
+  "publication": {
+    "content_commit": "2fca14045f7f9ab4b9e03206ae522b9c6f56f8eb",
+    "branch": "main",
+    "verified_at": "2026-11-02T00:22:51+08:00",
+    "repository": "https://github.com/bd4rex/houpicheng-recipes"
   }
 }

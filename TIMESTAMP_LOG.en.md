@@ -92,3 +92,10 @@
 - Checked this video's BV ID, CID, evidence hashes, time ranges, paired step counts and page anchors. Saved locally without a Git commit or push.
 
 - 22:36 All five videos in this batch have been saved individually: four cooking videos, 10 recipes and one cleaning-video exclusion. Verified five source hashes/durations, 208 registry entries and local links in 140 Markdown files, with no broken links. Next priority video: `BV16ucMzGE1C`.
+
+## 2026-11-02 00:22 Publish two reviewed batches to GitHub
+
+- Published batches `20261101_02` and `20261101_03` to `main` in `https://github.com/bd4rex/houpicheng-recipes`.
+- Content commit `2fca14045f7f9ab4b9e03206ae522b9c6f56f8eb` was pushed successfully. A live remote-head check matches the local commit, covering 190 tracked files.
+- Added eight reviewed cooking videos and 25 recipes, with two non-cooking exclusions. Totals are 63 reviewed videos, 198 recipes, 10 preparation methods and 1,155 videos awaiting review.
+- Original videos, complete subtitles and browser-session material remain in the local source directory. This publication confirmation was added after the content push succeeded.
