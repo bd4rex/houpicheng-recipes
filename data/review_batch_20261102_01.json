@@ -173,5 +173,11 @@
     "publishable_files_checked": 35
   },
   "completed_at": "2026-11-02T02:46:18+08:00",
-  "publication_status": "Validated locally; ready to publish."
+  "publication_status": "Published to origin/main; content commit verified against remote.",
+  "publication": {
+    "content_commit": "98f3c3281cd375dd90d7b1621be7a09463078e3f",
+    "branch": "main",
+    "verified_at": "2026-11-02T02:53:06+08:00",
+    "repository": "https://github.com/bd4rex/houpicheng-recipes"
+  }
 }

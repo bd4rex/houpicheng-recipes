@@ -137,3 +137,5 @@
 - Synchronized both languages, recipes, indexes, exclusions and progress. This batch will be published after final validation.
 
 - 02:46 Validated the five source CIDs, file hashes and actual durations, 216 recipe/preparation registry entries and local links in 148 Markdown files. New paired step counts and time ranges match, with no broken links.
+
+- 2026-11-02 02:53 Batch content commit `98f3c3281cd375dd90d7b1621be7a09463078e3f` was pushed to `origin/main`. A live remote-head check matches the local commit, covering 201 tracked files. This confirmation was added after successful publication.
