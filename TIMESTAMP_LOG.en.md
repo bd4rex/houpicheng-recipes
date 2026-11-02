@@ -139,3 +139,9 @@
 - 02:46 Validated the five source CIDs, file hashes and actual durations, 216 recipe/preparation registry entries and local links in 148 Markdown files. New paired step counts and time ranges match, with no broken links.
 
 - 2026-11-02 02:53 Batch content commit `98f3c3281cd375dd90d7b1621be7a09463078e3f` was pushed to `origin/main`. A live remote-head check matches the local commit, covering 201 tracked files. This confirmation was added after successful publication.
+
+## 2026-11-02 17:35 Make the repository public
+
+- As requested, changed the visibility of `https://github.com/bd4rex/houpicheng-recipes` from `private` to `public`.
+- Both GitHub CLI and the connector confirm `visibility=public`. Unauthenticated requests to the repository page and raw README return HTTP 200.
+- The prior `main` baseline was `2d1eb901e7d1acd3a837a633d7f825982a46c2ae`, matching the local and remote heads. This record was written after the visibility change and public-access verification succeeded.
